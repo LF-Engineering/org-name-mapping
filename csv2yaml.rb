@@ -1,11 +1,19 @@
 #!/usr/bin/env ruby
 
 require 'csv'
+require 'yaml'
+require './mgetc'
 require 'pry'
 
-def convert(fn)
+def convert(csvfn, ymlfn, outfn)
+  data = YAML.load_file(ymlfn)
+  existing = {}
+  data['mappings'].each do |row|
+    existing[row[1]] = row[0]
+    #existing[row[1]] = row[0].gsub('\\\\', '\\')
+  end
   map = {}
-  CSV.foreach(fn, headers: true) do |row|
+  CSV.foreach(csvfn, headers: true) do |row|
     h = row.to_h
     n = h['SFDC NAME']
     next if n.nil? || n == ''
@@ -16,6 +24,7 @@ def convert(fn)
     map[n] << dn
   end
   unknowns = {}
+  lines = {}
   map.each do |n, names|
     names = names.sort.uniq
     re = '^[[:space:]]*'
@@ -32,7 +41,7 @@ def convert(fn)
         elsif [' ', "\t"].include?(r)
           re += '[[:space:]]*'
         elsif ['|', '(', '.', '*', '['].include?(r)
-          re += '\\' + r + '?'
+          re += '\\\\' + r + '?'
         else
           unknowns[r] = 0 unless unknowns.key?(r)
           unknowns[r] += 1
@@ -42,14 +51,38 @@ def convert(fn)
     end
     re += ')' if l > 1
     re += '[[:space:]]*$'
-    puts "  ['" + re + "'], '" + n + "']"
+    if existing.key?(n)
+      if existing[n] == re
+        puts "Exact mapping already present in YAML: " + re
+      else
+        puts "Collision for " + n + ", choose:"
+        puts "(E)xisting: " + existing[n]
+        puts "(N)ew:      " + re
+        print "> "
+        answer = mgetc.downcase
+        puts ''
+        return if answer == 'q'
+        re = existing[n] if answer == 'e'
+      end
+    end
+    lines[n] = "  - ['" + re + "', '" + n + "']"
+  end
+  existing.each do |n, re|
+    unless map.key?(n)
+      lines[n] = "  - ['" + re + "', '" + n + "']"
+    end
   end
   binding.pry if unknowns.length > 0
+  File.open(outfn, "w") do |f|
+    f.puts("---")
+    f.puts("mappings:")
+    lines.keys.sort.each { |key| f.puts(lines[key]) }
+  end
 end
 
-if ARGV.size < 1
-  puts "Missing arguments: export.csv"
+if ARGV.size < 3
+  puts "Missing arguments: export.csv mapping.yaml new_mapping.yaml"
   exit(1)
 end
 
-convert(ARGV[0])
+convert(ARGV[0], ARGV[1], ARGV[2])
