@@ -1,4 +1,5 @@
 ---
+# regexp format: mysql
 mappings:
   - ['^[[:space:]]*1&?1[[:space:]]*mail[[:space:]]*&?[[:space:]]*media[[:space:]]*development[[:space:]]*&?[[:space:]]*technology[[:space:]]*$', '1&1 Mail&Media Development & Technology GmbH']
   - ['^[[:space:]]*6[[:space:]]*wind[[:space:]]*$', '6WIND S.A.']
@@ -222,7 +223,6 @@ mappings:
   - ['^[[:space:]]*oracle[[:space:]]*$', 'Oracle America Inc.']
   - ['^[[:space:]]*(orange|orange[[:space:]]+(business|services|business[[:space:]]+services|romania|slovensko|sa|romania[[:space:]]+sa))[[:space:]]*$', 'Orange S.A.']
   - ['^[[:space:]]*oregon[[:space:]]*state[[:space:]]*network[[:space:]]*enginerring[[:space:]]*$', 'Oregon State University']
-  - ['^[[:space:]]*(pantheon|pantheon[[:space:].]+(tech[[:space:].]+s\\.?r\\.?o\\.?|technologies|platform))[[:space:]]*$', 'PANTHEON.tech']
   - ['^[[:space:]]*pagero[[:space:]]*$', 'Pagero AB']
   - ['^[[:space:]]*palantir[[:space:]]*$', 'Palantir Technologies']
   - ['^[[:space:]]*palo[[:space:]]*alto[[:space:]]*network[[:space:]]*$', 'Palo Alto Networks']

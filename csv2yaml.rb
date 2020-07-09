@@ -75,9 +75,11 @@ def convert(csvfn, ymlfn, outfn)
   binding.pry if unknowns.length > 0
   File.open(outfn, "w") do |f|
     f.puts("---")
+    f.puts("# regexp format: mysql")
     f.puts("mappings:")
     lines.keys.sort.each { |key| f.puts(lines[key]) }
   end
+  puts "Please check manually those cases (case insensitive): nokia, orange, red hat, pantheon"
 end
 
 if ARGV.size < 3
