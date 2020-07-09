@@ -3371,7 +3371,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 36729,Delivery Hero Holding,,TRUE
 27058,Dell,,TRUE
 26810,Dell EMC,Dell EMC,FALSE
-38314,Dell Inc.,,FALSE
+38314,Dell Inc.,Dell Inc.,FALSE
 31861,Dell KACE,,TRUE
 28916,Dell SonicWALL,,TRUE
 28130,Deloitte,,TRUE
@@ -3498,7 +3498,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 26679,Dialog Semiconductor,,TRUE
 38557,Dialogic Inc.,Dialogic Inc.,FALSE
 32750,Dialogue,,TRUE
-28813,Diamanti,,FALSE
+28813,Diamanti,Diamanti,FALSE
 26369,Diamond Light Source,,TRUE
 32466,Diamond Resorts,,TRUE
 36504,dianom,,TRUE
@@ -3914,7 +3914,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39927,Effective Machines,,TRUE
 40552,Effectv,,TRUE
 33232,EfficientIP,EfficientIP,FALSE
-28306,EfficiOS,,FALSE
+28306,EfficiOS,EfficiOS,FALSE
 39757,Efftronics Systems Pvt. Ltd,,TRUE
 37842,EFI,EFI,FALSE
 32267,Eficode,,TRUE
@@ -4684,7 +4684,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33501,FORCE LLC,,TRUE
 38251,Force10 Networks,Force10 Networks,FALSE
 37259,force10networks,Force10 Networks,TRUE
-37309,Forcepoint,,FALSE
+37309,Forcepoint,Forcepoint,FALSE
 38324,Ford Motor Company,Ford Motor Company,FALSE
 30325,Forecastmmunications,,TRUE
 40690,Forefront Consulting,,TRUE
@@ -4936,7 +4936,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29373,GDP Labs,,TRUE
 30184,GDS,,TRUE
 27823,GE,GE,FALSE
-32891,GE Digital,,FALSE
+32891,GE Digital,GE Digital,FALSE
 33899,GE Global Research,,TRUE
 34536,GE Grid,,TRUE
 28346,GE Grid Solutions,,TRUE
@@ -5208,7 +5208,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 34475,Graphcore,,TRUE
 37559,Graphmasters,Graphmasters,FALSE
 26653,Grass Valley,Grass Valley,FALSE
-26503,Gratafy,,FALSE
+26503,Gratafy,Gratafy,FALSE
 28630,Gravitational,,TRUE
 31415,Graylog,,TRUE
 29538,Grazitti Interactive,,TRUE
@@ -6019,7 +6019,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 32439,Infraly,,TRUE
 33872,Infusion,Infusion,FALSE
 28521,ING,ING,FALSE
-34085,ING Bank,,FALSE
+34085,ING Bank,ING Bank,FALSE
 30103,ING Bank Slaski,,TRUE
 29791,ING Nederlande,,TRUE
 34084,ing.com,,TRUE
@@ -7159,7 +7159,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 27991,Linagora,,TRUE
 27388,Linaro,Linaro Limited,TRUE
 38377,Linaro Limited,Linaro Limited,FALSE
-26671,LINBIT,,FALSE
+26671,LINBIT,LINBIT,FALSE
 39717,LINBIT HA-Solutions,,TRUE
 38149,Linc,,TRUE
 40065,Lind Capital,,TRUE
@@ -7183,7 +7183,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29510,Linkedln,LinkedIn Corporation,TRUE
 34974,Linker,Linker Networks,TRUE
 29040,Linker Networks,Linker Networks,FALSE
-28423,LINKIT,,FALSE
+28423,LINKIT,LINKIT,FALSE
 35309,Linklaters,,TRUE
 35992,linkoping University,linkoping University,FALSE
 31591,Linn Products,,TRUE
@@ -9062,7 +9062,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33275,Optoskand AB Mölndal,,TRUE
 31176,Optum,,TRUE
 32070,Optus,,TRUE
-40856,Opus Agency,,FALSE
+40856,Opus Agency,Opus Agency,FALSE
 27456,Oracle,Oracle America Inc.,TRUE
 39354,Oracle America Inc.,Oracle America Inc.,FALSE
 31674,Oracle India Pvt,,TRUE
@@ -9086,8 +9086,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 31881,OrderMe,,TRUE
 34927,Ordina,,TRUE
 39087,Øredev,,TRUE
-34040,Oregon State Network Enginerring,,TRUE
-35925,Oregon State University,,FALSE
+34040,Oregon State Network Enginerring,Oregon State University,TRUE
+35925,Oregon State University,Oregon State University,FALSE
 38220,ORG Informatics,,TRUE
 39191,Orga,,TRUE
 38319,Ori,,TRUE
@@ -9102,7 +9102,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33419,Orion Web Technologies,,TRUE
 32967,Orkfia,,TRUE
 27794,OrlyAtomics,,TRUE
-38325,Ormuco,,FALSE
+38325,Ormuco,Ormuco,FALSE
 31698,Oro,,TRUE
 26795,ORSoC,,TRUE
 40206,Orta Doğu,,TRUE
@@ -9115,26 +9115,26 @@ DA ID,DA Name,SFDC NAME,Calculated
 37477,OSDC.TW,,TRUE
 35980,OSDL,,TRUE
 27571,OSDN,,TRUE
-31795,OSIsoft,,FALSE
+31795,OSIsoft,OSIsoft,FALSE
 34630,Osmotex,,TRUE
 39126,OSN,,TRUE
-31436,OSNEXUS,,FALSE
-27333,Osones,,FALSE
+31436,OSNEXUS,OSNEXUS,FALSE
+27333,Osones,Osones,FALSE
 28295,OSR Enterprises,,TRUE
-34419,OSS,,TRUE
-26826,OSS Capital,,FALSE
+34419,OSS,OSS Capital,TRUE
+26826,OSS Capital,OSS Capital,FALSE
 38799,OSSera,,TRUE
 36627,OST,,TRUE
 29681,OSTC,,TRUE
 39591,Österreichische Staatsdruckerei,,TRUE
 32285,OTAKU DEV,,TRUE
 37611,OTE Group of Companies,,TRUE
-33680,Oteemo,,FALSE
+33680,Oteemo,Oteemo,FALSE
 38765,Otelia,,TRUE
 36643,Other World Computing,,TRUE
 26292,Oticon,,TRUE
 28470,Oticon A/S aka. Demant,,TRUE
-30704,OTOKAR,,FALSE
+30704,OTOKAR,OTOKAR,FALSE
 32339,Otomato,,TRUE
 40471,Otono,,TRUE
 30602,Otono Networks,,TRUE
@@ -9157,7 +9157,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33821,Outlook.com,,TRUE
 27762,Outpost Embedded,,TRUE
 27436,Outreachy,,TRUE
-34496,Outscale,,FALSE
+34496,Outscale,Outscale,FALSE
 32186,Outwide,,TRUE
 30661,Oval Money,,TRUE
 29301,OVB Allfinanz España,,TRUE
@@ -9204,10 +9204,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 27372,PA Semi Corporation,,TRUE
 33311,Pable,,TRUE
 36032,Pace,,TRUE
-28991,pachyderm,,FALSE
+28991,pachyderm,pachyderm,FALSE
 38427,Pacific Broadband Communications,,TRUE
 38065,Pacific Life,,TRUE
-26988,Pacific Northwest National Laboratory,,FALSE
+26988,Pacific Northwest National Laboratory,Pacific Northwest National Laboratory,FALSE
 37334,Pacific Online,,TRUE
 31868,Pack,,TRUE
 30949,Packet,,TRUE
@@ -9219,25 +9219,25 @@ DA ID,DA Name,SFDC NAME,Calculated
 33623,Packt Publishing,,TRUE
 37626,PageDNA,,TRUE
 32656,Pager,,TRUE
-27536,PagerDuty,,FALSE
-30480,Pagero,,TRUE
-27671,Pagero AB,,FALSE
+27536,PagerDuty,PagerDuty,FALSE
+30480,Pagero,Pagero AB,TRUE
+27671,Pagero AB,Pagero AB,FALSE
 32404,PageUp,,TRUE
-35118,pair,,TRUE
-27233,pair Networks,,FALSE
+35118,pair,pair Networks,TRUE
+27233,pair Networks,pair Networks,FALSE
 40579,PAKO Technologies Pvt Ltd.,,TRUE
 31005,Pakurity,,TRUE
 30957,Pal Alto,,TRUE
-29269,Palantir,,TRUE
-26148,Palantir Technologies,,FALSE
+29269,Palantir,Palantir Technologies,TRUE
+26148,Palantir Technologies,Palantir Technologies,FALSE
 35779,Pall,,TRUE
 39899,"Pallet Technologies, Inc.",,TRUE
 35508,PalletOps,,TRUE
 36070,"Palm, Inc",,TRUE
 39346,Palmchip,,TRUE
 35643,PALO,,TRUE
-31623,Palo Alto Network,,TRUE
-36381,Palo Alto Networks,,FALSE
+31623,Palo Alto Network,Palo Alto Networks,TRUE
+36381,Palo Alto Networks,Palo Alto Networks,FALSE
 34329,PALRAM,,TRUE
 40399,Pan Capital,,TRUE
 26756,Panasas,,TRUE
@@ -9250,11 +9250,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 32154,Pango,,TRUE
 30039,PantaRei Design,,TRUE
 32109,Panter AG,,TRUE
-28513,Pantheon,,TRUE
+28513,Pantheon,Pantheon Technologies,TRUE
 29910,Pantheon Platform,,TRUE
-39738,Pantheon Technologies,,FALSE
-35554,PANTHEON.tech,,TRUE
-39754,PANTHEON.tech s.r.o.,,TRUE
+39738,Pantheon Technologies,Pantheon Technologies,FALSE
+35554,PANTHEON.tech,Pantheon Technologies,TRUE
+39754,PANTHEON.tech s.r.o.,Pantheon Technologies,TRUE
 37351,Panubo,,TRUE
 27709,PaperCut Software,,TRUE
 29331,PaperFree,,TRUE
@@ -9273,14 +9273,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 40127,Parakeet,,TRUE
 40242,Paralect,,TRUE
 33115,Parallax Agency,,TRUE
-39666,Parallel Wireless,,FALSE
+39666,Parallel Wireless,Parallel Wireless,FALSE
 26258,Parallels,,TRUE
 39326,Paramount Software,,TRUE
-40236,Parasoft,,FALSE
+40236,Parasoft,Parasoft,FALSE
 38902,PARC,,TRUE
 34822,Parcelled,,TRUE
 34654,Parchment,,TRUE
-28647,Pardot,,FALSE
+28647,Pardot,Pardot,FALSE
 28045,Pardus,,TRUE
 37524,Pared,,TRUE
 40597,Parity Technologies,,TRUE
@@ -9289,39 +9289,39 @@ DA ID,DA Name,SFDC NAME,Calculated
 37516,Parks Canada,,TRUE
 37354,Parkster,,TRUE
 31631,Parleys,,TRUE
-27298,Parrot,,FALSE
-27244,Parrot SA,,TRUE
+27298,Parrot,Parrot,FALSE
+27244,Parrot SA,Parrot,TRUE
 33022,parsable,,TRUE
 37947,ParsPooyesh,,TRUE
 31265,Parthenian,,TRUE
-36886,Particle,,FALSE
+36886,Particle,Particle,FALSE
 35481,Particle IO,,TRUE
 40624,Particolarte,,TRUE
 35293,Particule,,TRUE
 30560,Partner$Partners,,TRUE
-37208,Partoo,,FALSE
+37208,Partoo,Partoo,FALSE
 32078,Partwotx,,TRUE
 40390,Pasabi,,TRUE
 35167,PasientSky,,TRUE
 31910,PasientSky AS,,TRUE
 34897,Pasifik Satelit Nusantara,,TRUE
 32792,Passbolt,,TRUE
-35978,Passedge,,FALSE
+35978,Passedge,Passedge,FALSE
 34826,PassionTec,,TRUE
 37286,Past and Peasant Costuming,,TRUE
 30210,Pathao,,TRUE
-33158,Pathgather,,FALSE
+33158,Pathgather,Pathgather,FALSE
 32287,Pathwright,,TRUE
 40084,Patient Zero,,TRUE
 40568,PatientFocus,,TRUE
 29065,Patreon,,TRUE
 26282,"Pavlinux, Inc.",,TRUE
 31271,Pax,,TRUE
-34520,Pax Automa,,FALSE
+34520,Pax Automa,Pax Automa,FALSE
 38139,Paxport,,TRUE
 35761,Pay360 by Capita,,TRUE
 36436,Payability,,TRUE
-37272,PayamPardaz,,FALSE
+37272,PayamPardaz,PayamPardaz,FALSE
 31596,PAYBACK,,TRUE
 38882,Paybase,,TRUE
 33380,PayByPhone,,TRUE
@@ -9329,10 +9329,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 34469,PayFit,,TRUE
 29435,Paymark,,TRUE
 33984,Payment Service Provider,,TRUE
-27805,PayPal,,FALSE
+27805,PayPal,PayPal,FALSE
 34385,PayPay,,TRUE
 37864,PAYSBUY,,TRUE
-28463,PayScale,,FALSE
+28463,PayScale,PayScale,FALSE
 31439,PayTec,,TRUE
 37883,Paytm,,TRUE
 27444,Paytm Labs,,TRUE
@@ -9351,11 +9351,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 29911,PeakStream,,TRUE
 30660,Pear,,TRUE
 40170,Pear Tree Studio,,TRUE
-31886,Pearson,,FALSE
-28310,"Pearson Education, Inc.",,TRUE
+31886,Pearson,Pearson,FALSE
+28310,"Pearson Education, Inc.",Pearson,TRUE
 40386,Pearson IOKI,,TRUE
-40186,Pearson VUE,,FALSE
-30245,PearsonVUE,,TRUE
+40186,Pearson VUE,Pearson VUE,FALSE
+30245,PearsonVUE,Pearson VUE,TRUE
 36815,PEASY Ltd,,TRUE
 33525,Peatio,,TRUE
 31364,pebble,,TRUE
@@ -9364,26 +9364,26 @@ DA ID,DA Name,SFDC NAME,Calculated
 33923,PeerFit,,TRUE
 35577,Peerigon,,TRUE
 31280,Pegah,,TRUE
-35697,Pegasus,,FALSE
+35697,Pegasus,Pegasus,FALSE
 36600,PegaSys,,TRUE
 36598,PegaSys Protocol Engineering,,TRUE
 34037,Pegasystems,,TRUE
 31262,peiker,,TRUE
 26949,Peking University Microprocessor R&D Center,,TRUE
-27432,Pelagicore AB,,FALSE
+27432,Pelagicore AB,Pelagicore AB,FALSE
 35696,Pelephone,,TRUE
 37353,Pelotech,,TRUE
 40210,Penetration,,TRUE
 32691,Penguin,,TRUE
-27895,Pengutronix,,FALSE
-33530,Penn State,,FALSE
+27895,Pengutronix,Pengutronix,FALSE
+33530,Penn State,Penn State,FALSE
 29084,Penn State Dance Marathon,,TRUE
 36498,Penn State University,,TRUE
 29502,Pennock,,TRUE
-34546,PennState,,TRUE
+34546,PennState,Penn State,TRUE
 35960,Pennsylvania State University,,TRUE
 35528,Pensa,,TRUE
-31649,Pentaho,,FALSE
+31649,Pentaho,Pentaho,FALSE
 32095,Pentalog,,TRUE
 34057,Pentana Solutions,,TRUE
 36141,Pentasoft Technologies Ltd.,,TRUE
@@ -9391,16 +9391,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 28700,Peopledoc,,TRUE
 37965,PeopleNet,,TRUE
 28510,PeoplePerHour,,TRUE
-37223,Pepperdata,,FALSE
+37223,Pepperdata,Pepperdata,FALSE
 35787,Per Vices,,TRUE
 34971,Perception Point,,TRUE
-26575,Percona,,FALSE
+26575,Percona,Percona,FALSE
 33049,Perfect Commerce,,TRUE
 28716,Perfect Memory,,TRUE
 40196,Perfect Pitch Technology,,TRUE
 36517,Perfect Search Corporation,,TRUE
 34528,Perfecto,,TRUE
-39247,Perficient,,FALSE
+39247,Perficient,Perficient,FALSE
 34976,PerfMeUp,,TRUE
 30040,Perforce,,TRUE
 40638,Performance Lab,,TRUE
@@ -9414,22 +9414,22 @@ DA ID,DA Name,SFDC NAME,Calculated
 34604,Perooz,,TRUE
 33723,Persel,,TRUE
 29622,Pershing,,TRUE
-27733,Persistent,,TRUE
-38437,Persistent Systems,,FALSE
-39375,Persistent Systems Ltd.,,TRUE
+27733,Persistent,Persistent Systems,TRUE
+38437,Persistent Systems,Persistent Systems,FALSE
+39375,Persistent Systems Ltd.,Persistent Systems,TRUE
 40254,Personalics,,TRUE
 36733,PersonalWeb,,TRUE
 38993,Personifi,,TRUE
 39281,Persys Place,,TRUE
-28409,Pertino,,FALSE
+28409,Pertino,Pertino,FALSE
 34413,Pescado,,TRUE
 39608,Petabridge,,TRUE
 34714,Petabyte,,TRUE
-26484,PetaLogix,,FALSE
+26484,PetaLogix,PetaLogix,FALSE
 33596,Petback,,TRUE
 26863,Peter Bigot,,TRUE
 38601,Petri Dish Development,,TRUE
-33911,Petrobras,,FALSE
+33911,Petrobras,Petrobras,FALSE
 37036,Petroleum,,TRUE
 33526,Pex,,TRUE
 32255,Pexip,,TRUE
@@ -9445,18 +9445,18 @@ DA ID,DA Name,SFDC NAME,Calculated
 37418,phData,,TRUE
 34720,Phi Robotics Research,,TRUE
 32347,Philip,,TRUE
-39422,Philip Morris International,,FALSE
+39422,Philip Morris International,Philip Morris International,FALSE
 26628,Philipps-Universität Marburg,,TRUE
-33113,Philips,,FALSE
+33113,Philips,Philips,FALSE
 30411,Philips Dynalite,,TRUE
-37938,Phillips,,TRUE
+37938,Phillips,Philips,TRUE
 31014,Philosophy,,TRUE
 27004,Philosys Software,,TRUE
 34458,Phish.AI,,TRUE
 36500,PhishLabs,,TRUE
 40410,PHoEnix,,TRUE
-30674,Phoenix Software International,,FALSE
-27775,Phoenix Technologies,,FALSE
+30674,Phoenix Software International,Phoenix Software International,FALSE
+27775,Phoenix Technologies,Phoenix Technologies,FALSE
 32019,phone-io,,TRUE
 29365,Photobox,,TRUE
 28307,"Photobucket, Inc.",,TRUE
@@ -9464,8 +9464,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 28924,PHP,,TRUE
 29012,PhraseApp,,TRUE
 32158,PhysIQ,,TRUE
-31095,PHYTEC,,FALSE
-27408,PHYTEC Messtechnik GmbH,,FALSE
+31095,PHYTEC,PHYTEC,FALSE
+27408,PHYTEC Messtechnik GmbH,PHYTEC Messtechnik GmbH,FALSE
 27727,Pi-Coral,,TRUE
 40619,PIAIC,,TRUE
 33174,Pial.to,,TRUE
@@ -9484,25 +9484,25 @@ DA ID,DA Name,SFDC NAME,Calculated
 27483,PIKA Technologies,,TRUE
 26655,PiKRON s.r.o,,TRUE
 38613,Piktor Labs,,TRUE
-40290,Pilosa,,FALSE
+40290,Pilosa,Pilosa,FALSE
 32951,Pin Bell,,TRUE
 36950,Pin the Cloud,,TRUE
 31646,Pindrop,,TRUE
 38683,Pinecone,,TRUE
 38783,Pinfields IT Limited,,TRUE
 32243,Ping,,TRUE
-29833,Ping Cap,,TRUE
+29833,Ping Cap,PingCAP,TRUE
 33265,Ping Identify,,TRUE
 30138,Ping Identity,,TRUE
 35727,Ping Pong,,TRUE
-27144,PingCAP,,FALSE
+27144,PingCAP,PingCAP,FALSE
 34827,pingcap&hust,,TRUE
 29512,Pinger,,TRUE
 32723,Pingo,,TRUE
 34209,PinnacleART,,TRUE
 40404,PINSPB,,TRUE
 34958,pintec,,TRUE
-27992,Pinterest,,FALSE
+27992,Pinterest,Pinterest,FALSE
 27746,Pioneering Concept,,TRUE
 34022,Pioner,,TRUE
 32755,Pipefy,,TRUE
@@ -9515,11 +9515,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 26886,Piston Cloud Computing,,TRUE
 37829,Pistone Cloude Computing,,TRUE
 36978,PitechPlus,,TRUE
-26934,Pitney Bowes,,FALSE
+26934,Pitney Bowes,Pitney Bowes,FALSE
 32174,Pivit,,TRUE
 26390,Pivotal,,TRUE
 38897,PIX Group,,TRUE
-35955,Pix System,,FALSE
+35955,Pix System,Pix System,FALSE
 33322,Pix4D,,TRUE
 30369,Pixable,,TRUE
 35450,Pixako,,TRUE
@@ -9544,13 +9544,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 38963,Plaisio - Πλαίσιο,,TRUE
 27171,Plan Group,,TRUE
 31686,Plan-Net GmbH,,TRUE
-29851,Planet,,FALSE
+29851,Planet,Planet,FALSE
 36609,Planet Innovation,,TRUE
 27130,Planet Labs,,TRUE
 37012,Planet Lia,,TRUE
 34506,Planet Sports,,TRUE
 35805,Planetary Transportation Systems,,TRUE
-30355,PlanetScale,,FALSE
+30355,PlanetScale,PlanetScale,FALSE
 26229,PlanGrid,,TRUE
 37712,Planit Testing,,TRUE
 34270,Planmo,,TRUE
@@ -9561,7 +9561,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28696,Platform,,TRUE
 40389,Platform Team,,TRUE
 28718,Platform9,,TRUE
-37265,Platina Systems Corporation,,FALSE
+37265,Platina Systems Corporation,Platina Systems Corporation,FALSE
 28768,Plaxo,,TRUE
 32618,Playa Pete's Plaza,,TRUE
 40275,PlayAd Media Group,,TRUE
@@ -9570,8 +9570,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 30547,PlayStation,,TRUE
 34205,PLAYSTUDIOS,,TRUE
 28744,Playtech,,TRUE
-37799,Plessey,,FALSE
-33896,Plex Systems,,FALSE
+37799,Plessey,Plessey,FALSE
+33896,Plex Systems,Plex Systems,FALSE
 32474,Plexxi,,TRUE
 36917,Plexxi Inc.,,TRUE
 37407,plista,,TRUE
@@ -9584,7 +9584,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 26275,Plugable Technologies,,TRUE
 27953,PLUMgrid,,TRUE
 36049,PLUMgrid Inc.,,TRUE
-40476,Pluralsight,,FALSE
+40476,Pluralsight,Pluralsight,FALSE
 40047,Plus.ai,,TRUE
 27903,"PLX Technology, Inc.",,TRUE
 29989,PLYmedia,,TRUE
@@ -9614,7 +9614,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29575,PoleX,,TRUE
 29136,Polibras Software,,TRUE
 31759,policygenius,,TRUE
-38184,politecnico di milano,,FALSE
+38184,politecnico di milano,politecnico di milano,FALSE
 36048,Politecnico di Torino,,TRUE
 36476,Politehnica University of Bucharest - CETTI,,TRUE
 27294,Political Party,,TRUE
@@ -9639,10 +9639,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 26851,Porch,,TRUE
 30139,Pork industries,,TRUE
 38759,Porsche Informatik,,TRUE
-37924,PortaOne,,FALSE
+37924,PortaOne,PortaOne,FALSE
 29719,Portbase,,TRUE
 32615,Portek,,TRUE
-37835,Portland State University,,FALSE
+37835,Portland State University,Portland State University,FALSE
 33157,Portworx,,TRUE
 38646,Posiba,,TRUE
 40534,Positive s.r.o.,,TRUE
@@ -9668,18 +9668,18 @@ DA ID,DA Name,SFDC NAME,Calculated
 38171,PPI AG,,TRUE
 37489,PPRO,,TRUE
 34378,PR Management,,TRUE
-32518,Practice Fusion,,FALSE
+32518,Practice Fusion,Practice Fusion,FALSE
 30397,Practo,,TRUE
 29563,Praekelt,,TRUE
 37088,Pragmatic,,TRUE
 40278,Pragmatic Coders,,TRUE
 39256,Pragmatics,,TRUE
 32333,Praim Srl,,TRUE
-29368,Praqma,,FALSE
+29368,Praqma,Praqma,FALSE
 37503,Pratiti,,TRUE
 38638,PRAVEX BANK,,TRUE
 37490,Praxify,,TRUE
-38677,Praxis Engineering,,FALSE
+38677,Praxis Engineering,Praxis Engineering,FALSE
 27626,Preakelt,,TRUE
 39019,Precisely,,TRUE
 33306,Predic8,,TRUE
@@ -9702,21 +9702,21 @@ DA ID,DA Name,SFDC NAME,Calculated
 31507,Pretty Robots,,TRUE
 28253,Prevas,,TRUE
 28481,PreviousNext,,TRUE
-26495,"Prezi, Inc.",,FALSE
+26495,"Prezi, Inc.","Prezi, Inc.",FALSE
 29482,Prezly,,TRUE
 39924,Prgmr.com,,TRUE
 29488,Prima,,TRUE
 30721,Primaira,,TRUE
-29632,Primary Data,,FALSE
-28050,"Primary Data, Inc.",,TRUE
+29632,Primary Data,Primary Data,FALSE
+28050,"Primary Data, Inc.",Primary Data,TRUE
 34229,Prime,,TRUE
 37130,Prime Focus vfx,,TRUE
 39491,PRIME I The Analytics Company,,TRUE
 33683,Primeton,,TRUE
 32835,Primity Bio,,TRUE
 38589,Prince Sattam Bin Abdulaziz University,,TRUE
-37820,Princeton Plasma Physics Laboratory,,FALSE
-36451,Princeton University,,FALSE
+37820,Princeton Plasma Physics Laboratory,Princeton Plasma Physics Laboratory,FALSE
+36451,Princeton University,Princeton University,FALSE
 29023,Prine IT,,TRUE
 28967,Print,,TRUE
 32724,Printcentre,,TRUE
@@ -9743,7 +9743,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28965,ProcessOut,,TRUE
 36546,ProCircular,,TRUE
 31544,Proclivity,,TRUE
-33978,Procore,,FALSE
+33978,Procore,Procore,FALSE
 33962,Procter&Gamble,,TRUE
 30337,Prodam,,TRUE
 33886,ProdataKey,,TRUE
@@ -9767,16 +9767,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 27414,ProGlove,,TRUE
 35360,Progmatic,,TRUE
 34170,Progmatic Lab,,TRUE
-34855,Progress,,TRUE
-27479,Progress Software Corporation,,FALSE
-39728,Progressive Insurance,,FALSE
+34855,Progress,Progress Software Corporation,TRUE
+27479,Progress Software Corporation,Progress Software Corporation,FALSE
+39728,Progressive Insurance,Progressive Insurance,FALSE
 34319,Progyny,,TRUE
-29505,Project Calico,,FALSE
+29505,Project Calico,Project Calico,FALSE
 27487,"Project Management Institute, Inc.",,TRUE
 38058,Projekteins,,TRUE
 33859,ProKarma,,TRUE
 28062,Prolan Zrt.,,TRUE
-34388,Prologis,,FALSE
+34388,Prologis,Prologis,FALSE
 31956,Prom.ua,,TRUE
 38953,Promaton,,TRUE
 32875,PROMEDIO,,TRUE
@@ -9791,11 +9791,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 26462,Promwad,,TRUE
 28399,pronix,,TRUE
 30282,ProntoPro,,TRUE
-28799,Proofpoint,,FALSE
+28799,Proofpoint,Proofpoint,FALSE
 36256,PropellerAds,,TRUE
 39063,Property Finder,,TRUE
 31433,Prophecy Networks,,TRUE
-26853,ProphetStor,,FALSE
+26853,ProphetStor,ProphetStor,FALSE
 34628,Prophix,,TRUE
 34559,ProRail,,TRUE
 28257,"PROS, Inc.",,TRUE
@@ -9810,30 +9810,30 @@ DA ID,DA Name,SFDC NAME,Calculated
 38232,Proteus Networks,,TRUE
 26775,Protocol Labs,,TRUE
 30821,Protonic Holland,,TRUE
-33045,ProtonMail,,FALSE
+33045,ProtonMail,ProtonMail,FALSE
 27053,Protos Software GmbH,,TRUE
 37614,protoss,,TRUE
 40715,ProV International,,TRUE
 36715,Provectus,,TRUE
 31483,Providence Health & Services,,TRUE
 36190,PROXIAD,,TRUE
-39029,Proxima,,FALSE
+39029,Proxima,Proxima,FALSE
 39975,Proxima Interactive,,TRUE
-37306,Proximetry,,FALSE
-39827,Proximus,,FALSE
+37306,Proximetry,Proximetry,FALSE
+39827,Proximus,Proximus,FALSE
 31157,Proxmox,,TRUE
 38327,Proxy Project,,TRUE
-34900,Prudential,,FALSE
+34900,Prudential,Prudential,FALSE
 40777,Prudential Corporation Asia,,TRUE
 35268,prudsys AG,,TRUE
 38867,Prysmatic,,TRUE
-38192,PS Solutions,,FALSE
+38192,PS Solutions,PS Solutions,FALSE
 33302,PSG Geophysical AS,,TRUE
 33255,Psi-Web,,TRUE
 34194,PSL Corp,,TRUE
 28794,Psocratic,,TRUE
 29823,PSP Investments,,TRUE
-37945,PT Boer Technology (Btech),,FALSE
+37945,PT Boer Technology (Btech),PT Boer Technology (Btech),FALSE
 34647,PT Nusantara,,TRUE
 34284,PT. Kreatif Media Karya,,TRUE
 32302,PT.Stargle,,TRUE
@@ -9842,7 +9842,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33701,PTI Global,,TRUE
 29954,PTLC,,TRUE
 36184,Publet,,TRUE
-33154,Public Broadcasting Service,,FALSE
+33154,Public Broadcasting Service,Public Broadcasting Service,FALSE
 40034,Public Trustee of QLD - Queensland Government,,TRUE
 38652,Publica,,TRUE
 32355,Publicis,,TRUE
@@ -9857,26 +9857,26 @@ DA ID,DA Name,SFDC NAME,Calculated
 40024,Pulsara,,TRUE
 32642,Pulselive,,TRUE
 34416,PulsePoint,,TRUE
-28606,Pulumi,,FALSE
+28606,Pulumi,Pulumi,FALSE
 30726,Puma Icerik,,TRUE
 28480,Puppet,,TRUE
 27998,Puppet Labs,,TRUE
-38553,Purdue University,,FALSE
-28096,Pure Storage,,FALSE
+38553,Purdue University,Purdue University,FALSE
+28096,Pure Storage,Pure Storage,FALSE
 35733,Pureport,,TRUE
 37739,"Purewire, Inc",,TRUE
-31230,Purism,,FALSE
+31230,Purism,Purism,FALSE
 38239,Purity Cosmetics,,TRUE
 37853,Purplebricks,,TRUE
 37969,Push,,TRUE
 32683,PushApps,,TRUE
-29579,pusher,,FALSE
+29579,pusher,pusher,FALSE
 39038,Pushfor,,TRUE
 38757,PushON,,TRUE
 32905,Pushpay,,TRUE
 39918,Pushwoosh,,TRUE
 30450,Put.io,,TRUE
-40834,"Putnam Investments, LLC",,FALSE
+40834,"Putnam Investments, LLC","Putnam Investments, LLC",FALSE
 26339,Puzzle ITC,,TRUE
 28529,PuzzleData,,TRUE
 31924,PwC,,TRUE
@@ -9890,21 +9890,21 @@ DA ID,DA Name,SFDC NAME,Calculated
 37589,PyCon,,TRUE
 33633,Pylons Project,,TRUE
 36244,PyMi.vn,,TRUE
-37221,Pyramid Technology Services,,FALSE
-28548,Pythian,,FALSE
+37221,Pyramid Technology Services,Pyramid Technology Services,FALSE
+28548,Pythian,Pythian,FALSE
 31725,Python Software Foundation,,TRUE
 28738,Python Software Fundation,,TRUE
 35246,Python⇒Speed,,TRUE
 39765,Q Core Medical,,TRUE
 27327,Q-Media Solution,,TRUE
 32591,Q42,,TRUE
-31691,QA,,FALSE
+31691,QA,QA,FALSE
 36180,QA Consulting,,TRUE
 37188,QAD,,TRUE
 38128,Qafoo,,TRUE
 35837,Qamcom Research,,TRUE
 37409,QASource,,TRUE
-31199,QAware,,FALSE
+31199,QAware,QAware,FALSE
 31784,QBE Insurance,,TRUE
 37949,Qbox,,TRUE
 37825,QBurst,,TRUE
@@ -9922,24 +9922,24 @@ DA ID,DA Name,SFDC NAME,Calculated
 26943,Qisda,,TRUE
 29478,Qiwi,,TRUE
 31542,QIYI,,TRUE
-29460,Qlik,,FALSE
+29460,Qlik,Qlik,FALSE
 26241,QLogic,,TRUE
 29377,qmedia,,TRUE
 37459,QMENTA Inc,,TRUE
 26771,QNX Software Systems Co.,,TRUE
 39964,Qoden,,TRUE
-34272,Qorvo,,FALSE
+34272,Qorvo,Qorvo,FALSE
 39351,QoSient,,TRUE
 37180,Qosmos,,TRUE
 40100,qplum,,TRUE
 35095,QSR,,TRUE
-37270,QSXL The Search Company,,FALSE
+37270,QSXL The Search Company,QSXL The Search Company,FALSE
 28327,Qt Company,,TRUE
 28037,Qtechnology,,TRUE
 30902,Quagga,,TRUE
-26998,Qualcomm,,FALSE
+26998,Qualcomm,Qualcomm,FALSE
 27027,Qualcomm Atheros,,TRUE
-38431,"Qualcomm, Inc.",,FALSE
+38431,"Qualcomm, Inc.","Qualcomm, Inc.",FALSE
 27063,QUALITANCE,,TRUE
 37902,Quality Objects,,TRUE
 35310,QualityBath,,TRUE
@@ -9953,7 +9953,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 30757,Quantenna,,TRUE
 38924,Quantenna Communications,,TRUE
 28650,Quantopian,,TRUE
-38701,Quantstamp,,FALSE
+38701,Quantstamp,Quantstamp,FALSE
 30037,Quantum,,TRUE
 27969,Quantum Controls BV,,TRUE
 37399,QuantumSense,,TRUE
@@ -9961,10 +9961,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 30344,quaponatech,,TRUE
 36536,Quartech Systems Ltd.,,TRUE
 38775,Quartzy,,TRUE
-26566,Qubit,,FALSE
-33052,Qubole,,FALSE
+26566,Qubit,Qubit,FALSE
+33052,Qubole,Qubole,FALSE
 28648,Quby,,TRUE
-39879,Queen's University Belfast,,FALSE
+39879,Queen's University Belfast,Queen's University Belfast,FALSE
 31426,Queensland Conservation Council,,TRUE
 36607,Queensland Rail,,TRUE
 36662,Queensland University of Technology,,TRUE
@@ -9977,7 +9977,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 37465,Quill,,TRUE
 39197,Quill Content,,TRUE
 40018,QUIMICA CORDOBA SA,,TRUE
-40163,QUIN,,FALSE
+40163,QUIN,QUIN,FALSE
 32960,quinncia,,TRUE
 30690,Quintesence,,TRUE
 39573,Quintet IN,,TRUE
@@ -9992,21 +9992,21 @@ DA ID,DA Name,SFDC NAME,Calculated
 33736,Qultura,,TRUE
 36214,Qume,,TRUE
 28085,"Qumranet, Inc.",,TRUE
-33397,Qumulo,,FALSE
+33397,Qumulo,Qumulo,FALSE
 28311,Qunar,,TRUE
-27719,Quobyte,,FALSE
+27719,Quobyte,Quobyte,FALSE
 40033,Quoine,,TRUE
 37518,Quora,,TRUE
-36282,Quorum,,FALSE
+36282,Quorum,Quorum,FALSE
 34734,QuoScient,,TRUE
 32462,Quri,,TRUE
 27433,qvitoo,,TRUE
 34140,Qwant,,TRUE
 39227,Qwick,,TRUE
 33148,Qwil,,TRUE
-38595,qwilt,,FALSE
+38595,qwilt,qwilt,FALSE
 27558,R-S-I Elektrotechnik GmbH,,TRUE
-32480,R/GA,,FALSE
+32480,R/GA,R/GA,FALSE
 38968,R3,,TRUE
 35863,R3 IoT,,TRUE
 28858,R3 labs,,TRUE
@@ -10015,9 +10015,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 30158,Rache,,TRUE
 30134,RackHD,,TRUE
 32197,RackN,,TRUE
-27948,Rackspace,,FALSE
-29648,Rackspace Hosting,,TRUE
-40723,Rackspace Technology,,TRUE
+27948,Rackspace,Rackspace,FALSE
+29648,Rackspace Hosting,Rackspace,TRUE
+40723,Rackspace Technology,Rackspace,TRUE
 29660,RADAR,,TRUE
 39523,Radar Cyber Security,,TRUE
 37302,RADCOM S.R.L.,,TRUE
@@ -10027,19 +10027,19 @@ DA ID,DA Name,SFDC NAME,Calculated
 37833,RADIFINITY INFORMATION SYSTEMS,,TRUE
 37647,Radin,,TRUE
 32799,Radio Clothing,,TRUE
-36008,Radisys Corporation,,FALSE
+36008,Radisys Corporation,Radisys Corporation,FALSE
 27838,Radius Networks,,TRUE
 32923,RadiusAI,,TRUE
 40316,Radix Trading,,TRUE
-27234,Radware,,TRUE
-40766,"Radware, Inc.",,FALSE
+27234,Radware,"Radware, Inc.",TRUE
+40766,"Radware, Inc.","Radware, Inc.",FALSE
 34934,Radwin,,TRUE
 40545,Raesemann Enterprises,,TRUE
 40347,RafTech.nl,,TRUE
 38558,Ragn-Sells AB,,TRUE
 33729,Rahi Systems,,TRUE
 29572,Rahul Menon,,TRUE
-34635,RAIDIX,,FALSE
+34635,RAIDIX,RAIDIX,FALSE
 28856,Raiffeisen Bank Russia,,TRUE
 39983,Railnova,,TRUE
 32037,Rails Girls PH,,TRUE
@@ -10056,9 +10056,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 31013,Raithlin,,TRUE
 28021,Rajant,,TRUE
 40677,Raken Data Group,,TRUE
-26242,Rakuten,,TRUE
-39982,Rakuten Advertising,,TRUE
-40631,"Rakuten, Inc.",,FALSE
+26242,Rakuten,"Rakuten, Inc.",TRUE
+39982,Rakuten Advertising,"Rakuten, Inc.",TRUE
+40631,"Rakuten, Inc.","Rakuten, Inc.",FALSE
 28106,Ralink Technology,,TRUE
 30830,Rally Health,,TRUE
 27117,Rally Software,,TRUE
@@ -10067,7 +10067,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39431,Ramax Group,,TRUE
 33647,RAMBLER,,TRUE
 39356,RAMBLER&Co,,TRUE
-38226,Rambus,,FALSE
+38226,Rambus,Rambus,FALSE
 37815,Ramco Systems,,TRUE
 29283,Ramsgate Engineering,,TRUE
 28086,Rancher,,TRUE
@@ -10079,27 +10079,27 @@ DA ID,DA Name,SFDC NAME,Calculated
 33198,Rangobox,,TRUE
 30360,Raphnet,,TRUE
 28180,RAPICORP,,TRUE
-26780,Rapid7,,FALSE
+26780,Rapid7,Rapid7,FALSE
 40092,RapidLoop,,TRUE
-39671,RapidMiner,,FALSE
+39671,RapidMiner,RapidMiner,FALSE
 39910,Rapido,,TRUE
 28988,Rapidobest,,TRUE
 39160,RapidRatings,,TRUE
 34602,Rapiscan,,TRUE
 37304,Rapiscan Systems,,TRUE
 36987,Rappid,,TRUE
-26687,Rapyuta Robotics,,FALSE
+26687,Rapyuta Robotics,Rapyuta Robotics,FALSE
 31248,Raspberry,,TRUE
 35441,Rathravane,,TRUE
 27337,Raumfeld GmbH,,TRUE
-30701,ravello,,TRUE
-26155,Ravello Systems,,FALSE
+30701,ravello,Ravello Systems,TRUE
+26155,Ravello Systems,Ravello Systems,FALSE
 33574,Raven,,TRUE
 29380,Ravensburger Digital,,TRUE
 26534,"raw engineering, Inc.",,TRUE
 32726,Raya Contact Center,,TRUE
 38127,Rayfay,,TRUE
-26820,Raytheon,,FALSE
+26820,Raytheon,Raytheon,FALSE
 38004,raywalker.it,,TRUE
 27518,"Razorblue, Ltd.",,TRUE
 34942,Razorpay,,TRUE
@@ -10120,7 +10120,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28676,ReadCoor,,TRUE
 28396,Readify,,TRUE
 36689,Reading University Students Union,,TRUE
-29235,ReadyTalk,,FALSE
+29235,ReadyTalk,ReadyTalk,FALSE
 26567,Reaktor,,TRUE
 30162,Real Kinetic,,TRUE
 35160,Real Life Analytics,,TRUE
@@ -10129,11 +10129,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 34527,RealBox,,TRUE
 39025,Realeyes,,TRUE
 29732,Realm,,TRUE
-39916,RealNetworks Inc.,,FALSE
+39916,RealNetworks Inc.,RealNetworks Inc.,FALSE
 33061,RealPage,,TRUE
 27935,Realsil Microelectronics,,TRUE
-27251,Realtek,,FALSE
-30829,Realtek Semiconductor,,TRUE
+27251,Realtek,Realtek,FALSE
+30829,Realtek Semiconductor,Realtek,TRUE
 26522,RealVNC,,TRUE
 33017,RealyDecoy,,TRUE
 37217,REBACA,,TRUE
@@ -10149,32 +10149,32 @@ DA ID,DA Name,SFDC NAME,Calculated
 32211,recruit-mp,,TRUE
 32816,Recruity,,TRUE
 32507,Red,,TRUE
-31883,Red Badger,,FALSE
+31883,Red Badger,Red Badger,FALSE
 36756,Red Celsius,,TRUE
 35952,RED Digital Cinema,,TRUE
 34644,Red Embedded,,TRUE
 27711,Red Flag Software,,TRUE
 29311,Red Fox,,TRUE
 39183,Red Had,,TRUE
-28230,Red Hat,,TRUE
-39851,Red Hat Inc.,,FALSE
-39755,"Red Hat, Inc",,TRUE
-28312,"Red Hat, Inc.",,TRUE
+28230,Red Hat,Red Hat Inc.,TRUE
+39851,Red Hat Inc.,Red Hat Inc.,FALSE
+39755,"Red Hat, Inc",Red Hat Inc.,TRUE
+28312,"Red Hat, Inc.",Red Hat Inc.,TRUE
 28519,Red Letter Films,,TRUE
 26898,Red Math,,TRUE
 38939,Red River,,TRUE
 33517,Red Stone Partners,,TRUE
-40480,Red Ventures,,FALSE
+40480,Red Ventures,Red Ventures,FALSE
 38761,Red Wing Shoe,,TRUE
 34392,Red Yak,,TRUE
 37680,Redback Networks,,TRUE
 39479,RedBeardLab,,TRUE
-38374,Redbend LTD.,,FALSE
+38374,Redbend LTD.,Redbend LTD.,FALSE
 30417,redBorder,,TRUE
 34335,Redbox,,TRUE
 26539,Redbrick Health,,TRUE
 33250,Redbuble,,TRUE
-29540,Reddit,,FALSE
+29540,Reddit,Reddit,FALSE
 38475,Redeinova Tecnologia,,TRUE
 34993,Redes,,TRUE
 39360,Redfield AB,,TRUE
@@ -10182,7 +10182,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 30627,RedFrog JSC,,TRUE
 31801,Redgate,,TRUE
 38279,Redhat,,TRUE
-34183,Redis Labs,,FALSE
+34183,Redis Labs,Redis Labs,FALSE
 39511,RediSQL,,TRUE
 28598,RedMarker,,TRUE
 37507,reDock,,TRUE
@@ -10190,7 +10190,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 38627,RedOwl,,TRUE
 26888,Redpill Linpro,,TRUE
 28320,REDS at HEIG-VD,,TRUE
-37112,RedSeer,,FALSE
+37112,RedSeer,RedSeer,FALSE
 28976,Redspread,,TRUE
 27184,Redstalker,,TRUE
 29350,redtoo ag,,TRUE
@@ -10202,7 +10202,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39592,Reginotas Informática,,TRUE
 36606,Regis Corporation,,TRUE
 36026,Rehive Tech,,TRUE
-35876,Reid Transport,,FALSE
+35876,Reid Transport,Reid Transport,FALSE
 30410,Reify,,TRUE
 30028,Reinery29,,TRUE
 32236,Reizwerk GmbH,,TRUE
@@ -10210,14 +10210,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 36789,Reksoft,,TRUE
 37481,Relationeo,,TRUE
 38024,Relay,,TRUE
-38707,relayr,,FALSE
+38707,relayr,relayr,FALSE
 26276,Reliable Embedded Systems,,TRUE
 28112,reliablesolutions,,TRUE
-29903,Reliance,,TRUE
-31394,Reliance Industries,,TRUE
-33300,Reliance Industries Limited,,FALSE
-40762,Reliance Jio Infocomm Limited,,FALSE
-27870,"Reliance Jio Infocomm, Ltd.",,TRUE
+29903,Reliance,Reliance Industries Limited,TRUE
+31394,Reliance Industries,Reliance Industries Limited,TRUE
+33300,Reliance Industries Limited,Reliance Industries Limited,FALSE
+40762,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,FALSE
+27870,"Reliance Jio Infocomm, Ltd.",Reliance Jio Infocomm Limited,TRUE
 34530,Relitech,,TRUE
 30052,Relly Software,,TRUE
 39637,Remind,,TRUE
@@ -10226,22 +10226,22 @@ DA ID,DA Name,SFDC NAME,Calculated
 29123,Remote Golang & Python Developer,,TRUE
 33861,Remote Paramedic,,TRUE
 31118,RemoteHQ,,TRUE
-31175,Renault,,FALSE
+31175,Renault,Renault,FALSE
 38826,Renault-Nissan-Mitsubishi,,TRUE
 33464,RenderedText,,TRUE
-39056,Renesas,,TRUE
-28148,Renesas Electronics Corporation,,FALSE
-27839,Renesas Technology,,TRUE
+39056,Renesas,Renesas Electronics Corporation,TRUE
+28148,Renesas Electronics Corporation,Renesas Electronics Corporation,FALSE
+27839,Renesas Technology,Renesas Electronics Corporation,TRUE
 35789,Renew Financial,,TRUE
 36903,Renewable Devices Ltd.,,TRUE
-37848,Renovo Motors,,FALSE
+37848,Renovo Motors,Renovo Motors,FALSE
 31672,Renta.com,,TRUE
 30073,Rentex,,TRUE
 39153,Rentlytics,,TRUE
-32545,Rentrak,,FALSE
+32545,Rentrak,Rentrak,FALSE
 28895,Replay Gaming,,TRUE
 32541,Replicated,,TRUE
-29073,Reply,,FALSE
+29073,Reply,Reply,FALSE
 31320,Report abuse,,TRUE
 27725,"ReportLab, Inc.",,TRUE
 37635,ReportLinker,,TRUE
@@ -10256,10 +10256,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 36764,Reserve America,,TRUE
 36887,Reservit,,TRUE
 29180,Reside Real Estate,,TRUE
-28202,Resin,,FALSE
+28202,Resin,Resin,FALSE
 32971,Resolute Building Intelligence,,TRUE
 32650,Resolve Solutions,,TRUE
-35657,Resonate,,FALSE
+35657,Resonate,Resonate,FALSE
 35152,Resource Generation,,TRUE
 38055,Respond,,TRUE
 33370,Responsys,,TRUE
@@ -10271,11 +10271,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 32300,Resy,,TRUE
 34007,Retail,,TRUE
 34478,Retail Zipline,,TRUE
-31789,RetailMeNot,,FALSE
-33695,RetailNext,,FALSE
+31789,RetailMeNot,RetailMeNot,FALSE
+33695,RetailNext,RetailNext,FALSE
 39297,Retegal,,TRUE
-29390,Rethink,,TRUE
-29742,RethinkDB,,FALSE
+29390,Rethink,RethinkDB,TRUE
+29742,RethinkDB,RethinkDB,FALSE
 29028,Retina Data Teknoloji,,TRUE
 38380,RETIRED,,TRUE
 30691,RETIRED at n/a,,TRUE
@@ -10285,7 +10285,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 40239,Retro Rabbit,,TRUE
 30136,Return Path,,TRUE
 29026,Rev.com,,TRUE
-37381,Revature,,FALSE
+37381,Revature,Revature,FALSE
 30634,Reveal,,TRUE
 33819,ReverbNation,,TRUE
 32282,Reviewer,,TRUE
@@ -10293,7 +10293,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 31661,Revinate,,TRUE
 34605,Revitalised,,TRUE
 39609,REVO PTY,,TRUE
-31567,Revolgy,,FALSE
+31567,Revolgy,Revolgy,FALSE
 38131,Revolut,,TRUE
 29358,Revolution,,TRUE
 27738,Révolution Linux,,TRUE
@@ -10310,10 +10310,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 37135,Rhythm & Hues,,TRUE
 38411,RI.SE,,TRUE
 32460,Riaktr,,TRUE
-39389,"Ribbon Communications Operating Company, Inc.",,FALSE
+39389,"Ribbon Communications Operating Company, Inc.","Ribbon Communications Operating Company, Inc.",FALSE
 39260,Ricardo,,TRUE
 36409,Ricardo AG,,TRUE
-33998,ricardo.ch,,FALSE
+33998,ricardo.ch,ricardo.ch,FALSE
 33131,Richardson,,TRUE
 29583,Rickover,,TRUE
 30055,Riddles.io,,TRUE
@@ -10340,12 +10340,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 31304,Rincaro,,TRUE
 30973,RINF TECH,,TRUE
 38512,Ringball Corporation,,TRUE
-31703,RingCentral,,FALSE
+31703,RingCentral,RingCentral,FALSE
 37327,Ringier Axel Springer SK,,TRUE
-32264,Rio Tinto,,FALSE
-35143,Riot Games,,FALSE
-27380,"Riot Games, Inc.",,TRUE
-36034,RIPE NCC,,FALSE
+32264,Rio Tinto,Rio Tinto,FALSE
+35143,Riot Games,Riot Games,FALSE
+27380,"Riot Games, Inc.",Riot Games,TRUE
+36034,RIPE NCC,RIPE NCC,FALSE
 39210,RIPGlobal,,TRUE
 36807,Ripple,,TRUE
 29892,Risalto Health,,TRUE
@@ -10353,9 +10353,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 29490,Rise,,TRUE
 27252,RISE Security,,TRUE
 26925,RISE SICS,,TRUE
-34309,RiseML,,FALSE
+34309,RiseML,RiseML,FALSE
 33920,Riseup.Net,,TRUE
-29470,RisingStack,,FALSE
+29470,RisingStack,RisingStack,FALSE
 27923,RisingTide Systems,,TRUE
 31792,Risk Focus,,TRUE
 39587,RISK IDENT,,TRUE
@@ -10367,17 +10367,17 @@ DA ID,DA Name,SFDC NAME,Calculated
 34355,Rivendel,,TRUE
 33386,River iGaming,,TRUE
 33522,River Rock Apps,,TRUE
-33364,Riverbed,,TRUE
-26663,Riverbed Technology,,TRUE
-40553,"Riverbed Technology, Inc.",,FALSE
+33364,Riverbed,"Riverbed Technology, Inc.",TRUE
+26663,Riverbed Technology,"Riverbed Technology, Inc.",TRUE
+40553,"Riverbed Technology, Inc.","Riverbed Technology, Inc.",FALSE
 40329,RiverMeadow,,TRUE
 38214,RiverMeadow Software,,TRUE
 38147,Rivet,,TRUE
 30841,RivieraWavers,,TRUE
 38023,Rivus Media,,TRUE
 40087,RKR,,TRUE
-37178,RMR studio s.r.o.,,FALSE
-31114,RMS,,FALSE
+37178,RMR studio s.r.o.,RMR studio s.r.o.,FALSE
+31114,RMS,RMS,FALSE
 27253,rndity,,TRUE
 38425,RNP,,TRUE
 35743,RNX Riedo Networks,,TRUE
@@ -10396,10 +10396,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 32907,Robots & Pencils,,TRUE
 29578,Robots and Pencils,,TRUE
 28938,Roburio,,TRUE
-28773,Robust Perception,,FALSE
+28773,Robust Perception,Robust Perception,FALSE
 40507,ROC van Amsterdam,,TRUE
 34142,Rocana,,TRUE
-27175,Roche,,FALSE
+27175,Roche,Roche,FALSE
 38920,Rock Content,,TRUE
 30955,Rockchip,,TRUE
 30191,Rocket,,TRUE
@@ -10415,7 +10415,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 30473,Rockset,,TRUE
 30346,Rockstars Developers,,TRUE
 26909,"Rockwell Automation, Inc.",,TRUE
-26299,Rockwell Collins,,FALSE
+26299,Rockwell Collins,Rockwell Collins,FALSE
 40504,Rodan,,TRUE
 40505,Rodan System SA,,TRUE
 28599,Rodeo FX,,TRUE
@@ -10434,8 +10434,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 33181,Rok Cyber Command,,TRUE
 31292,Roke,,TRUE
 33008,ROKI Test Driven Software,,TRUE
-27555,Roku,,TRUE
-38477,"Roku, Inc.",,FALSE
+27555,Roku,"Roku, Inc.",TRUE
+38477,"Roku, Inc.","Roku, Inc.",FALSE
 38169,Rollcard,,TRUE
 39175,RollerCops,,TRUE
 33259,Rollout.io,,TRUE
@@ -10443,7 +10443,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28430,Rombit,,TRUE
 28329,Ronostay,,TRUE
 29061,Roojoom,,TRUE
-31766,Rook,,FALSE
+31766,Rook,Rook,FALSE
 35425,Roomsie,,TRUE
 27904,Roorkee,,TRUE
 32259,Rooster Park,,TRUE
@@ -10452,7 +10452,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 35339,RootPi,,TRUE
 34719,Roovy,,TRUE
 35742,rOpenSci,,TRUE
-37831,ROSA Laboratory,,FALSE
+37831,ROSA Laboratory,ROSA Laboratory,FALSE
 40078,Rosetta Stone,,TRUE
 38655,Rosgosstrakh,,TRUE
 38258,Ross Video,,TRUE
@@ -10463,24 +10463,24 @@ DA ID,DA Name,SFDC NAME,Calculated
 40207,Route Thirty Six,,TRUE
 32953,Rover,,TRUE
 31263,Rovercode,,TRUE
-31575,Rovi,,TRUE
-37743,Rovi Corporation,,FALSE
+31575,Rovi,Rovi Corporation,TRUE
+37743,Rovi Corporation,Rovi Corporation,FALSE
 28727,Rowland Institute,,TRUE
 27539,"Rowland Institute, Harvard",,TRUE
 40713,Royal Air Force (RAF),,TRUE
-35470,Royal Bank of Canada,,FALSE
+35470,Royal Bank of Canada,Royal Bank of Canada,FALSE
 36098,Royal Bank of Scotland Business,,TRUE
 33333,Royal Botanic Gardens,,TRUE
-35873,Royal College of Paediatrics & Child Health,,FALSE
+35873,Royal College of Paediatrics & Child Health,Royal College of Paediatrics & Child Health,FALSE
 32485,Royal FloraHolland,,TRUE
 40053,RoZetta,,TRUE
 26277,"rPath, Inc.",,TRUE
 33951,RRG Donelly,,TRUE
 39788,RS Media,,TRUE
-31233,RSA,,FALSE
+31233,RSA,RSA,FALSE
 31630,rstorcloud,,TRUE
-35397,RStudio,,TRUE
-40510,RStudio PBC,,FALSE
+35397,RStudio,RStudio PBC,TRUE
+40510,RStudio PBC,RStudio PBC,FALSE
 30931,RT-RK,,TRUE
 39845,Rtbrick,,TRUE
 38248,RtBricks Inc,,TRUE
@@ -10504,7 +10504,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33892,Rumble,,TRUE
 34925,Rungway,,TRUE
 32850,Runkeeper,,TRUE
-26194,Runscope,,FALSE
+26194,Runscope,Runscope,FALSE
 40613,Runtastic GmbH,,TRUE
 39900,RunwayML,,TRUE
 36303,Runweb,,TRUE
@@ -10514,16 +10514,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 34369,Russell,,TRUE
 30607,Russell Cohen,,TRUE
 39432,Russian Railways,,TRUE
-26334,Rutgers University,,FALSE
-36671,Rutgers University Continuing Education,,TRUE
+26334,Rutgers University,Rutgers University,FALSE
+36671,Rutgers University Continuing Education,Rutgers University,TRUE
 27450,Rüthi Electronic,,TRUE
 38120,RVU,,TRUE
-38326,RWTH Aachen University,,FALSE
+38326,RWTH Aachen University,RWTH Aachen University,FALSE
 27628,Rx Networks,,TRUE
 26834,RX-M,,TRUE
 28418,Ryan MacLean Photography,,TRUE
 28945,Ryanair,,TRUE
-31093,Ryft,,FALSE
+31093,Ryft,Ryft,FALSE
 27245,Rythm,,TRUE
 36573,S Klump IT Consulting,,TRUE
 40049,S Media,,TRUE
@@ -10536,12 +10536,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 32503,S4nity,,TRUE
 35201,S7 TechLab,,TRUE
 34227,SAA Verzekeringen,,TRUE
-35818,Saab,,FALSE
+35818,Saab,Saab,FALSE
 32006,Saama,,TRUE
 26321,Sabayon Linux,,TRUE
 29607,Sabbatical Break,,TRUE
-37497,Sabre,,TRUE
-40815,Sabre Corporation,,FALSE
+37497,Sabre,Sabre Corporation,TRUE
+40815,Sabre Corporation,Sabre Corporation,FALSE
 37564,SAC,,TRUE
 32791,SADA Systems,,TRUE
 28034,Saddington Baynes,,TRUE
@@ -10549,23 +10549,23 @@ DA ID,DA Name,SFDC NAME,Calculated
 27784,Safari.to,,TRUE
 32429,Safe Route,,TRUE
 40573,Safeco,,TRUE
-38238,Safespring,,FALSE
-28595,SafetyCulture,,FALSE
+38238,Safespring,Safespring,FALSE
+28595,SafetyCulture,SafetyCulture,FALSE
 33094,safework,,TRUE
 30113,Safewrd,,TRUE
 32229,Saffron Digital,,TRUE
-32177,Sage,,FALSE
-26306,Sage Group PLC,,TRUE
-27472,Sagem,,TRUE
+32177,Sage,Sage,FALSE
+26306,Sage Group PLC,Sage,TRUE
+27472,Sagem,Sagemcom,TRUE
 26348,SAGEM DEFENSE,,TRUE
-30747,Sagemcom,,FALSE
+30747,Sagemcom,Sagemcom,FALSE
 35846,Sagentia,,TRUE
 35237,Saggezza,,TRUE
 33891,Sahara Cluster,,TRUE
-33594,SAIC,,FALSE
+33594,SAIC,SAIC,FALSE
 27220,Sailpoint,,TRUE
-30335,Sailthru,,FALSE
-33483,Sainsbury's,,FALSE
+30335,Sailthru,Sailthru,FALSE
+33483,Sainsbury's,Sainsbury's,FALSE
 38841,Saint-Gobain,,TRUE
 39386,Saintgits College of Engineering,,TRUE
 36144,Saksoft,,TRUE
@@ -10587,8 +10587,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 38931,SALT Solutions AG,,TRUE
 32131,Salt Tech,,TRUE
 28817,Saltside,,TRUE
-26476,SaltStack,,FALSE
-27338,"SaltStack, Inc.",,TRUE
+26476,SaltStack,SaltStack,FALSE
+27338,"SaltStack, Inc.",SaltStack,TRUE
 31171,SaM Solutions,,TRUE
 33312,Samebug,,TRUE
 40511,Samma,,TRUE
@@ -10597,24 +10597,24 @@ DA ID,DA Name,SFDC NAME,Calculated
 39514,Samsara,,TRUE
 28855,Samse,,TRUE
 35765,Samskip,,TRUE
-26685,Samsung,,TRUE
+26685,Samsung,Samsung Electronics Co. Ltd.,TRUE
 36466,Samsung Accelerator,,TRUE
-36071,Samsung Electronics,,TRUE
-38362,Samsung Electronics Co. Ltd.,,FALSE
+36071,Samsung Electronics,Samsung Electronics Co. Ltd.,TRUE
+38362,Samsung Electronics Co. Ltd.,Samsung Electronics Co. Ltd.,FALSE
 40181,Samsung RnD Noida,,TRUE
 27574,Samsung SDS,,TRUE
-31625,San Diego Supercomputer Center,,FALSE
-38332,San Jose State University,,FALSE
+31625,San Diego Supercomputer Center,San Diego Supercomputer Center,FALSE
+38332,San Jose State University,San Jose State University,FALSE
 36298,Sanctuary,,TRUE
 35938,Sanctuary Woods Multimedia Corp.,,TRUE
 33195,Sander & Doll AG,,TRUE
-38063,Sandia,,FALSE
-26666,Sandia National Laboratories,,FALSE
-35896,Sandia National Laboratory,,TRUE
+38063,Sandia,Sandia,FALSE
+26666,Sandia National Laboratories,Sandia National Laboratories,FALSE
+35896,Sandia National Laboratory,Sandia National Laboratory,TRUE
 27640,SanDisk,,TRUE
 31823,Sandvik,,TRUE
-26727,Sandvine,,TRUE
-39667,Sandvine Incorporated,,FALSE
+26727,Sandvine,Sandvine Incorporated,TRUE
+39667,Sandvine Incorporated,Sandvine Incorporated,FALSE
 39394,Sangfor Technologies,,TRUE
 30467,Sanitas,,TRUE
 33953,Sanity,,TRUE
@@ -10623,15 +10623,15 @@ DA ID,DA Name,SFDC NAME,Calculated
 37958,Sanofi,,TRUE
 36481,Sanofi US R&D,,TRUE
 28608,Sanoma,,TRUE
-37726,Sanovi,,FALSE
+37726,Sanovi,Sanovi,FALSE
 26456,SANPeople,,TRUE
 40746,SANSA,,TRUE
 37928,Santa Barbara,,TRUE
 37328,Santander,,TRUE
 39611,Santander UK,,TRUE
 32699,SantoshSahoo.com,,TRUE
-26608,SAP,,FALSE
-27473,SAP AG,,TRUE
+26608,SAP,SAP,FALSE
+27473,SAP AG,SAP,TRUE
 39830,SAP Ariba,,TRUE
 36316,SAP Concur,,TRUE
 29212,Sap Hybrids,,TRUE
@@ -10639,36 +10639,36 @@ DA ID,DA Name,SFDC NAME,Calculated
 32839,Sapient,,TRUE
 40438,SapientNitro,,TRUE
 28576,SapientRazorfish,,TRUE
-37176,Sapienza Università di Roma,,TRUE
-40657,Sapienza University of Rome,,FALSE
+37176,Sapienza Università di Roma,Sapienza University of Rome,TRUE
+40657,Sapienza University of Rome,Sapienza University of Rome,FALSE
 36806,Sappenin Inc.,,TRUE
 36502,Sarcos Robotics,,TRUE
 36818,SARugby.com,,TRUE
 26889,SAS,,TRUE
 34447,Sascar,,TRUE
-31328,Sasken,,TRUE
-39758,Sasken Communication Technologies Ltd.,,FALSE
-37770,Sasken Technologies Limited,,TRUE
+31328,Sasken,Sasken Communication Technologies Ltd.,TRUE
+39758,Sasken Communication Technologies Ltd.,Sasken Communication Technologies Ltd.,FALSE
+37770,Sasken Technologies Limited,Sasken Communication Technologies Ltd.,TRUE
 26983,SASTRION,,TRUE
 31815,Satellite Applications Catapult,,TRUE
 40741,SatRdays,,TRUE
 37954,Saturn,,TRUE
 40682,Saturn Cloud,,TRUE
-32675,Sauce,,TRUE
-29503,Sauce Labs,,FALSE
-39844,Saudi Aramco,,FALSE
-38562,Saudi Telecom Company,,FALSE
+32675,Sauce,Sauce Labs,TRUE
+29503,Sauce Labs,Sauce Labs,FALSE
+39844,Saudi Aramco,Saudi Aramco,FALSE
+38562,Saudi Telecom Company,Saudi Telecom Company,FALSE
 35568,SavaNet,,TRUE
 27289,Savant Systems,,TRUE
 40319,Savethatname,,TRUE
 38458,Savex Technologies,,TRUE
-27916,Savoir-faire,,TRUE
-27917,Savoir-faire Linux,,FALSE
+27916,Savoir-faire,Savoir-faire Linux,TRUE
+27917,Savoir-faire Linux,Savoir-faire Linux,FALSE
 39251,Savvi,,TRUE
 36776,Sawtooth Software,,TRUE
 27496,Saxnet GmbH,,TRUE
 35808,SBCloud,,TRUE
-38930,Sberbank,,FALSE
+38930,Sberbank,Sberbank,FALSE
 37116,SBT Instruments,,TRUE
 26354,SC5,,TRUE
 32712,SC5 Online Ltd,,TRUE
@@ -10677,7 +10677,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 37878,Scalable Path,,TRUE
 29483,Scalac,,TRUE
 35370,Scalar,,TRUE
-37091,Scalar Decisions,,FALSE
+37091,Scalar Decisions,Scalar Decisions,FALSE
 30832,Scalawags,,TRUE
 29781,Scale,,TRUE
 40647,ScaleArc,,TRUE
@@ -10691,12 +10691,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 31513,Scaleout System,,TRUE
 40122,ScalePlan,,TRUE
 33461,Scaler Labs,,TRUE
-29844,Scaleway,,FALSE
+29844,Scaleway,Scaleway,FALSE
 33811,ScaleWorks,,TRUE
 35825,Scalio,,TRUE
-27965,Scality,,FALSE
-29346,Scalr,,FALSE
-31993,Scalyr,,FALSE
+27965,Scality,Scality,FALSE
+29346,Scalr,Scalr,FALSE
+31993,Scalyr,Scalyr,FALSE
 32024,Scan Trust,,TRUE
 35638,Scanadu,,TRUE
 30273,Scania,,TRUE
@@ -10706,7 +10706,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 38874,Scentbird,,TRUE
 39216,Scentre Group,,TRUE
 28673,Schantz,,TRUE
-37199,Scheidt & Bachmann GmbH,,FALSE
+37199,Scheidt & Bachmann GmbH,Scheidt & Bachmann GmbH,FALSE
 33754,Schematec,,TRUE
 27049,Schibsted,,TRUE
 28902,Schibsted ASA,,TRUE
@@ -10715,25 +10715,25 @@ DA ID,DA Name,SFDC NAME,Calculated
 28372,Schlumberger,,TRUE
 26712,Schmid,,TRUE
 33766,Schnee Von Morgen WebTV,,TRUE
-35375,Schneider,,FALSE
-27091,Schneider Electric,,FALSE
+35375,Schneider,Schneider,FALSE
+27091,Schneider Electric,Schneider Electric,FALSE
 36140,Schneider Trading Associates,,TRUE
 32170,Schnell Paracords,,TRUE
 27344,ScholarStack,,TRUE
 40614,SchoolHouse.io,,TRUE
 33742,Schroders,,TRUE
 36221,Schrödinger,,TRUE
-28957,Schuberg Philis,,FALSE
+28957,Schuberg Philis,Schuberg Philis,FALSE
 33351,Schuddle,,TRUE
 35221,science,,TRUE
 27943,Science and Technology Facilities Council,,TRUE
 27264,Science Fiction Technologies,,TRUE
-36373,ScienceLogic,,FALSE
+36373,ScienceLogic,ScienceLogic,FALSE
 31977,ScienceScape,,TRUE
 38816,Sciencix,,TRUE
 38869,Scienta,,TRUE
 32767,Scientific Games,,TRUE
-40752,Scientific Research Corporation,,FALSE
+40752,Scientific Research Corporation,Scientific Research Corporation,FALSE
 26827,Scilab Enterprises,,TRUE
 32895,Scitor Corporation,,TRUE
 40747,SCK CEN,,TRUE
@@ -10742,20 +10742,20 @@ DA ID,DA Name,SFDC NAME,Calculated
 29986,Scolp,,TRUE
 32781,Scoop Technologies,,TRUE
 32487,Scorpion Software,,TRUE
-26828,Scotiabank,,FALSE
+26828,Scotiabank,Scotiabank,FALSE
 39263,ScotSTS,,TRUE
 35512,Scott Logic,,TRUE
-30462,Scout,,FALSE
-31392,Scout24,,TRUE
-38268,Scout24 AG,,FALSE
+30462,Scout,Scout,FALSE
+31392,Scout24,Scout24 AG,TRUE
+38268,Scout24 AG,Scout24 AG,FALSE
 31456,ScoutAPM,,TRUE
-38420,SCR technologies,,FALSE
-28740,Scrapinghub,,FALSE
+38420,SCR technologies,SCR technologies,FALSE
+28740,Scrapinghub,Scrapinghub,FALSE
 33972,ScriptDash,,TRUE
 29773,SCSK,,TRUE
 36035,Scuola Normale Superiore,,TRUE
-26238,ScyllaDB,,FALSE
-26880,Scytale,,FALSE
+26238,ScyllaDB,ScyllaDB,FALSE
+26880,Scytale,Scytale,FALSE
 33067,SDC,,TRUE
 35274,SDE,,TRUE
 33593,Sdfg,,TRUE
@@ -10771,15 +10771,15 @@ DA ID,DA Name,SFDC NAME,Calculated
 40721,Seabolt Technologies,,TRUE
 32261,SeaBookings,,TRUE
 34566,SeaChange,,TRUE
-27533,Seagate,,FALSE
-26165,Seagate Technology LLC,,FALSE
+27533,Seagate,Seagate,FALSE
+26165,Seagate Technology LLC,Seagate Technology LLC,FALSE
 29745,SeamlessDocs,,TRUE
 40531,Seamore - ROV technologies,,TRUE
 34495,Seapine,,TRUE
 38712,Searium Solutions,,TRUE
 27624,SeatGeek,,TRUE
 36770,Seattle Children's,,TRUE
-40845,Seavus,,FALSE
+40845,Seavus,Seavus,FALSE
 26218,Seawell Network,,TRUE
 30331,Sebastien Badia,,TRUE
 32608,SECful,,TRUE
@@ -10787,7 +10787,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 27891,SecoreKey Technologies,,TRUE
 31945,Secret Sauce Partners,,TRUE
 26677,Secretlab,,TRUE
-28437,Section,,FALSE
+28437,Section,Section,FALSE
 38544,Section 9 BV,,TRUE
 27510,section5,,TRUE
 28272,secunet,,TRUE
@@ -10796,12 +10796,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 39178,SecureAuth Corporation,,TRUE
 39368,SecureK,,TRUE
 35871,SecureKey Technologies Inc,,TRUE
-38793,Secureworks,,FALSE
+38793,Secureworks,Secureworks,FALSE
 29573,Securian Financial,,TRUE
 35615,SecuRing,,TRUE
 36694,"Security And Fire Electronics, Inc. (SAFE)",,TRUE
 36059,Security Code,,TRUE
-32682,SecurityScorecard,,FALSE
+32682,SecurityScorecard,SecurityScorecard,FALSE
 38670,SED Systems,,TRUE
 29041,Sedbox,,TRUE
 37751,SEDNA,,TRUE
@@ -10815,11 +10815,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 35188,SeeTheProgress,,TRUE
 27508,Segment,,TRUE
 30219,Seidemann Web GmbH,,TRUE
-31244,Sela,,TRUE
-31862,Sela Group,,FALSE
+31244,Sela,Sela Group,TRUE
+31862,Sela Group,Sela Group,FALSE
 34436,Selat AL-Youm Est,,TRUE
 30950,Selbstandig,,TRUE
-28175,Seldon,,FALSE
+28175,Seldon,Seldon,FALSE
 28284,Selectel,,TRUE
 38792,Selfikon,,TRUE
 38455,Selfmed,,TRUE
@@ -10830,19 +10830,19 @@ DA ID,DA Name,SFDC NAME,Calculated
 34123,SemanticBits,,TRUE
 39198,Semantics,,TRUE
 26515,Semaphore,,TRUE
-30971,Sematext,,FALSE
+30971,Sematext,Sematext,FALSE
 32666,Sematext Cloud,,TRUE
 37536,Semicode OS,,TRUE
 31829,Semiconductor,,TRUE
-27636,Semihalf,,TRUE
-28181,Semihalf Embedded Systems,,FALSE
+27636,Semihalf,Semihalf Embedded Systems,TRUE
+28181,Semihalf Embedded Systems,Semihalf Embedded Systems,FALSE
 32422,Semplice,,TRUE
 29642,Semplice Linux,,TRUE
 29454,SEMrush,,TRUE
-36507,Semtech,,FALSE
-40272,Sendbird,,FALSE
+36507,Semtech,Semtech,FALSE
+40272,Sendbird,Sendbird,FALSE
 27563,SendFaster,,TRUE
-26552,SendGrid,,FALSE
+26552,SendGrid,SendGrid,FALSE
 29057,SendHub,,TRUE
 29167,Sendify,,TRUE
 32510,Sendwithus,,TRUE
@@ -10862,37 +10862,37 @@ DA ID,DA Name,SFDC NAME,Calculated
 28208,Sensortherm GmbH,,TRUE
 28873,Sensu,,TRUE
 34801,SENSU K.K.,,TRUE
-35432,Sensus,,FALSE
+35432,Sensus,Sensus,FALSE
 27911,Sentelic Corporation,,TRUE
-35009,Sentera,,FALSE
+35009,Sentera,Sentera,FALSE
 40293,Sentinel Software,,TRUE
 37728,Sentivision,,TRUE
-29704,Sentry,,FALSE
+29704,Sentry,Sentry,FALSE
 29151,Senzari,,TRUE
 39184,Senzing,,TRUE
 40019,SEOlytics,,TRUE
 29366,SEOSS,,TRUE
-28838,Sepior Aps,,FALSE
+28838,Sepior Aps,Sepior Aps,FALSE
 35633,Sequans,,TRUE
 28671,SequencelQ,,TRUE
 35972,Sequent Inc.,,TRUE
-31329,Sequoia Capital,,FALSE
+31329,Sequoia Capital,Sequoia Capital,FALSE
 27982,Sequoia IT,,TRUE
 36432,SEQUOIASOFT,,TRUE
 33572,Seresco,,TRUE
 33741,SeresM,,TRUE
 38917,Series Digital,,TRUE
-28492,SERPRO,,FALSE
-37775,Serro,,FALSE
-35300,Server Density,,FALSE
+28492,SERPRO,SERPRO,FALSE
+37775,Serro,Serro,FALSE
+35300,Server Density,Server Density,FALSE
 39531,ServerBee,,TRUE
 26457,ServerEngines Corporation,,TRUE
-30472,Serverless,,FALSE
+30472,Serverless,Serverless,FALSE
 38957,Servian,,TRUE
 33985,Service layer,,TRUE
 32481,Service Layers,,TRUE
 38180,Service Performance Corp,,TRUE
-34133,ServiceNow,,FALSE
+34133,ServiceNow,ServiceNow,FALSE
 39135,ServiceRocket,,TRUE
 29976,Services Bylq,,TRUE
 38252,Servion Global Solution,,TRUE
@@ -10906,16 +10906,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 30097,Seth Miller Building,,TRUE
 29754,SetPay,,TRUE
 28259,Seven Networks,,TRUE
-30109,SevOne,,FALSE
+30109,SevOne,SevOne,FALSE
 40215,SEW-EURODRIVE,,TRUE
-32295,Seznam,,TRUE
-27131,Seznam.cz,,TRUE
-39395,"Seznam.cz, a.s.",,FALSE
+32295,Seznam,"Seznam.cz, a.s.",TRUE
+27131,Seznam.cz,"Seznam.cz, a.s.",TRUE
+39395,"Seznam.cz, a.s.","Seznam.cz, a.s.",FALSE
 27364,Sferia,,TRUE
 33767,SFI,,TRUE
 30786,SFL,,TRUE
 40354,SFPL,,TRUE
-26523,SFR,,FALSE
+26523,SFR,SFR,FALSE
 31035,SG Digital,,TRUE
 35145,Sg-Medien,,TRUE
 27681,SGI,,TRUE
@@ -10925,14 +10925,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 33348,Shagreen,,TRUE
 34141,Shanda Innovations,,TRUE
 36074,ShanDa Interactive Entertainment Ltd.,,TRUE
-37684,Shanghai Pudong Development Bank,,FALSE
+37684,Shanghai Pudong Development Bank,Shanghai Pudong Development Bank,FALSE
 37311,"Shanghai Yimanyou Network Technology Co., Ltd.",,TRUE
 31354,Shape,,TRUE
 29116,Shaper,,TRUE
-40604,Shared Services Canada,,FALSE
+40604,Shared Services Canada,Shared Services Canada,FALSE
 36816,Sharenet,,TRUE
 33326,ShareThis,,TRUE
-37834,Sharp Labs of America,,FALSE
+37834,Sharp Labs of America,Sharp Labs of America,FALSE
 38755,Sharper Shape,,TRUE
 32718,SharpMinds,,TRUE
 29179,SharpSpring,,TRUE
@@ -10967,7 +10967,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 34301,ShopAdvisors,,TRUE
 36083,Shopbeam,,TRUE
 30885,Shopee,,TRUE
-26219,Shopify,,FALSE
+26219,Shopify,Shopify,FALSE
 26187,Shopify Plu,,TRUE
 32118,ShopRunner,,TRUE
 31786,shopspring,,TRUE
@@ -10976,11 +10976,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 40195,ShoreTel,,TRUE
 30535,Short Circuit,,TRUE
 30160,Shoster,,TRUE
-27480,Shotgun Software,,FALSE
+27480,Shotgun Software,Shotgun Software,FALSE
 39095,Shotwell,,TRUE
 26864,ShowCasePRO,,TRUE
 38625,Showcore,,TRUE
-39209,Showmax,,FALSE
+39209,Showmax,Showmax,FALSE
 37610,ShowMobile,,TRUE
 34398,Shuddle,,TRUE
 30464,shunneng,,TRUE
@@ -10990,10 +10990,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 31022,Shuttle Thread Limited,,TRUE
 29515,ShuttleCloud,,TRUE
 30106,Shyp,,TRUE
-37772,Si2 Microsystems,,FALSE
+37772,Si2 Microsystems,Si2 Microsystems,FALSE
 30345,SIA Lattelecom Tehnology,,TRUE
 27885,Siano Mobile Silicon,,TRUE
-30072,Siaras,,FALSE
+30072,Siaras,Siaras,FALSE
 40792,SIB Swiss Institute of Bioinformatics,,TRUE
 36651,Siberian.pro,,TRUE
 30826,Sibridge,,TRUE
@@ -11005,18 +11005,18 @@ DA ID,DA Name,SFDC NAME,Calculated
 34729,SideChef,,TRUE
 34095,SideFX,,TRUE
 40737,Sidero Ltd,,TRUE
-27218,Siemens,,TRUE
-38323,Siemens AG,,FALSE
+27218,Siemens,Siemens AG,TRUE
+38323,Siemens AG,Siemens AG,FALSE
 40085,Siemens Healthineers,,TRUE
 36558,Sierra Systems,,TRUE
-27924,Sierra Wireless,,FALSE
+27924,Sierra Wireless,Sierra Wireless,FALSE
 27514,Sierrs Wireless,,TRUE
 33814,Sieve,,TRUE
-27050,SiFive,,FALSE
+27050,SiFive,SiFive,FALSE
 28825,Siftheme,,TRUE
-39724,Sify Technologies Limited,,FALSE
+39724,Sify Technologies Limited,Sify Technologies Limited,FALSE
 26750,SIG,,TRUE
-26746,Sigfox,,FALSE
+26746,Sigfox,Sigfox,FALSE
 35581,Sighten,,TRUE
 33660,SiGHUP,,TRUE
 31833,Sigm Informatique,,TRUE
@@ -11030,21 +11030,21 @@ DA ID,DA Name,SFDC NAME,Calculated
 29628,Sigmoidal,,TRUE
 29329,Signal,,TRUE
 26989,Signal 11 Software,,TRUE
-29789,Signal Sciences,,FALSE
+29789,Signal Sciences,Signal Sciences,FALSE
 35844,SignalFire,,TRUE
-26424,SignalFx,,FALSE
-37226,Signalogic,,FALSE
+26424,SignalFx,SignalFx,FALSE
+37226,Signalogic,Signalogic,FALSE
 31024,Signalyst,,TRUE
 38068,Signatek,,TRUE
 27951,Signature Research,,TRUE
 29145,Signature Retirement Living,,TRUE
-34006,Signaturit,,FALSE
+34006,Signaturit,Signaturit,FALSE
 30104,Signiant,,TRUE
 30778,Signicat,,TRUE
 28321,Signips,,TRUE
 27722,Signove,,TRUE
-37398,SigOpt,,FALSE
-38399,"SIGP, s.r.o.",,FALSE
+37398,SigOpt,SigOpt,FALSE
+38399,"SIGP, s.r.o.","SIGP, s.r.o.",FALSE
 28439,Sigstr,,TRUE
 26793,Sigterm,,TRUE
 37662,Sii Poland,,TRUE
@@ -11053,14 +11053,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 32843,Siili Solutions,,TRUE
 36639,Sikkra,,TRUE
 38075,Silent Eight,,TRUE
-28134,Silex Insight,,FALSE
+28134,Silex Insight,Silex Insight,FALSE
 37565,Silexica,,TRUE
 31050,Silicon,,TRUE
 33781,Silicon Straits,,TRUE
 35357,Silpion,,TRUE
 35719,Silvair,,TRUE
 35207,Silver Chalice,,TRUE
-33871,Silver Spring Networks,,FALSE
+33871,Silver Spring Networks,Silver Spring Networks,FALSE
 39465,Silverback,,TRUE
 30773,Silverblood,,TRUE
 29526,Silverpeas,,TRUE
@@ -11079,14 +11079,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 38442,Similar Bid,,TRUE
 29060,SimilarWeb,,TRUE
 33751,Simility,,TRUE
-30982,Simple Finance,,FALSE
+30982,Simple Finance,Simple Finance,FALSE
 30206,Simple Reach,,TRUE
 29659,SimpleSite,,TRUE
 37892,simplesurance,,TRUE
 38134,Simplicity Itself,,TRUE
 34838,SimplyVast,,TRUE
 26799,Simtec Electronics,,TRUE
-32956,Simula Research Laboratory,,FALSE
+32956,Simula Research Laboratory,Simula Research Laboratory,FALSE
 29083,Sina,,TRUE
 27035,Sina Corporation,,TRUE
 32641,Sina Weibo,,TRUE
@@ -11118,7 +11118,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 31871,SITAONAIR,,TRUE
 33542,Site Point,,TRUE
 37433,Siteflu,,TRUE
-33408,Sitel,,FALSE
+33408,Sitel,Sitel,FALSE
 33882,SiteMinder,,TRUE
 39624,Siteplus,,TRUE
 29468,Siteworx,,TRUE
@@ -11133,8 +11133,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 39533,Sınava Doğru,,TRUE
 29042,Sjhewitt,,TRUE
 39813,SJM Steffann,,TRUE
-29917,SK C&C,,FALSE
-33897,SK Telecom,,FALSE
+29917,SK C&C,SK C&C,FALSE
+33897,SK Telecom,SK Telecom,FALSE
 38832,Skalata Ventures,,TRUE
 31817,SKALE-5,,TRUE
 37142,Skaramoosh Limited,,TRUE
@@ -11148,7 +11148,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 33229,SkillShare,,TRUE
 40650,Skillz Inc.,,TRUE
 28209,skinnyCorp LLC,,TRUE
-32597,Skipjaq,,FALSE
+32597,Skipjaq,Skipjaq,FALSE
 32383,Skischule,,TRUE
 30377,SkiTravel,,TRUE
 28678,Skookum,,TRUE
@@ -11159,34 +11159,34 @@ DA ID,DA Name,SFDC NAME,Calculated
 29420,Skuid,,TRUE
 31340,Skully,,TRUE
 40271,Skurt,,TRUE
-29741,Sky,,FALSE
+29741,Sky,Sky,FALSE
 30175,Sky Betting,,TRUE
 36196,Sky Betting & Gaming,,TRUE
 29004,Sky Betting&Gaming,,TRUE
 32113,Sky LabsAS,,TRUE
-28801,sky-uk,,TRUE
+28801,sky-uk,Sky,TRUE
 37640,Ský9,,TRUE
 36331,Skyarch networks,,TRUE
-38035,Skycatch,,FALSE
+38035,Skycatch,Skycatch,FALSE
 38162,Skycoin,,TRUE
 28645,Skydragon Logistics,,TRUE
 40216,Skyeng,,TRUE
 36081,Skymoon Ventures,,TRUE
-30761,Skype,,FALSE
+30761,Skype,Skype,FALSE
 31282,Skyport,,TRUE
-29445,Skyscanner,,FALSE
+29445,Skyscanner,Skyscanner,FALSE
 32033,Skyscrapers,,TRUE
 35603,Skytap,,TRUE
 36143,Skytree® – The Machine Learning Company®,,TRUE
 29459,SkyWalking,,TRUE
 33041,Skywind Tech LV,,TRUE
-26602,Slack,,FALSE
-31371,Slalom,,TRUE
-31715,Slalom Consulting,,FALSE
+26602,Slack,Slack,FALSE
+31371,Slalom,Slalom Consulting,TRUE
+31715,Slalom Consulting,Slalom Consulting,FALSE
 32974,Slate and Pencil,,TRUE
 29221,Sleekcode,,TRUE
 36411,Slevomat,,TRUE
-40071,Slice,,FALSE
+40071,Slice,Slice,FALSE
 38436,Slido,,TRUE
 26161,"Slimlogic, Ltd.",,TRUE
 37525,Slimming World,,TRUE
@@ -11201,14 +11201,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 32617,Small Gesture,,TRUE
 39306,Small Helm,,TRUE
 32424,Smallpdf,,TRUE
-39915,Smallstep,,FALSE
+39915,Smallstep,Smallstep,FALSE
 38729,Smalt Création,,TRUE
 30432,Smarkets,,TRUE
 29132,Smart Action Company,,TRUE
 40160,Smart Buildings Limited,,TRUE
 39374,Smart Contract Thailand,,TRUE
 35826,Smart India Hackathon,,TRUE
-35898,Smart Information Flow Technologies (SIFT),,FALSE
+35898,Smart Information Flow Technologies (SIFT),Smart Information Flow Technologies (SIFT),FALSE
 35708,Smart Odisha Hackathon,,TRUE
 39505,Smart Telecom,,TRUE
 28315,Smart Weblications,,TRUE
@@ -11230,7 +11230,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39337,SmartShare Systems,,TRUE
 30443,Smartsheet,,TRUE
 38029,smartShift,,TRUE
-33922,SmartThings,,FALSE
+33922,SmartThings,SmartThings,FALSE
 27422,SMARTX,,TRUE
 38097,SmartyStreets,,TRUE
 27441,Smashing Boxes,,TRUE
@@ -11250,7 +11250,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28316,Snabb,,TRUE
 28343,Snap,,TRUE
 37161,Snap Inc.,,TRUE
-28862,Snapchat,,FALSE
+28862,Snapchat,Snapchat,FALSE
 36880,Snapdeal,,TRUE
 39475,SNAPLOADER,,TRUE
 38090,SnappTrip,,TRUE
@@ -11270,7 +11270,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 31391,Snupi,,TRUE
 33406,Snyk,,TRUE
 31743,SO Connect,,TRUE
-37305,Soapstone Networks,,FALSE
+37305,Soapstone Networks,Soapstone Networks,FALSE
 31745,Sobey,,TRUE
 31435,Sobinbank,,TRUE
 39784,SoCal Blender,,TRUE
@@ -11290,10 +11290,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 37581,Socialpoint,,TRUE
 28570,Societe Generale,,TRUE
 32171,Sociomantic Labs,,TRUE
-27834,Socionext,,FALSE
+27834,Socionext,Socionext,FALSE
 37673,"Socketplane, Inc.",,TRUE
-30296,Socrata,,TRUE
-27280,"Socrata, Inc.",,FALSE
+30296,Socrata,"Socrata, Inc.",TRUE
+27280,"Socrata, Inc.","Socrata, Inc.",FALSE
 32181,Sodexo,,TRUE
 28129,SodiFrance (formely Mia software),,TRUE
 40396,SofaScore,,TRUE
@@ -11307,7 +11307,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 36857,Soft Machines,,TRUE
 34305,Softaculous,,TRUE
 36334,SoftBank,,TRUE
-38538,Softbank Mobile,,FALSE
+38538,Softbank Mobile,Softbank Mobile,FALSE
 31978,Softchoice,,TRUE
 27970,"Softek Solutions, Inc.",,TRUE
 32148,Softhouse Baltic AB,,TRUE
@@ -11328,12 +11328,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 30015,SoftServe,,TRUE
 36240,SoftSwiss,,TRUE
 32619,Software & Things,,TRUE
-36142,Software AG,,FALSE
+36142,Software AG,Software AG,FALSE
 32399,Software Company,,TRUE
 36841,Software for Good,,TRUE
-29842,Software Freedom Conservancy,,FALSE
-30430,Software Freedom Conserwancy,,TRUE
-28080,Software Freedom Law Center,,FALSE
+29842,Software Freedom Conservancy,Software Freedom Conservancy,FALSE
+30430,Software Freedom Conserwancy,Software Freedom Conservancy,TRUE
+28080,Software Freedom Law Center,Software Freedom Law Center,FALSE
 27752,Software in the Public Interest,,TRUE
 32266,Software Motor Company,,TRUE
 36594,Software Quality Institute,,TRUE
@@ -11343,18 +11343,18 @@ DA ID,DA Name,SFDC NAME,Calculated
 37910,Sogou,,TRUE
 26781,Sogyo,,TRUE
 26945,Sohonet,,TRUE
-37269,Soitron,,FALSE
+37269,Soitron,Soitron,FALSE
 31466,Sojern,,TRUE
-38209,"Sokol & Associates, L.L.C.",,FALSE
+38209,"Sokol & Associates, L.L.C.","Sokol & Associates, L.L.C.",FALSE
 29800,Solace,,TRUE
 33838,Solaise Capital Management,,TRUE
 37343,SolarCity,,TRUE
-30969,Solarflare,,TRUE
-30696,Solarflare Communications,,TRUE
-26509,"Solarflare Communications, Inc.",,FALSE
+30969,Solarflare,"Solarflare Communications, Inc.",TRUE
+30696,Solarflare Communications,"Solarflare Communications, Inc.",TRUE
+26509,"Solarflare Communications, Inc.","Solarflare Communications, Inc.",FALSE
 29009,SolarisBank AG,,TRUE
 33381,SOLARMA,,TRUE
-30167,SolarWinds,,FALSE
+30167,SolarWinds,SolarWinds,FALSE
 39816,Solcon,,TRUE
 27081,Solectrix GmbH,,TRUE
 37043,Soleil Software Studio,,TRUE
@@ -11362,21 +11362,21 @@ DA ID,DA Name,SFDC NAME,Calculated
 29808,Solera Holdings,,TRUE
 28290,Solid Boot,,TRUE
 28153,"Solid Boot, Ltd.",,TRUE
-38176,Solidex S.A.,,FALSE
+38176,Solidex S.A.,Solidex S.A.,FALSE
 27443,SolidFire,,TRUE
 32794,SolidOpinion,,TRUE
-26535,SolidRun,,FALSE
-27071,Solinea,,FALSE
+26535,SolidRun,SolidRun,FALSE
+27071,Solinea,Solinea,FALSE
 29133,Solink,,TRUE
 36186,SOLINOV,,TRUE
 35238,SOLO,,TRUE
 29048,SOLO Virtual POS,,TRUE
-26166,Solo.io,,FALSE
+26166,Solo.io,Solo.io,FALSE
 34461,SOLS,,TRUE
 31681,Solum Solutions,,TRUE
 34921,Soluti Certificação Digital,,TRUE
 34505,SolutionCondo,,TRUE
-38590,Solutions by STC,,FALSE
+38590,Solutions by STC,Solutions by STC,FALSE
 34240,Solutions Medias 360,,TRUE
 31740,Solutions Plus,,TRUE
 31419,Soluto,,TRUE
@@ -11390,23 +11390,23 @@ DA ID,DA Name,SFDC NAME,Calculated
 28285,Sonatype,,TRUE
 37029,SONDA,,TRUE
 33504,Songkick,,TRUE
-28135,Sonos,,FALSE
+28135,Sonos,Sonos,FALSE
 32434,Sonowflake,,TRUE
 40731,SONUMA,,TRUE
-28164,Sony,,TRUE
+28164,Sony,Sony Corporation,TRUE
 31455,Sony Backer,,TRUE
-39837,Sony Corporation,,FALSE
-34087,Sony Imageworks,,TRUE
+39837,Sony Corporation,Sony Corporation,FALSE
+34087,Sony Imageworks,Sony Pictures Imageworks,TRUE
 26609,Sony Mobile,,TRUE
-26260,Sony Mobile Communications,,FALSE
-35900,Sony Pictures Imageworks,,FALSE
+26260,Sony Mobile Communications,Sony Mobile Communications,FALSE
+35900,Sony Pictures Imageworks,Sony Pictures Imageworks,FALSE
 35930,Sony Playstation,,TRUE
 29288,Soonr,,TRUE
 38807,Soostone,,TRUE
 34103,Soothsayer Analytics,,TRUE
 39597,SOPG GbR,,TRUE
 27999,Sophos,,TRUE
-28394,Sopra Steria,,FALSE
+28394,Sopra Steria,Sopra Steria,FALSE
 36654,Soramitsu,,TRUE
 38414,Sorbonne University,,TRUE
 30279,SORINT.lab,,TRUE
@@ -11421,24 +11421,24 @@ DA ID,DA Name,SFDC NAME,Calculated
 28553,Soundset.fm,,TRUE
 35746,Soundtrack Your Brand,,TRUE
 40592,Souq.com,,TRUE
-29307,Source,,FALSE
+29307,Source,Source,FALSE
 40228,Source Allies,,TRUE
 37392,Source BioScience,,TRUE
 40289,Source Capital,,TRUE
 29714,Source Mage,,TRUE
 28823,Source{d},,TRUE
 32138,Sourcebits,,TRUE
-28528,SourceClear,,FALSE
+28528,SourceClear,SourceClear,FALSE
 29857,Sourcegraph,,TRUE
 30370,Sourcegraph.com,,TRUE
 32536,Sourcepoint,,TRUE
 34823,Sourcesense,,TRUE
 26688,South Pole AB,,TRUE
-40616,Southern Methodist University,,FALSE
+40616,Southern Methodist University,Southern Methodist University,FALSE
 36369,Southwest Airlines,,TRUE
 27419,Southwest Solar Technologies,,TRUE
 40326,Sovereign Systems,,TRUE
-36512,Sovrin Foundation,,FALSE
+36512,Sovrin Foundation,Sovrin Foundation,FALSE
 34401,Sovrn Holdings,,TRUE
 28495,Sowisco,,TRUE
 26698,Soyatec,,TRUE
@@ -11448,10 +11448,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 28859,Spaceback,,TRUE
 31325,Spaceflight,,TRUE
 35215,Spacemaker,,TRUE
-39362,Spaceman ID,,FALSE
-28973,SpaceNet,,FALSE
+39362,Spaceman ID,Spaceman ID,FALSE
+28973,SpaceNet,SpaceNet,FALSE
 34965,SpaceTime,,TRUE
-34107,SpaceX,,FALSE
+34107,SpaceX,SpaceX,FALSE
 36276,Spantree,,TRUE
 31644,SparcIt,,TRUE
 31906,SPARCS,,TRUE
@@ -11466,7 +11466,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 38132,Spartan,,TRUE
 34572,Sparx,,TRUE
 32979,Spatial Networks,,TRUE
-35725,SPAWAR,,FALSE
+35725,SPAWAR,SPAWAR,FALSE
 27990,SPB TV,,TRUE
 32277,Spec Deas HR Consulting,,TRUE
 27534,Special Communications Systems,,TRUE
@@ -11492,21 +11492,21 @@ DA ID,DA Name,SFDC NAME,Calculated
 40235,SpinDance,,TRUE
 38704,spinorX,,TRUE
 31142,Spire,,TRUE
-34837,Spirent,,TRUE
-37681,Spirent Communications,,TRUE
-38398,Spirent Communications Inc,,FALSE
+34837,Spirent,Spirent Communications Inc,TRUE
+37681,Spirent Communications,Spirent Communications Inc,TRUE
+38398,Spirent Communications Inc,Spirent Communications Inc,FALSE
 37423,Spiria,,TRUE
 35659,Spirula Systems,,TRUE
 31590,Splice,,TRUE
 29007,Splunk,,TRUE
-37903,Spoken,,FALSE
+37903,Spoken,Spoken,FALSE
 30281,Spokepoint,,TRUE
 32274,Spokout,,TRUE
 33043,Spongecell,,TRUE
 40509,Spookfish Innovations,,TRUE
 32972,Sport.com,,TRUE
 37540,Sport195,,TRUE
-32937,Sportradar,,FALSE
+32937,Sportradar,Sportradar,FALSE
 33662,Sportrader,,TRUE
 33747,Sports195,,TRUE
 32824,SportsHeroes,,TRUE
@@ -11519,7 +11519,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 38636,SpotHero,,TRUE
 27886,Spotify,,TRUE
 28051,Spotify AB,,TRUE
-31689,Spotinst,,FALSE
+31689,Spotinst,Spotinst,FALSE
 40331,SpotOn Transact,,TRUE
 38603,SpotOpp,,TRUE
 32853,spoud.io,,TRUE
@@ -11531,43 +11531,43 @@ DA ID,DA Name,SFDC NAME,Calculated
 35417,Spreemo Health,,TRUE
 35420,Spremo,,TRUE
 33718,Spring,,TRUE
-30626,Springer Nature,,FALSE
+30626,Springer Nature,Springer Nature,FALSE
 33558,Springer Science + Business Media,,TRUE
 27846,Springpath Inc.,,TRUE
 27766,"SpringSource, Inc aka VmWare now GoPivotal",,TRUE
 31198,SpringTree,,TRUE
-34880,Sprinklr,,FALSE
-37737,Sprint,,TRUE
-38519,Sprint Corporation,,FALSE
+34880,Sprinklr,Sprinklr,FALSE
+37737,Sprint,Sprint Corporation,TRUE
+38519,Sprint Corporation,Sprint Corporation,FALSE
 32252,SprintHive,,TRUE
 30207,Sprouts Tech,,TRUE
 33278,SPSI - Highveld,,TRUE
 35622,SQr Infotech,,TRUE
 38881,SQR Systems,,TRUE
-40037,Sqreen,,FALSE
+40037,Sqreen,Sqreen,FALSE
 26875,Squadra Corse,,TRUE
 36047,Squadra Corse - Politecnico di Torino,,TRUE
-26717,Square,,TRUE
+26717,Square,"Square, Inc.",TRUE
 31753,Square Enix,,TRUE
-27281,"Square, Inc.",,FALSE
+27281,"Square, Inc.","Square, Inc.",FALSE
 36259,Squared,,TRUE
-27776,Squarespace,,FALSE
+27776,Squarespace,Squarespace,FALSE
 31104,Squashfs,,TRUE
 30523,Squeed,,TRUE
 28452,Squixa,,TRUE
 30157,Sr SDE,,TRUE
-36874,SRA Systems,,FALSE
+36874,SRA Systems,SRA Systems,FALSE
 34708,Sravni.ru,,TRUE
 32928,Src-d,,TRUE
-26885,SRI International,,FALSE
+26885,SRI International,SRI International,FALSE
 26404,SRI Quant,,TRUE
 34956,SRM,,TRUE
 39274,SRM Research Institute,,TRUE
 28725,Srossierad,,TRUE
-37249,SRS Group,,FALSE
+37249,SRS Group,SRS Group,FALSE
 28634,SS&C,,TRUE
 37951,SS&C Advent,,TRUE
-38961,SSENSE,,FALSE
+38961,SSENSE,SSENSE,FALSE
 35685,SSF - Space Systems Finland,,TRUE
 37691,"St Cross College, Oxford",,TRUE
 28141,ST Ericsson,,TRUE
@@ -11579,7 +11579,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 32157,STA,,TRUE
 29951,Stack Builders,,TRUE
 28865,Stack Exchange,,TRUE
-33360,Stack Overflow,,FALSE
+33360,Stack Overflow,Stack Overflow,FALSE
 28221,Stack Rox,,TRUE
 29432,Stack.Build,,TRUE
 30582,StackEngine,,TRUE
@@ -11588,10 +11588,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 26338,StackMasters,,TRUE
 32912,StackMob,,TRUE
 26202,StackOps Technologies,,TRUE
-38379,StackPath,,FALSE
-27074,StackRox,,FALSE
+38379,StackPath,StackPath,FALSE
+27074,StackRox,StackRox,FALSE
 38835,StackSoft,,TRUE
-29950,StackStorm,,FALSE
+29950,StackStorm,StackStorm,FALSE
 40349,Stacktical,,TRUE
 32790,Stad Lokeren,,TRUE
 28006,STADA Group,,TRUE
@@ -11603,11 +11603,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 28560,Stamus,,TRUE
 40256,Stan,,TRUE
 36822,Stanchion Payment Solutions,,TRUE
-35728,Standard Chartered,,TRUE
-33919,Standard Chartered Bank,,FALSE
+35728,Standard Chartered,Standard Chartered Bank,TRUE
+33919,Standard Chartered Bank,Standard Chartered Bank,FALSE
 32736,StandardAero,,TRUE
 35173,StandUp,,TRUE
-28063,Stanford University,,FALSE
+28063,Stanford University,Stanford University,FALSE
 36977,Stanley Black & Decker,,TRUE
 30045,Staples,,TRUE
 35329,STAQ,,TRUE
@@ -11617,7 +11617,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 37344,Starbreeze Studios,,TRUE
 32312,Starbuck,,TRUE
 34379,Starbucks,,TRUE
-32056,Starburst,,FALSE
+32056,Starburst,Starburst,FALSE
 30131,Stardog Union,,TRUE
 26915,Starent Networks,,TRUE
 29663,Stark & Wayne,,TRUE
@@ -11630,13 +11630,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 26794,Startup,,TRUE
 30253,startuphero.es,,TRUE
 28405,StashAway,,TRUE
-35916,STAT ChipPAC,,FALSE
+35916,STAT ChipPAC,STAT ChipPAC,FALSE
 31773,StatDNA,,TRUE
 29045,State Farm,,TRUE
 40159,State Key Lab of CAD&CG,,TRUE
-38576,State of Tennessee,,FALSE
+38576,State of Tennessee,State of Tennessee,FALSE
 36704,State Street,,TRUE
-37668,Stateless Networks,,FALSE
+37668,Stateless Networks,Stateless Networks,FALSE
 30500,StateStreet,,TRUE
 34841,Statkraft,,TRUE
 30456,Status,,TRUE
@@ -11653,10 +11653,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 38144,Stealth Travel,,TRUE
 38048,steelbrain,,TRUE
 27643,SteelEye,,TRUE
-32782,SteelHouse,,FALSE
+32782,SteelHouse,SteelHouse,FALSE
 34612,Stel Life,,TRUE
-32375,Stellar Development Foundation,,FALSE
-33621,Stelligent,,FALSE
+32375,Stellar Development Foundation,Stellar Development Foundation,FALSE
+33621,Stelligent,Stelligent,FALSE
 28698,Stelth,,TRUE
 28176,Stelth Startrup,,TRUE
 34797,STEMN,,TRUE
@@ -11665,20 +11665,20 @@ DA ID,DA Name,SFDC NAME,Calculated
 32152,StepStone,,TRUE
 34754,Stepwise Analytics,,TRUE
 33679,Steria,,TRUE
-39736,Sterlite,,TRUE
-40763,Sterlite Technologies Limited,,FALSE
+39736,Sterlite,Sterlite Technologies Limited,TRUE
+40763,Sterlite Technologies Limited,Sterlite Technologies Limited,FALSE
 36772,Sternshus,,TRUE
 27360,"Sterry IT, LLC",,TRUE
 33411,Steve Mitchell,,TRUE
-39896,Stevens Institute of Technology,,FALSE
+39896,Stevens Institute of Technology,Stevens Institute of Technology,FALSE
 34793,Stiaos,,TRUE
 39815,Stichting IPv6 Nederland,,TRUE
 27400,Sticket Mule,,TRUE
 28114,Stiftelsen Chalmers Studenthem,,TRUE
 31237,STIMIO,,TRUE
-26778,Stingray,,FALSE
+26778,Stingray,Stingray,FALSE
 30940,Stipit,,TRUE
-26732,Stitch Fix,,FALSE
+26732,Stitch Fix,Stitch Fix,FALSE
 28391,Stitch Labs,,TRUE
 34849,STMicroelectronic,,TRUE
 28322,STMicroelectronics,,TRUE
@@ -11691,12 +11691,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 39077,StorageCraft,,TRUE
 31105,StorageOS,,TRUE
 32918,Storied,,TRUE
-38950,Storj Labs,,FALSE
-32331,Storm Reply,,FALSE
+38950,Storj Labs,Storj Labs,FALSE
+32331,Storm Reply,Storm Reply,FALSE
 36158,Storm8,,TRUE
 34716,StorMagic,,TRUE
 39452,Stormcloud,,TRUE
-32947,Stormpath,,FALSE
+32947,Stormpath,Stormpath,FALSE
 28038,Stormshield,,TRUE
 39684,StorNetware,,TRUE
 26699,StorPool,,TRUE
@@ -11712,32 +11712,32 @@ DA ID,DA Name,SFDC NAME,Calculated
 37146,Stranger,,TRUE
 34595,Strap,,TRUE
 32728,Strat Aero,,TRUE
-38866,Stratasys,,FALSE
+38866,Stratasys,Stratasys,FALSE
 35468,Strategic Alliance Consulting,,TRUE
 35263,Strategic Blue,,TRUE
 31390,Stratio Big Data,,TRUE
 36427,STRATIS IoT,,TRUE
 32745,Stratiteq,,TRUE
-27707,Strato,,TRUE
-39071,STRATO AG,,FALSE
-27747,StratoScale,,FALSE
+27707,Strato,STRATO AG,TRUE
+39071,STRATO AG,STRATO AG,FALSE
+27747,StratoScale,StratoScale,FALSE
 27204,Stratosec,,TRUE
 35438,Stratus EMR,,TRUE
-40833,Stratus Technologies,,FALSE
-29670,Strava,,FALSE
-35280,Stream,,FALSE
+40833,Stratus Technologies,Stratus Technologies,FALSE
+29670,Strava,Strava,FALSE
+35280,Stream,Stream,FALSE
 26322,"Stream Processors, Inc.",,TRUE
 26149,Stream.io,,TRUE
-29598,Streamlio,,FALSE
+29598,Streamlio,Streamlio,FALSE
 28934,StreamMe,,TRUE
-38695,StreamNative,,FALSE
+38695,StreamNative,StreamNative,FALSE
 33066,Streamplace,,TRUE
 40095,Streamroot,,TRUE
-37289,StreamSets,,FALSE
+37289,StreamSets,StreamSets,FALSE
 26590,StreamUnlimited,,TRUE
 38441,Streetcred ID,,TRUE
 27763,Stripe,,TRUE
-26181,StrongLoop,,FALSE
+26181,StrongLoop,StrongLoop,FALSE
 34075,STRV,,TRUE
 39365,STT,,TRUE
 34582,Stuart,,TRUE
@@ -11755,7 +11755,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 36998,Styliff,,TRUE
 32930,Stylify Your Blog,,TRUE
 29812,Stylight,,TRUE
-29760,Styra,,FALSE
+29760,Styra,Styra,FALSE
 39967,SuaWeb,,TRUE
 34230,Subboard,,TRUE
 38515,Subex,,TRUE
@@ -11765,9 +11765,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 29875,Success Creation,,TRUE
 40297,Sudheesah,,TRUE
 33437,Sudo Pseience,,TRUE
-39895,Sue B.V.,,FALSE
-33392,SugarCRM,,FALSE
-39836,SugarSync,,FALSE
+39895,Sue B.V.,Sue B.V.,FALSE
+33392,SugarCRM,SugarCRM,FALSE
+39836,SugarSync,SugarSync,FALSE
 29160,Sulake,,TRUE
 29103,Sulake Dynamoid,,TRUE
 30558,Sullivan Tutorials,,TRUE
@@ -11779,15 +11779,15 @@ DA ID,DA Name,SFDC NAME,Calculated
 35115,Summatrix,,TRUE
 40748,"Summit Consulting, LLC",,TRUE
 34844,Sumo,,TRUE
-26920,Sumo Logic,,FALSE
+26920,Sumo Logic,Sumo Logic,FALSE
 32042,SumTotal,,TRUE
-36255,SumUp,,FALSE
+36255,SumUp,SumUp,FALSE
 27503,Sun,,TRUE
 36125,Sun Chemical,,TRUE
 26962,"Sun Microsystems, Inc.",,TRUE
 36482,Sun Technologies,,TRUE
 26876,Suncorp,,TRUE
-38236,SUNET,,FALSE
+38236,SUNET,SUNET,FALSE
 35007,Sunflower Labs,,TRUE
 28075,SunGard,,TRUE
 32369,Sungard Availability Services,,TRUE
@@ -11800,7 +11800,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 34165,Sunrise Productions,,TRUE
 38054,Suntech,,TRUE
 32477,Suntechsoft,,TRUE
-38574,"SunTrust Banks, Inc.",,FALSE
+38574,"SunTrust Banks, Inc.","SunTrust Banks, Inc.",FALSE
 38199,"Sunwave Communications, Inc.",,TRUE
 36160,Super Evil Megacorp,,TRUE
 29531,SuperAwesome,,TRUE
@@ -11812,24 +11812,24 @@ DA ID,DA Name,SFDC NAME,Calculated
 40708,SuperMap,,TRUE
 32449,supernode,,TRUE
 38010,Supero,,TRUE
-39155,SuperOrbital,,FALSE
+39155,SuperOrbital,SuperOrbital,FALSE
 32795,Superpixel,,TRUE
 33209,Supership,,TRUE
 30186,Supershpip,,TRUE
-35979,Supersoftware,,FALSE
+35979,Supersoftware,Supersoftware,FALSE
 30524,Supertext,,TRUE
 37930,SupplyPike,,TRUE
 30415,Supportify,,TRUE
 32378,Suprace,,TRUE
 30493,Supwisdom,,TRUE
 37901,SurfEasy,,TRUE
-39860,SURFnet,,FALSE
+39860,SURFnet,SURFnet,FALSE
 29829,Surplus Asset Management,,TRUE
 32146,Survey Sampling,,TRUE
-30647,SurveyMonkey,,FALSE
+30647,SurveyMonkey,SurveyMonkey,FALSE
 40166,SurveyVitals,,TRUE
-27930,SUSE,,TRUE
-40835,SUSE LLC,,FALSE
+27930,SUSE,SUSE LLC,TRUE
+40835,SUSE LLC,SUSE LLC,FALSE
 34395,Susquehanna Growth Equity,,TRUE
 34812,Susquehanna International Group,,TRUE
 37267,"Susquehanna International Group, LLP",,TRUE
@@ -11866,34 +11866,34 @@ DA ID,DA Name,SFDC NAME,Calculated
 33396,Swesharp Consulting,,TRUE
 29255,Swift Medical,,TRUE
 34916,Swift Navigation,,TRUE
-27954,SwiftStack,,FALSE
+27954,SwiftStack,SwiftStack,FALSE
 38778,SwimAtlanta Pool Management,,TRUE
 33474,Swimbot,,TRUE
-34341,Swimlane,,FALSE
+34341,Swimlane,Swimlane,FALSE
 39061,Swimming Coaching,,TRUE
-34539,Swiss Post,,FALSE
+34539,Swiss Post,Swiss Post,FALSE
 37466,SWISS TXT,,TRUE
 38808,Swissblock,,TRUE
-29876,Swisscom,,FALSE
+29876,Swisscom,Swisscom,FALSE
 29594,Swissquote,,TRUE
-26405,SWITCH,,FALSE
+26405,SWITCH,SWITCH,FALSE
 30734,Swords Castle,,TRUE
 36360,SWsoft,,TRUE
 38989,Swyfft,,TRUE
-28398,Syapse,,FALSE
+28398,Syapse,Syapse,FALSE
 36116,SybarIP,,TRUE
 26381,Sybase,,TRUE
 33072,Sykehuspartner,,TRUE
 34657,SYKES,,TRUE
-33945,Sylabs,,FALSE
+33945,Sylabs,Sylabs,FALSE
 35644,Sylog,,TRUE
-27520,Symantec,,TRUE
-26990,Symantec Corporation,,FALSE
-27162,Symas Corporation,,FALSE
-40806,Symbian Foundation,,FALSE
+27520,Symantec,Symantec Corporation,TRUE
+26990,Symantec Corporation,Symantec Corporation,FALSE
+27162,Symas Corporation,Symas Corporation,FALSE
+40806,Symbian Foundation,Symbian Foundation,FALSE
 38575,Symbion,,TRUE
 39068,Symbiont,,TRUE
-37118,Symbolics,,FALSE
+37118,Symbolics,Symbolics,FALSE
 39310,Symco (Vic) Pty Ltd,,TRUE
 29855,Symform,,TRUE
 40381,Symph,,TRUE
@@ -11905,7 +11905,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 30525,Synadia,,TRUE
 32758,Synamedia,,TRUE
 31226,Synapse,,TRUE
-31255,Synaptics,,FALSE
+31255,Synaptics,Synaptics,FALSE
 39096,Synchromedia,,TRUE
 31278,Synchronic,,TRUE
 39763,"Synchronoss Technologies, Inc.",,TRUE
@@ -11915,15 +11915,15 @@ DA ID,DA Name,SFDC NAME,Calculated
 39701,Syndigo,,TRUE
 34710,Synergie,,TRUE
 40221,Synergy,,TRUE
-37257,Synertone,,FALSE
+37257,Synertone,Synertone,FALSE
 26471,Synesis,,TRUE
 31015,SYNEXXUS,,TRUE
 29144,Syngenio,,TRUE
 38770,Syngenta,,TRUE
 36262,Syniti,,TRUE
 30286,Synologa,,TRUE
-27835,Synology,,FALSE
-26254,Synopsys,,FALSE
+27835,Synology,Synology,FALSE
+26254,Synopsys,Synopsys,FALSE
 38975,SYNQ,,TRUE
 35150,Synqq,,TRUE
 31066,Synthego,,TRUE
@@ -11938,45 +11938,45 @@ DA ID,DA Name,SFDC NAME,Calculated
 36894,Sysco LABS,,TRUE
 37763,SysCorp International,,TRUE
 40726,SysDesign Consulting,,TRUE
-29815,Sysdig,,FALSE
+29815,Sysdig,Sysdig,FALSE
 29272,SysEleven,,TRUE
-38266,SysEleven Gmbh,,FALSE
-26832,SYSGO,,TRUE
-31169,SYSGO GmbH,,FALSE
+38266,SysEleven Gmbh,SysEleven Gmbh,FALSE
+26832,SYSGO,SYSGO GmbH,TRUE
+31169,SYSGO GmbH,SYSGO GmbH,FALSE
 34038,Syslog,,TRUE
 29357,sysmocom,,TRUE
 31350,Sysnova,,TRUE
 36562,Systeia,,TRUE
-26142,System Fabric Works,,FALSE
+26142,System Fabric Works,System Fabric Works,FALSE
 30256,System Insights,,TRUE
 30567,System1,,TRUE
 32361,systemli.org,,TRUE
 38839,Systems & Technology Research,,TRUE
 32811,Systran,,TRUE
-38889,Sytac,,FALSE
+38889,Sytac,Sytac,FALSE
 39821,Sztaki,,TRUE
 35587,T-DOSE,,TRUE
 32766,T-Labs,,TRUE
-30494,T-Mobile,,TRUE
-38959,T-Mobile Nederland,,TRUE
-39273,T-Mobile PCS Holdings LLC,,FALSE
-31187,T-Systems,,FALSE
-39715,T-Systems International GmbH,,TRUE
-38520,T‑Mobile Czech Republic a.s.,,TRUE
+30494,T-Mobile,T-Mobile PCS Holdings LLC,TRUE
+38959,T-Mobile Nederland,T-Mobile PCS Holdings LLC,TRUE
+39273,T-Mobile PCS Holdings LLC,T-Mobile PCS Holdings LLC,FALSE
+31187,T-Systems,T-Systems,FALSE
+39715,T-Systems International GmbH,T-Systems,TRUE
+38520,T‑Mobile Czech Republic a.s.,T-Mobile PCS Holdings LLC,TRUE
 35540,T. Rowe Price,,TRUE
 34365,T.D. Williamson,,TRUE
 30941,t2cloud,,TRUE
 28561,T3Web Serwices,,TRUE
 29253,Taarangana,,TRUE
 32221,Tabao Marketplace,,TRUE
-29139,Tabcorp,,FALSE
+29139,Tabcorp,Tabcorp,FALSE
 33837,Tabelogy,,TRUE
 28414,Tableau,,TRUE
 34666,TableCheck,,TRUE
 37458,Tablets,,TRUE
 32991,Tabula,,TRUE
 33308,TACC,,TRUE
-34167,tachtech,,FALSE
+34167,tachtech,tachtech,FALSE
 39186,Tachyus,,TRUE
 33496,Tacit Knowledge,,TRUE
 29257,Tactile Entertainment,,TRUE
@@ -11984,8 +11984,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 37580,Tactill,,TRUE
 28542,TaDaweb,,TRUE
 28433,tado,,TRUE
-39143,Tag1,,TRUE
-35926,"Tag1 Consulting, Inc.",,FALSE
+39143,Tag1,"Tag1 Consulting, Inc.",TRUE
+35926,"Tag1 Consulting, Inc.","Tag1 Consulting, Inc.",FALSE
 39237,Taggart,,TRUE
 27504,Tagged,,TRUE
 28818,Tai-Dev,,TRUE
@@ -11993,22 +11993,22 @@ DA ID,DA Name,SFDC NAME,Calculated
 31793,Takamol Holding,,TRUE
 38076,Take Wing,,TRUE
 33412,takealot,,TRUE
-40350,Takeaway,,FALSE
+40350,Takeaway,Takeaway,FALSE
 37884,Takefive Interactive,,TRUE
 28857,Taking a Break,,TRUE
 26647,Taktik,,TRUE
 28064,Talend,,TRUE
-34399,Talentica,,TRUE
-33639,Talentica Software,,FALSE
+34399,Talentica,Talentica Software,TRUE
+33639,Talentica Software,Talentica Software,FALSE
 39021,Talentoday,,TRUE
-38175,Talex S.A.,,FALSE
+38175,Talex S.A.,Talex S.A.,FALSE
 34488,Talk Shop,,TRUE
 27875,TalkingData,,TRUE
-36863,TalkTalk,,FALSE
+36863,TalkTalk,TalkTalk,FALSE
 36941,Talmai,,TRUE
 29137,TalonOne,,TRUE
-35171,Talos,,TRUE
-34364,Talos Systems,,FALSE
+35171,Talos,Talos Systems,TRUE
+34364,Talos Systems,Talos Systems,FALSE
 34704,Tam,,TRUE
 37462,Tamedia,,TRUE
 27118,Tamkeen,,TRUE
@@ -12020,8 +12020,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 33015,Tangram Flex,,TRUE
 36108,Tank Top TV,,TRUE
 26645,Taobao,,TRUE
-26345,"TAOS, Inc.",,FALSE
-30536,Tapad,,FALSE
+26345,"TAOS, Inc.","TAOS, Inc.",FALSE
+30536,Tapad,Tapad,FALSE
 27629,Taperay,,TRUE
 27946,Tapestry Systems,,TRUE
 37615,Tapglue,,TRUE
@@ -12030,9 +12030,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 29981,Tapp TV,,TRUE
 35773,TAPSI,,TRUE
 34225,Tarana Wireless,,TRUE
-30987,Tarantool,,FALSE
-30297,Target,,TRUE
-38578,Target Corporation,,FALSE
+30987,Tarantool,Tarantool,FALSE
+30297,Target,Target Corporation,TRUE
+38578,Target Corporation,Target Corporation,FALSE
 28478,Target CW,,TRUE
 33824,Taringa,,TRUE
 37613,TASCOMBANK,,TRUE
@@ -12040,10 +12040,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 34783,TaskRabbit,,TRUE
 27075,Tasktop,,TRUE
 26686,Tata,,TRUE
-40644,Tata Communications Limited,,FALSE
-28029,Tata Consultancy,,TRUE
-38331,Tata Consultancy Services,,FALSE
-37783,Tata Elxsi,,FALSE
+40644,Tata Communications Limited,Tata Communications Limited,FALSE
+28029,Tata Consultancy,Tata Consultancy Services,TRUE
+38331,Tata Consultancy Services,Tata Consultancy Services,FALSE
+37783,Tata Elxsi,Tata Elxsi,FALSE
 30137,Tata Steel,,TRUE
 30961,Tattile,,TRUE
 31442,taudac,,TRUE
@@ -12056,7 +12056,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 31726,TaxSlayer,,TRUE
 33342,Taykey,,TRUE
 28986,Tazedirekt,,TRUE
-37376,tbd,,FALSE
+37376,tbd,tbd,FALSE
 26957,TBWA,,TRUE
 34860,TC Electronic,,TRUE
 38810,TC Media,,TRUE
@@ -12067,14 +12067,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 27282,TCloud Computing,,TRUE
 40643,TCN,,TRUE
 28968,tcp cloud,,TRUE
-30146,TCS,,TRUE
+30146,TCS,Tata Consultancy Services,TRUE
 39618,TD,,TRUE
 35096,TD Bank Group,,TRUE
 29086,TD Reply,,TRUE
 36583,TDX Group,,TRUE
 32027,TE Data,,TRUE
 28631,TEA,,TRUE
-30579,Teachers Pay Teachers,,FALSE
+30579,Teachers Pay Teachers,Teachers Pay Teachers,FALSE
 40458,Teads,,TRUE
 31017,Teadusmosaiik,,TRUE
 35018,Teal Drones,,TRUE
@@ -12090,7 +12090,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 32010,TeamRock,,TRUE
 29275,TeamSpeak-System,,TRUE
 40407,TeamSystem,,TRUE
-35346,TeamViewer,,FALSE
+35346,TeamViewer,TeamViewer,FALSE
 37868,Teamwork,,TRUE
 30519,Teamwork.com,,TRUE
 38751,Tecan,,TRUE
@@ -12098,7 +12098,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 36844,Teccom SA Group,,TRUE
 40334,Tech Friends,,TRUE
 34171,tech mahindra,,TRUE
-38304,Tech Mahindra Ltd.,,FALSE
+38304,Tech Mahindra Ltd.,Tech Mahindra Ltd.,FALSE
 36053,Tech Manhindra,,TRUE
 27654,Tech-angels,,TRUE
 36976,Tech9,,TRUE
@@ -12108,14 +12108,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 26741,"TechNexion, Ltd.",,TRUE
 36681,TECHNIA,,TRUE
 26267,"Technical Solutions, Inc.",,TRUE
-38225,Technical University Braunschweig,,FALSE
+38225,Technical University Braunschweig,Technical University Braunschweig,FALSE
 39338,Technical University Ilmena,,TRUE
-37676,Technical University of Cluj Napoca,,FALSE
-29996,Technicolor,,FALSE
-38542,Technion,,FALSE
+37676,Technical University of Cluj Napoca,Technical University of Cluj Napoca,FALSE
+29996,Technicolor,Technicolor,FALSE
+38542,Technion,Technion,FALSE
 39213,Technip,,TRUE
 28287,TechniSat Digital GmbH,,TRUE
-26969,Technische Universitaet Darmstadt,,FALSE
+26969,Technische Universitaet Darmstadt,Technische Universitaet Darmstadt,FALSE
 29280,Techniumlabs,,TRUE
 37616,Technologies,,TRUE
 37064,"Technology Filmmaking and Photography Society, IIT Kharagpur",,TRUE
@@ -12133,8 +12133,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 38543,Técnico Lisboa,,TRUE
 40512,Tecniplast,,TRUE
 40673,Tecnológico de Monterrey,,TRUE
-38876,Tecnotree,,TRUE
-38510,Tecnotree Corporation,,FALSE
+38876,Tecnotree,Tecnotree Corporation,TRUE
+38510,Tecnotree Corporation,Tecnotree Corporation,FALSE
 30061,Tecpetrol,,TRUE
 31923,TecSinapse,,TRUE
 40527,TECTECO,,TRUE
@@ -12142,19 +12142,19 @@ DA ID,DA Name,SFDC NAME,Calculated
 31775,TEDxHackney,,TRUE
 29300,TEDxLugano,,TRUE
 32014,Teem by WeWork,,TRUE
-28370,teenage engineering,,FALSE
+28370,teenage engineering,teenage engineering,FALSE
 26252,Teevity,,TRUE
 34962,Tegus,,TRUE
-37702,Tejas Networks,,FALSE
+37702,Tejas Networks,Tejas Networks,FALSE
 40107,Tek Experts,,TRUE
 39820,Tekelec,,TRUE
 37076,Tekhand,,TRUE
 28633,Tekhost.de Webhosting,,TRUE
 33038,Tekion,,TRUE
-32609,TEKsystems,,FALSE
-35971,Tektronix,,TRUE
-39872,Tektronix Communications,,FALSE
-31955,Teladoc Health,,FALSE
+32609,TEKsystems,TEKsystems,FALSE
+35971,Tektronix,Tektronix Communications,TRUE
+39872,Tektronix Communications,Tektronix Communications,FALSE
+31955,Teladoc Health,Teladoc Health,FALSE
 26615,"Telargo, Inc.",,TRUE
 39943,Telco Systems,,TRUE
 37723,Telcordia Technologies,,TRUE
@@ -12164,9 +12164,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 30328,Télécom,,TRUE
 37811,Telecom Argentina,,TRUE
 26206,Télécom Bretagne,,TRUE
-27242,Telecom Italia,,TRUE
-40821,Telecom Italia Mobile (TIM) S.p.A.,,FALSE
-38587,Telecom Italia Mobile(TIM) S.p.A,,TRUE
+27242,Telecom Italia,Telecom Italia Mobile (TIM) S.p.A.,TRUE
+40821,Telecom Italia Mobile (TIM) S.p.A.,Telecom Italia Mobile (TIM) S.p.A.,FALSE
+38587,Telecom Italia Mobile(TIM) S.p.A,Telecom Italia Mobile (TIM) S.p.A.,TRUE
 29695,Télécom Paris,,TRUE
 39444,Télécom SudParis,,TRUE
 27464,Telecom-Service,,TRUE
@@ -12180,48 +12180,48 @@ DA ID,DA Name,SFDC NAME,Calculated
 38569,Telekom Networks Malawi,,TRUE
 37347,Telekom Romania,,TRUE
 29890,Telemetry,,TRUE
-27367,Telemotive AG,,FALSE
+27367,Telemotive AG,Telemotive AG,FALSE
 35917,"TeleNav, Inc",,TRUE
-37170,Telenor,,FALSE
-34120,Telenor Digital,,TRUE
-29803,TelenorDK,,TRUE
+37170,Telenor,Telenor,FALSE
+34120,Telenor Digital,Telenor,TRUE
+29803,TelenorDK,Telenor,TRUE
 35606,Teleservice Skåne,,TRUE
 37312,"TeleSys Software, Inc",,TRUE
-32810,Teletronics,,TRUE
-40827,Teletronics International,,FALSE
+32810,Teletronics,Teletronics International,TRUE
+40827,Teletronics International,Teletronics International,FALSE
 27828,Televic,,TRUE
 35716,Televic Healthcare,,TRUE
 38687,Telia,,TRUE
 39292,telitem,,TRUE
 34552,Telkom,,TRUE
-26150,Tellabs,,FALSE
-30636,TellApart,,FALSE
+26150,Tellabs,Tellabs,FALSE
+30636,TellApart,TellApart,FALSE
 30031,Tellier Gobel& Cie,,TRUE
 38243,Tellme Networks,,TRUE
 34798,Tellus Safety Solutions,,TRUE
 26346,Telly,,TRUE
 33853,Telmate,,TRUE
 38400,TELNET,,TRUE
-37795,Telrock Systems,,FALSE
+37795,Telrock Systems,Telrock Systems,FALSE
 39901,Telsis,,TRUE
 30074,Telstra,,TRUE
 40427,teltarif.de,,TRUE
 26490,Teltonika,,TRUE
 29948,Telus,,TRUE
 40457,Temando,,TRUE
-35154,Temenos,,TRUE
-38536,Temenos Group USA,,FALSE
+35154,Temenos,Temenos Group USA,TRUE
+38536,Temenos Group USA,Temenos Group USA,FALSE
 31981,TempAlert,,TRUE
 38103,Tempesta,,TRUE
-36454,Temple University,,FALSE
+36454,Temple University,Temple University,FALSE
 30730,Tempo Semiconductor,,TRUE
 35271,Ten10,,TRUE
 30820,Tenable,,TRUE
 29090,Tenaris,,TRUE
-27876,Tencent,,TRUE
-39329,Tencent Holdings Limited,,FALSE
+27876,Tencent,Tencent Holdings Limited,TRUE
+39329,Tencent Holdings Limited,Tencent Holdings Limited,FALSE
 33552,Tendermint,,TRUE
-27840,Tendril,,FALSE
+27840,Tendril,Tendril,FALSE
 35519,Tenecent,,TRUE
 37517,Tenfox,,TRUE
 39232,Tengrade,,TRUE
@@ -12232,18 +12232,18 @@ DA ID,DA Name,SFDC NAME,Calculated
 32625,Tensorflight,,TRUE
 30255,Tensyr,,TRUE
 36368,TenX,,TRUE
-29085,TenxCloud,,FALSE
+29085,TenxCloud,TenxCloud,FALSE
 38736,Téo Taxi,,TRUE
 35612,TEQABLE,,TRUE
 36270,TEQneers,,TRUE
 32167,Teracy,,TRUE
-29388,Teradata,,FALSE
+29388,Teradata,Teradata,FALSE
 32160,Teradata Aster,,TRUE
-36473,Teradyne,,TRUE
-40633,"Teradyne, Inc.",,FALSE
+36473,Teradyne,"Teradyne, Inc.",TRUE
+40633,"Teradyne, Inc.","Teradyne, Inc.",FALSE
 32558,Teralytics,,TRUE
 37886,TeraMach,,TRUE
-36750,Teranet Inc.,,FALSE
+36750,Teranet Inc.,Teranet Inc.,FALSE
 26705,Terascala,,TRUE
 40764,Terascale Networks,,TRUE
 27132,TERMA,,TRUE
@@ -12257,42 +12257,42 @@ DA ID,DA Name,SFDC NAME,Calculated
 34660,TES Global,,TRUE
 26842,TES s.r.o.,,TRUE
 29455,Tesco,,TRUE
-37876,Tesco Bank,,FALSE
-27119,Tesla,,FALSE
+37876,Tesco Bank,Tesco Bank,FALSE
+27119,Tesla,Tesla,FALSE
 32769,Teslabit,,TRUE
 36508,Teslabs Engineering,,TRUE
-30909,Tesora,,FALSE
-28173,"Tesora, Inc.",,TRUE
+30909,Tesora,Tesora,FALSE
+28173,"Tesora, Inc.",Tesora,TRUE
 38110,Tesseract,,TRUE
 31636,Tessian,,TRUE
-37817,TEST,,FALSE
+37817,TEST,TEST,FALSE
 38890,Test Yantra,,TRUE
-27702,testing,,FALSE
+27702,testing,testing,FALSE
 34565,Testmidas,,TRUE
 31140,Testo SE & Co,,TRUE
 39009,TETRA,,TRUE
 31960,Tetrasol,,TRUE
 27036,Tetrate,,TRUE
-33136,teuto.net Netzdienste GmbH,,FALSE
-36165,Texas A&M University,,FALSE
-27785,Texas Instruments,,TRUE
-39759,Texas Instruments Incorporated,,FALSE
+33136,teuto.net Netzdienste GmbH,teuto.net Netzdienste GmbH,FALSE
+36165,Texas A&M University,Texas A&M University,FALSE
+27785,Texas Instruments,Texas Instruments Incorporated,TRUE
+39759,Texas Instruments Incorporated,Texas Instruments Incorporated,FALSE
 40530,Texas State University,,TRUE
-36452,Texas Tech University,,FALSE
+36452,Texas Tech University,Texas Tech University,FALSE
 37856,TextNow,,TRUE
 30416,Textron,,TRUE
 39123,TFG Co,,TRUE
 31572,TGR International,,TRUE
 35174,TGS,,TRUE
-28323,Thales,,TRUE
+28323,Thales,Thales Group,TRUE
 39894,Thales Alenia Space,,TRUE
 32150,Thales Cloud Protection & Licensing,,TRUE
 27559,Thales eSecurity,,TRUE
-39328,Thales Group,,FALSE
+39328,Thales Group,Thales Group,FALSE
 33879,Thalmic,,TRUE
 38354,Thapar Institute,,TRUE
 30922,The AA,,TRUE
-37845,The Academy of South Florida,,FALSE
+37845,The Academy of South Florida,The Academy of South Florida,FALSE
 29860,The Aerospace Corporation,,TRUE
 32706,The Agile Factory SA,,TRUE
 32263,The AgileCrete Org Team,,TRUE
@@ -12312,20 +12312,20 @@ DA ID,DA Name,SFDC NAME,Calculated
 27474,The Church of Jesus Christ of Latter-day Saints,,TRUE
 36782,The City College of New York,,TRUE
 30244,The Climate,,TRUE
-37793,The Cloud,,FALSE
-37335,The Coca-Cola Company,,FALSE
+37793,The Cloud,The Cloud,FALSE
+37335,The Coca-Cola Company,The Coca-Cola Company,FALSE
 34444,The Computer Place of Fargo,,TRUE
 29138,The Control Group Media Company,,TRUE
 35676,The Data Cave,,TRUE
 28775,The Data Guild,,TRUE
-29327,The Data Team,,FALSE
+29327,The Data Team,The Data Team,FALSE
 36672,The Depository Trust & Cleaning Corporation(DTCC),,TRUE
 36676,The Depository Trust & Clearing Corporation (DTCC),,TRUE
 32051,The Dyrt,,TRUE
 33941,The Elegant Monkeys,,TRUE
 34158,The Foundry Visionmongers,,TRUE
 36086,The Franklin Institute,,TRUE
-37313,"The Furukawa Electric Co., Ltd.",,FALSE
+37313,"The Furukawa Electric Co., Ltd.","The Furukawa Electric Co., Ltd.",FALSE
 26728,The Genius,,TRUE
 28337,The Guardian,,TRUE
 40171,The Hartford,,TRUE
@@ -12342,8 +12342,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 29049,The Last Pickle,,TRUE
 27699,The Linux Box,,TRUE
 31843,The Linux Box Corporation,,TRUE
-40857,the linux foun,,TRUE
-26162,The Linux Foundation,,FALSE
+40857,the linux foun,The Linux Foundation,TRUE
+26162,The Linux Foundation,The Linux Foundation,FALSE
 36758,The Loyalty Group,,TRUE
 38598,The Machine Consultancy,,TRUE
 31664,The Manufacturing Institute,,TRUE
@@ -12363,7 +12363,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39280,The Ridge Club,,TRUE
 39339,The Royal Guard,,TRUE
 34070,The Runship,,TRUE
-30422,The Scale Factory,,FALSE
+30422,The Scale Factory,The Scale Factory,FALSE
 37063,The Scholars' Avenue,,TRUE
 36421,The Select,,TRUE
 34214,The Software House,,TRUE
@@ -12377,11 +12377,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 35969,The University of Edinburgh,,TRUE
 36491,The University of Georgia,,TRUE
 39423,The University of Göttingen,,TRUE
-40781,The University of Hong Kong,,FALSE
+40781,The University of Hong Kong,The University of Hong Kong,FALSE
 37761,The University of Texas,,TRUE
-35456,The Wall Street Journal,,FALSE
-32288,The Walt Disney,,TRUE
-33080,The Walt Disney Studios,,FALSE
+35456,The Wall Street Journal,The Wall Street Journal,FALSE
+32288,The Walt Disney,The Walt Disney Studios,TRUE
+33080,The Walt Disney Studios,The Walt Disney Studios,FALSE
 28512,The Weather Channel,,TRUE
 29830,The Weather Company,,TRUE
 31029,The WebRoot,,TRUE
@@ -12394,19 +12394,19 @@ DA ID,DA Name,SFDC NAME,Calculated
 30433,TheMotion,,TRUE
 33619,TheNatureOfSoftware,,TRUE
 26921,Theobroma,,TRUE
-37297,Theoris SAS,,FALSE
+37297,Theoris SAS,Theoris SAS,FALSE
 33116,thePlatform,,TRUE
 31026,thepracticalsysadmin,,TRUE
-32401,Thermo Fisher Scientific,,FALSE
+32401,Thermo Fisher Scientific,Thermo Fisher Scientific,FALSE
 33236,TheShadowserver,,TRUE
 35275,Thesys,,TRUE
 29249,Thetus Corporation,,TRUE
 39495,Thimble,,TRUE
 40077,ThinAir,,TRUE
 32147,Thingful,,TRUE
-31802,ThingWorx,,FALSE
+31802,ThingWorx,ThingWorx,FALSE
 30340,Think,,TRUE
-31824,think tank,,FALSE
+31824,think tank,think tank,FALSE
 27820,Think.Web,,TRUE
 34815,Thinkcore,,TRUE
 28472,ThinkData Works,,TRUE
@@ -12432,13 +12432,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 30205,Thought Machine,,TRUE
 29896,Thoughtbot,,TRUE
 35549,"thoughtbot, Inc.",,TRUE
-28578,ThoughtWorks,,FALSE
-26678,"ThoughtWorks, Inc.",,TRUE
-28557,ThousandEyes,,FALSE
+28578,ThoughtWorks,ThoughtWorks,FALSE
+26678,"ThoughtWorks, Inc.",ThoughtWorks,TRUE
+28557,ThousandEyes,ThousandEyes,FALSE
 29142,Thread,,TRUE
 28467,Threadless,,TRUE
 35376,ThreatMark,,TRUE
-39035,ThreatMetrix,,FALSE
+39035,ThreatMetrix,ThreatMetrix,FALSE
 35296,ThreatTrack,,TRUE
 28517,Three of Coins,,TRUE
 33432,Three Rings Design,,TRUE
@@ -12457,27 +12457,27 @@ DA ID,DA Name,SFDC NAME,Calculated
 40443,thyssenkrupp,,TRUE
 26637,Tianjin Zhongke Blue Whale Information Technologies,,TRUE
 30867,Tianya,,TRUE
-29402,Tibco,,FALSE
-27513,TIBCO Software,,TRUE
+29402,Tibco,Tibco,FALSE
+27513,TIBCO Software,Tibco,TRUE
 33423,Tibco Spotfire,,TRUE
 40757,TIBHannover,,TRUE
 29542,Ticarium,,TRUE
-34852,tick42,,FALSE
+34852,tick42,tick42,FALSE
 28448,Ticket Privatresor,,TRUE
 36404,Ticketek,,TRUE
 30431,Ticketfly,,TRUE
-27655,Ticketmaster,,FALSE
+27655,Ticketmaster,Ticketmaster,FALSE
 28520,Ticketscript,,TRUE
 39188,TICKR,,TRUE
-34273,TickSmith,,FALSE
+34273,TickSmith,TickSmith,FALSE
 30807,Tidepool,,TRUE
 38037,Tideways,,TRUE
 30772,TierPoint,,TRUE
-37718,TierraCloud,,FALSE
+37718,TierraCloud,TierraCloud,FALSE
 27475,Tieto,,TRUE
-39870,Tieto Czech s.r.o,,FALSE
+39870,Tieto Czech s.r.o,Tieto Czech s.r.o,FALSE
 28880,Tiger Computing,,TRUE
-28056,Tigera,,FALSE
+28056,Tigera,Tigera,FALSE
 30576,TigerWorks,,TRUE
 29999,Tignis,,TRUE
 28364,Tiino Researc,,TRUE
@@ -12493,57 +12493,57 @@ DA ID,DA Name,SFDC NAME,Calculated
 36204,TIM Brasil,,TRUE
 32830,Tim Carr,,TRUE
 29369,Tim Dumol,,TRUE
-37826,Tim Hortons,,FALSE
+37826,Tim Hortons,Tim Hortons,FALSE
 30522,Tim Stoop Holding,,TRUE
 30033,Timber.io,,TRUE
-32271,Time,,TRUE
-30347,Time Inc.,,FALSE
+32271,Time,Time Inc.,TRUE
+30347,Time Inc.,Time Inc.,FALSE
 35831,Time Out Group,,TRUE
-31489,Time Warner Cable,,FALSE
-26386,"Time Warner Cable, Inc.",,TRUE
+31489,Time Warner Cable,Time Warner Cable,FALSE
+26386,"Time Warner Cable, Inc.",Time Warner Cable,TRUE
 32998,Timehop,,TRUE
 34585,Timeline,,TRUE
-38045,Timescale,,FALSE
+38045,Timescale,Timescale,FALSE
 34122,Timeslice,,TRUE
 36566,TimeStep Corporation,,TRUE
-27291,Timesys,,TRUE
-26926,Timesys Corporation,,FALSE
+27291,Timesys,Timesys Corporation,TRUE
+26926,Timesys Corporation,Timesys Corporation,FALSE
 40137,Timewax,,TRUE
 33943,Timeweb,,TRUE
 32701,Timshel,,TRUE
 38860,TIMWETECH,,TRUE
-27665,Tinder,,FALSE
-29338,Tink,,FALSE
-28694,TinkAB,,TRUE
+27665,Tinder,Tinder,FALSE
+29338,Tink,Tink,FALSE
+28694,TinkAB,Tink,TRUE
 33143,Tinkerbox,,TRUE
 28800,Tinkoff Bank,,TRUE
-37042,Tintri,,FALSE
+37042,Tintri,Tintri,FALSE
 36596,Tiny,,TRUE
 40265,Tiny Speck,,TRUE
 33616,TinyCo,,TRUE
 32802,Tipi HQ,,TRUE
 38078,Tipico,,TRUE
-35908,Tippett Studio,,FALSE
+35908,Tippett Studio,Tippett Studio,FALSE
 34285,Tirendo,,TRUE
 28046,TIS,,TRUE
 38892,Tise,,TRUE
-37169,TISIP,,FALSE
+37169,TISIP,TISIP,FALSE
 27497,Titan IC,,TRUE
 26358,Titans,,TRUE
 31783,titicacadev,,TRUE
 34961,Title,,TRUE
 34434,TIVIT,,TRUE
-38309,Tivo,,FALSE
-31296,TiVo Poland,,TRUE
+38309,Tivo,Tivo,FALSE
+31296,TiVo Poland,Tivo,TRUE
 37606,Tivoli World,,TRUE
 30705,TJX,,TRUE
 27877,"Tk Open Systems, Ltd.",,TRUE
 27759,Tkos,,TRUE
 36275,TKP,,TRUE
 28866,Tlks,,TRUE
-37250,Tlmocnik.sk,,FALSE
+37250,Tlmocnik.sk,Tlmocnik.sk,FALSE
 40247,TM3,,TRUE
-40360,TmaxA&C,,FALSE
+40360,TmaxA&C,TmaxA&C,FALSE
 30739,TmaxSoft,,TRUE
 31606,TMC,,TRUE
 38673,TMP Worldwide,,TRUE
@@ -12556,8 +12556,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 36210,Tock,,TRUE
 31752,Today Experts,,TRUE
 29952,Today Job Post.com,,TRUE
-35693,Toga Networks,,FALSE
-27295,Togan Labs,,FALSE
+35693,Toga Networks,Toga Networks,FALSE
+27295,Togan Labs,Togan Labs,FALSE
 33147,Together | Workplace Mentoring,,TRUE
 39377,Token Insights,,TRUE
 36840,Token of Trust,,TRUE
@@ -12570,7 +12570,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 27925,Tomitribe,,TRUE
 37083,ToMM Apps,,TRUE
 31992,Tomologic,,TRUE
-28068,TomTom,,FALSE
+28068,TomTom,TomTom,FALSE
 39752,Tongji University,,TRUE
 26167,Tonian,,TRUE
 29661,Tonic,,TRUE
@@ -12587,17 +12587,17 @@ DA ID,DA Name,SFDC NAME,Calculated
 30013,Topicus.Education,,TRUE
 27467,Toptal,,TRUE
 26747,TOPTICA Photonics,,TRUE
-27463,Toradex,,FALSE
+27463,Toradex,Toradex,FALSE
 30650,Torchbox,,TRUE
 36191,Toreta,,TRUE
 36665,Tornado Labs,,TRUE
 30904,Tornos,,TRUE
 36757,Toronto Stock Exchange,,TRUE
-38206,TorreyPoint,,FALSE
-27271,Toshiba,,TRUE
-40519,Toshiba Corporation,,FALSE
-30789,Toshiba Memory,,TRUE
-40518,Toshiba Memory Corporation,,FALSE
+38206,TorreyPoint,TorreyPoint,FALSE
+27271,Toshiba,Toshiba Corporation,TRUE
+40519,Toshiba Corporation,Toshiba Corporation,FALSE
+30789,Toshiba Memory,Toshiba Memory Corporation,TRUE
+40518,Toshiba Memory Corporation,Toshiba Memory Corporation,FALSE
 38480,Tosibox,,TRUE
 32379,TOTAL,,TRUE
 27757,Total Knowledge,,TRUE
@@ -12606,7 +12606,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39166,TotalSoft,,TRUE
 30142,TOTI TRUST,,TRUE
 30230,TOTVS,,TRUE
-37670,TouchDX,,FALSE
+37670,TouchDX,TouchDX,FALSE
 27255,Touchido,,TRUE
 36328,Touchtech,,TRUE
 39919,TouK,,TRUE
@@ -12615,12 +12615,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 40182,Towards,,TRUE
 30921,Tower,,TRUE
 38405,TOWER FOUNDATION SAN JOSE STATE UNIVERSITY,,TRUE
-35662,Tower Research,,TRUE
-28644,Tower Research Capital,,FALSE
+35662,Tower Research,Tower Research Capital,TRUE
+28644,Tower Research Capital,Tower Research Capital,FALSE
 26139,Tower Technologies,,TRUE
 37016,Tower3,,TRUE
 36152,Toyon Research Corporation,,TRUE
-37087,Toyota,,FALSE
+37087,Toyota,Toyota,FALSE
 30783,TPV Group,,TRUE
 35823,TPvision,,TRUE
 31087,TR ARGE,,TRUE
@@ -12636,7 +12636,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39677,Trade Finance Global,,TRUE
 29021,Tradeo,,TRUE
 35140,Trader Joe's,,TRUE
-30540,Tradeshift,,FALSE
+30540,Tradeshift,Tradeshift,FALSE
 32050,Tradesy,,TRUE
 35527,Tradeweb,,TRUE
 39245,"Trading House ""Agrotorg",,TRUE
@@ -12648,16 +12648,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 27530,Traffic Management Technologies,,TRUE
 31947,Trafigura,,TRUE
 37617,Traiana,,TRUE
-39075,Trail of Bits,,FALSE
+39075,Trail of Bits,Trail of Bits,FALSE
 33273,Trailine,,TRUE
 32209,Trainline,,TRUE
 32231,Traintracks.io,,TRUE
 36138,TrakWell Medical Technologies,,TRUE
 29925,Trampolina Systems,,TRUE
 35260,Tramsen Media,,TRUE
-33361,Transaction Network Services,,FALSE
+33361,Transaction Network Services,Transaction Network Services,FALSE
 34610,Transdata,,TRUE
-27402,TransferWise,,FALSE
+27402,TransferWise,TransferWise,FALSE
 39720,TransformIT Learning,,TRUE
 38752,TransIP,,TRUE
 30038,Transit,,TRUE
@@ -12666,14 +12666,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 26782,Transitive,,TRUE
 31071,Translattice,,TRUE
 31911,Translucent,,TRUE
-28770,Transmode,,FALSE
-27243,Transmode Systems,,TRUE
+28770,Transmode,Transmode,FALSE
+27243,Transmode Systems,Transmode,TRUE
 39453,transmute.industries,,TRUE
 32432,Transparency Rights Management,,TRUE
 36242,Transparensee,,TRUE
 29158,Transparensee.com,,TRUE
 36305,Transport for Greater Manchester,,TRUE
-32915,Transposit,,FALSE
+32915,Transposit,Transposit,FALSE
 38735,Transpower New Zealand,,TRUE
 33271,Transwarp,,TRUE
 38456,Transwitch,,TRUE
@@ -12684,12 +12684,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 32562,Traum-Ferienwohnungen,,TRUE
 30198,Travel Audience,,TRUE
 34108,travel audience travel audience,,TRUE
-29793,Travelers,,FALSE
+29793,Travelers,Travelers,FALSE
 33867,Travelmatch,,TRUE
 38511,Travelocity,,TRUE
 33468,Traveloka,,TRUE
-31117,Travelping,,TRUE
-37798,Travelping GmbH,,FALSE
+31117,Travelping,Travelping GmbH,TRUE
+37798,Travelping GmbH,Travelping GmbH,FALSE
 33743,Travelsky,,TRUE
 32015,TravelSky Technology,,TRUE
 27813,Traverse Technologies,,TRUE
@@ -12698,17 +12698,17 @@ DA ID,DA Name,SFDC NAME,Calculated
 29847,Trawel Audience,,TRUE
 40468,TRAXxs,,TRUE
 40371,tray.io,,TRUE
-26411,Treasure Data,,TRUE
-40522,Treasure Data Inc.,,FALSE
-30419,treasure-data,,TRUE
+26411,Treasure Data,Treasure Data Inc.,TRUE
+40522,Treasure Data Inc.,Treasure Data Inc.,FALSE
+30419,treasure-data,Treasure Data Inc.,TRUE
 40090,treasuris,,TRUE
 33509,Tree House NL,,TRUE
 28990,Treebo Hotels,,TRUE
 37985,Treebuild,,TRUE
 37086,Treeni,,TRUE
-38185,Tremend Software Consulting,,FALSE
-29111,Tremolo Security,,FALSE
-26303,"Tremolo Security, Inc.",,TRUE
+38185,Tremend Software Consulting,Tremend Software Consulting,FALSE
+29111,Tremolo Security,Tremolo Security,FALSE
+26303,"Tremolo Security, Inc.",Tremolo Security,TRUE
 35768,Trend Marketing,,TRUE
 28101,Trend Micro,,TRUE
 30127,TrendMicro,,TRUE
@@ -12725,7 +12725,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 40162,Trice,,TRUE
 28241,Trident Microsystems,,TRUE
 35694,tridonic,,TRUE
-33284,Trifork,,FALSE
+33284,Trifork,Trifork,FALSE
 29419,TriggerMesh,,TRUE
 36264,trigonon,,TRUE
 37109,Triip Pte,,TRUE
@@ -12748,13 +12748,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 30744,Tripleplay,,TRUE
 27983,TriplePoint,,TRUE
 30611,Triposo,,TRUE
-26796,Tripp Lite,,FALSE
+26796,Tripp Lite,Tripp Lite,FALSE
 39171,TripTips,,TRUE
 26336,TripTravel,,TRUE
 40383,Tripwire,,TRUE
 33196,Tripwolf,,TRUE
 30840,Triton Digital,,TRUE
-28022,Trivago,,FALSE
+28022,Trivago,Trivago,FALSE
 36949,Trizic,,TRUE
 37171,Troan Network Consulting,,TRUE
 31643,Trobz,,TRUE
@@ -12776,9 +12776,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 34467,Trulia,,TRUE
 39777,Truminds Software Systems,,TRUE
 39410,trust2core,,TRUE
-37661,TrustCommerce,,FALSE
+37661,TrustCommerce,TrustCommerce,FALSE
 28026,Trusted Computer Solutions,,TRUE
-29862,Trustwave,,FALSE
+29862,Trustwave,Trustwave,FALSE
 38825,Trustwork,,TRUE
 28666,truvid,,TRUE
 32797,Trvlmind,,TRUE
@@ -12799,31 +12799,31 @@ DA ID,DA Name,SFDC NAME,Calculated
 31027,TUBITAK,,TRUE
 38669,Tucows,,TRUE
 28417,Tuenti,,TRUE
-39779,Tufts University,,FALSE
+39779,Tufts University,Tufts University,FALSE
 30538,Tulip,,TRUE
 39111,Tulip Solutions B.V.,,TRUE
 32368,Tulos Capital,,TRUE
 31988,Tumblr,,TRUE
 26232,Tundra Semiconductor,,TRUE
-33084,TUNE,,FALSE
-26510,Tungsten Graphics,,FALSE
+33084,TUNE,TUNE,FALSE
+26510,Tungsten Graphics,Tungsten Graphics,FALSE
 33098,Tunisie Télécom,,TRUE
 30824,Tunstall AB,,TRUE
 34476,tura.io,,TRUE
-27095,Turbine,,TRUE
-27409,Turbine Labs,,FALSE
+27095,Turbine,Turbine Labs,TRUE
+27409,Turbine Labs,Turbine Labs,FALSE
 38885,Turbobytes,,TRUE
-35463,Turk Telekom,,FALSE
-38394,Türk Telekomünikasyon A.S.,,FALSE
-38396,Turkcell,,FALSE
-38395,Turkcell Superonline,,TRUE
+35463,Turk Telekom,Turk Telekom,FALSE
+38394,Türk Telekomünikasyon A.S.,Türk Telekomünikasyon A.S.,FALSE
+38396,Turkcell,Turkcell,FALSE
+38395,Turkcell Superonline,Turkcell,TRUE
 40368,Turn,,TRUE
 33237,Turned On Digital,,TRUE
 36664,Turning Point Software,,TRUE
-28883,Turnitin,,FALSE
+28883,Turnitin,Turnitin,FALSE
 40191,turritt.com,,TRUE
 31119,TurtleCoin,,TRUE
-32552,TuSimple,,FALSE
+32552,TuSimple,TuSimple,FALSE
 31498,Tutored,,TRUE
 38656,Tutu.ru,,TRUE
 35105,TUTUCLOUD,,TRUE
@@ -12834,16 +12834,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 37385,TV 2 DANMARK A/S,,TRUE
 40269,TV2,,TRUE
 37643,Tvarit Circuit Explore,,TRUE
-35934,TVBLOB Srl,,FALSE
+35934,TVBLOB Srl,TVBLOB Srl,FALSE
 27468,TVGlobo,,TRUE
 29356,TVMining,,TRUE
 26964,TVU Networks,,TRUE
 38721,Tweag,,TRUE
-35953,Tweak Software,,FALSE
+35953,Tweak Software,Tweak Software,FALSE
 34489,Twenty20,,TRUE
 33768,Twice,,TRUE
-26930,Twilio,,FALSE
-39669,Twilio Inc.,,TRUE
+26930,Twilio,Twilio,FALSE
+39669,Twilio Inc.,Twilio,TRUE
 26140,Twim,,TRUE
 35109,Twin Prime,,TRUE
 26783,Twin Sun,,TRUE
@@ -12851,9 +12851,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 28994,Twinfield,,TRUE
 39307,TwinPeek,,TRUE
 26833,Twistlock,,TRUE
-32845,Twitch,,FALSE
-33739,twitch.tv,,TRUE
-26480,Twitter,,FALSE
+32845,Twitch,Twitch,FALSE
+33739,twitch.tv,Twitch,TRUE
+26480,Twitter,Twitter,FALSE
 40056,Two Chairs,,TRUE
 29705,Two Sigma,,TRUE
 40009,twofour digitale Agentur,,TRUE
@@ -12870,8 +12870,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 26263,Typeform,,TRUE
 32946,TypeFox,,TRUE
 30101,Typesafe,,TRUE
-31414,Tyro Payments,,FALSE
-27806,Tyro Payments Limited,,TRUE
+31414,Tyro Payments,Tyro Payments,FALSE
+27806,Tyro Payments Limited,Tyro Payments,TRUE
 38523,Tyson Foods,,TRUE
 36801,U_C_S original software,,TRUE
 30302,U-blox,,TRUE
@@ -12881,7 +12881,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 38913,Uasabi,,TRUE
 35019,UAVenture,,TRUE
 40398,UBC,,TRUE
-27614,Uber,,FALSE
+27614,Uber,Uber,FALSE
 36171,Uber AI Labs,,TRUE
 31564,uberous,,TRUE
 32944,UberResearch,,TRUE
@@ -12891,27 +12891,27 @@ DA ID,DA Name,SFDC NAME,Calculated
 38977,Ubique,,TRUE
 34843,Ubiquiti,,TRUE
 29002,Ubiregi,,TRUE
-28000,Ubisoft,,FALSE
+28000,Ubisoft,Ubisoft,FALSE
 32569,Ubisoft Montreal,,TRUE
 30392,Ubiwhere,,TRUE
-28357,UBS,,FALSE
+28357,UBS,UBS,FALSE
 37989,Ubudu,,TRUE
-30529,Ubuntu,,FALSE
+30529,Ubuntu,Ubuntu,FALSE
 26598,Ubuntu Kylin,,TRUE
-29341,UC Berkeley,,FALSE
+29341,UC Berkeley,UC Berkeley,FALSE
 40758,UC Berkeley Electrical Engineering & Computer Sciences (EECS,,TRUE
 40759,UC Berkeley Electrical Engineering & Computer Sciences (EECS),,TRUE
-33904,UC Davis,,FALSE
+33904,UC Davis,UC Davis,FALSE
 29535,UC Irvine,,TRUE
-37225,UC San Diego,,FALSE
+37225,UC San Diego,UC San Diego,FALSE
 29227,uc3m,,TRUE
 37175,UCI,,TRUE
 33785,UCLA Extension,,TRUE
-30863,UCloud,,TRUE
-39388,UCloud Information Technology (HK) Limited,,FALSE
-31387,Udacity,,FALSE
+30863,UCloud,UCloud Information Technology (HK) Limited,TRUE
+39388,UCloud Information Technology (HK) Limited,UCloud Information Technology (HK) Limited,FALSE
+31387,Udacity,Udacity,FALSE
 39012,Udaipur Talents,,TRUE
-28762,Udemy,,FALSE
+28762,Udemy,Udemy,FALSE
 30550,uDesk,,TRUE
 34725,UDX,,TRUE
 35135,UEBERBIT,,TRUE
@@ -12929,8 +12929,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 26419,Uken Games,,TRUE
 38941,Ukrinmash,,TRUE
 39739,ULAK,,TRUE
-29627,Ultimate,,TRUE
-32773,Ultimate Software,,FALSE
+29627,Ultimate,Ultimate Software,TRUE
+32773,Ultimate Software,Ultimate Software,FALSE
 27002,Ultra Electronics,,TRUE
 39973,Ultrareach Internet,,TRUE
 40526,Ulula,,TRUE
@@ -12939,11 +12939,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 40153,Umbel,,TRUE
 29484,UMCloud,,TRUE
 34044,UMDOC,,TRUE
-39869,Umeå University,,FALSE
+39869,Umeå University,Umeå University,FALSE
 36258,Umi Kitchen,,TRUE
 36188,Unbabel,,TRUE
-31966,Unbounce,,FALSE
-35333,Unbound,,FALSE
+31966,Unbounce,Unbounce,FALSE
+35333,Unbound,Unbound,FALSE
 36708,Unbounded Network,,TRUE
 31480,Unboxed,,TRUE
 32447,Unbxd,,TRUE
@@ -12954,26 +12954,26 @@ DA ID,DA Name,SFDC NAME,Calculated
 38026,Undefined,,TRUE
 38353,Undefined Labs,,TRUE
 40344,Under 25,,TRUE
-29314,Under Armour,,FALSE
+29314,Under Armour,Under Armour,FALSE
 32786,UnderwriteMe,,TRUE
 31256,Undisclosed,,TRUE
 39959,Undisclosed Financial Compan,,TRUE
-31459,Undo,,FALSE
+31459,Undo,Undo,FALSE
 34277,UneeQ,,TRUE
 37899,unexpected,,TRUE
 39312,Unfolding Technology,,TRUE
-35989,UNH InterOperability Lab,,FALSE
+35989,UNH InterOperability Lab,UNH InterOperability Lab,FALSE
 26638,Unhosted,,TRUE
 34291,Uni Heidelberg,,TRUE
 33031,Unibet,,TRUE
-36420,Unic,,FALSE
+36420,Unic,Unic,FALSE
 32463,Unica,,TRUE
-36182,UNICEF,,FALSE
+36182,UNICEF,UNICEF,FALSE
 31302,UNICEPTA,,TRUE
 33002,Unicon,,TRUE
 27740,Unicontrol Systemtechnik,,TRUE
 29480,Unicredit,,TRUE
-26916,"UNICUS Co., Ltd.",,FALSE
+26916,"UNICUS Co., Ltd.","UNICUS Co., Ltd.",FALSE
 37494,UNiDAYS,,TRUE
 39462,Unifiedpost,,TRUE
 36469,Unify,,TRUE
@@ -12990,22 +12990,22 @@ DA ID,DA Name,SFDC NAME,Calculated
 37234,Unisound,,TRUE
 36915,Unisphere Networks,,TRUE
 29967,Unistack,,TRUE
-27912,Unisys,,FALSE
+27912,Unisys,Unisys,FALSE
 38922,Unit4,,TRUE
 31330,UNIT9,,TRUE
 32783,UniTech4U,,TRUE
-38194,United Devices,,FALSE
+38194,United Devices,United Devices,FALSE
 36119,United Information Technologies (UIT),,TRUE
 29906,United States Digital Service,,TRUE
 36670,United States Postal Service,,TRUE
-40429,United Technologies,,FALSE
+40429,United Technologies,United Technologies,FALSE
 31452,United Western Technologies,,TRUE
 34741,united-domains,,TRUE
-29763,UnitedHealth,,TRUE
-40630,UnitedHealth Group,,FALSE
+29763,UnitedHealth,UnitedHealth Group,TRUE
+40630,UnitedHealth Group,UnitedHealth Group,FALSE
 26634,UnitedStack,,TRUE
 29990,UniTuition,,TRUE
-28837,Unity Technologies,,FALSE
+28837,Unity Technologies,Unity Technologies,FALSE
 39746,Univ. Of New Hampshire,,TRUE
 35566,Univ. Of Surrey,,TRUE
 33129,Univa,,TRUE
@@ -13026,84 +13026,84 @@ DA ID,DA Name,SFDC NAME,Calculated
 39344,Université de Liège,,TRUE
 26529,université Libre de Bruxelles,,TRUE
 37155,Université Nice Sophia Antipolis,,TRUE
-37303,Universite of Strasbourg,,FALSE
+37303,Universite of Strasbourg,Universite of Strasbourg,FALSE
 37182,Université Pierre et Marie Curie,,TRUE
-40745,Universitetet i Bergen,,FALSE
-40832,University at Buffalo,,FALSE
-38344,University College London,,FALSE
+40745,Universitetet i Bergen,Universitetet i Bergen,FALSE
+40832,University at Buffalo,University at Buffalo,FALSE
+38344,University College London,University College London,FALSE
 38599,University of Aizu,,TRUE
 40623,University of Amsterdam,,TRUE
 27545,University of Applied Sciences Rapperswil,,TRUE
-28069,University of Arizona,,FALSE
+28069,University of Arizona,University of Arizona,FALSE
 39925,University of Aveiro,,TRUE
 40783,University of Birmingham,,TRUE
 37214,University of Bremen,,TRUE
 35029,University of Buffalo,,TRUE
 36014,"University of California, Berkeley",,TRUE
-40805,"University of California, Irvine",,FALSE
+40805,"University of California, Irvine","University of California, Irvine",FALSE
 36449,"University of California, Los Angeles",,TRUE
 40706,"University of California, Riverside",,TRUE
 37773,"University of California, San Diego",,TRUE
-40648,"University of California, San Francisco",,FALSE
+40648,"University of California, San Francisco","University of California, San Francisco",FALSE
 28057,"University of California, Santa Cruz",,TRUE
-27057,University of Cambridge,,FALSE
+27057,University of Cambridge,University of Cambridge,FALSE
 36136,University of Colorado Boulder,,TRUE
-40753,University of Connecticut,,FALSE
-40814,University of Delaware,,FALSE
+40753,University of Connecticut,University of Connecticut,FALSE
+40814,University of Delaware,University of Delaware,FALSE
 38585,University of Delhi,,TRUE
 39936,University of Electronic Science and Technology,,TRUE
 37163,University of Essex,,TRUE
-37669,University of Girona,,FALSE
-40599,University of Idaho,,FALSE
-38586,University of Illinois,,FALSE
+37669,University of Girona,University of Girona,FALSE
+40599,University of Idaho,University of Idaho,FALSE
+38586,University of Illinois,University of Illinois,FALSE
 36164,University of Illinois at Urbana-Champaign,,TRUE
 36545,University of Iowa,,TRUE
-38462,University of Kentucky,,FALSE
+38462,University of Kentucky,University of Kentucky,FALSE
 40744,University of KZN,,TRUE
 40791,University of Lausanne - UNIL,,TRUE
 39832,University of Liège,,TRUE
-26443,University of Limerick,,FALSE
-36837,University of Louisville,,FALSE
+26443,University of Limerick,University of Limerick,FALSE
+36837,University of Louisville,University of Louisville,FALSE
 28107,University of Manchester,,TRUE
 27693,University of Maryland,,TRUE
-37803,University of Maryland Global Campus,,FALSE
+37803,University of Maryland Global Campus,University of Maryland Global Campus,FALSE
 27019,University of Melbourne,,TRUE
 27425,University of Michigan,,TRUE
 26243,University of Michigan - CITI,,TRUE
-26959,University of Minnesota,,FALSE
-27694,University of Mississippi,,FALSE
+26959,University of Minnesota,University of Minnesota,FALSE
+27694,University of Mississippi,University of Mississippi,FALSE
 27741,University of Nebraska Omaha,,TRUE
-36105,University of New Hampshire,,FALSE
-26144,University of North Carolina at Chapel Hill,,FALSE
+36105,University of New Hampshire,University of New Hampshire,FALSE
+26144,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,FALSE
 36506,University of Nottingham,,TRUE
 36603,University of Otago,,TRUE
-38382,University of Patras,,FALSE
-36168,University of Pennsylvania,,FALSE
+38382,University of Patras,University of Patras,FALSE
+36168,University of Pennsylvania,University of Pennsylvania,FALSE
 37801,University of Phoenix,,TRUE
-39347,University of Pittsburgh,,FALSE
+39347,University of Pittsburgh,University of Pittsburgh,FALSE
 35950,University of Portsmouth,,TRUE
-37839,University of Pretoria,,FALSE
-26280,University of Queensland,,FALSE
+37839,University of Pretoria,University of Pretoria,FALSE
+26280,University of Pretoria,University of Pretoria,FALSE
 36688,University of Reading,,TRUE
-36661,University of Rome Tor Vergata,,FALSE
+36661,University of Rome Tor Vergata,University of Rome Tor Vergata,FALSE
 39413,University of São Paulo,,TRUE
 36072,University of Science and Technology of China,,TRUE
-37213,University of South Florida,,FALSE
+37213,University of South Florida,University of South Florida,FALSE
 36649,University of Southampton,,TRUE
-37159,University of Southern California,,FALSE
+37159,University of Southern California,University of Southern California,FALSE
 36634,University of Southern Queensland,,TRUE
-36908,University of Strathclyde,,FALSE
+36908,University of Strathclyde,University of Strathclyde,FALSE
 37790,University of Tennessee,,TRUE
-40566,University of Tennessee at Martin,,FALSE
-40609,"University of Tennessee, Knoxville",,FALSE
-38370,University of Texas at Austin,,FALSE
-27012,University of Toronto,,FALSE
-27136,University of Utah,,FALSE
-27704,University of Virginia,,FALSE
+40566,University of Tennessee at Martin,University of Tennessee at Martin,FALSE
+40609,"University of Tennessee, Knoxville","University of Tennessee, Knoxville",FALSE
+38370,University of Texas at Austin,University of Texas at Austin,FALSE
+27012,University of Toronto,University of Toronto,FALSE
+27136,University of Utah,University of Utah,FALSE
+27704,University of Virginia,University of Virginia,FALSE
 40796,University of Wales,,TRUE
-40782,University of Warwick,,FALSE
-36577,University of Washington,,FALSE
-27952,University of Waterloo,,FALSE
+40782,University of Warwick,University of Warwick,FALSE
+36577,University of Washington,University of Washington,FALSE
+27952,University of Waterloo,University of Waterloo,FALSE
 37690,University of Wisconsin-Madison,,TRUE
 40795,University of Zambia,,TRUE
 39294,University of Zaragoza,,TRUE
@@ -13120,7 +13120,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29157,UOL,,TRUE
 35861,UOL DIVEO,,TRUE
 38662,UOL PagSeguro,,TRUE
-30435,Upbound,,FALSE
+30435,Upbound,Upbound,FALSE
 30891,Updates,,TRUE
 28491,Upfluence,,TRUE
 31914,UpGuard,,TRUE
@@ -13129,24 +13129,24 @@ DA ID,DA Name,SFDC NAME,Calculated
 32493,Upland Qvidian,,TRUE
 31146,UPMC,,TRUE
 31437,Upmem,,TRUE
-26938,Uppsala University,,FALSE
+26938,Uppsala University,Uppsala University,FALSE
 32657,Uprise,,TRUE
 36975,Upside,,TRUE
-28410,Upstream,,FALSE
+28410,Upstream,Upstream,FALSE
 26496,Upstream University,,TRUE
 36805,UpSwell LLC,,TRUE
-32162,Uptake,,FALSE
-36402,Upthere,,FALSE
+32162,Uptake,Uptake,FALSE
+36402,Upthere,Upthere,FALSE
 32155,Uptime Ventures,,TRUE
 35436,UPV,,TRUE
 28826,Upwork,,TRUE
 32180,Urb-it,,TRUE
 26195,"URSYS Pty, Ltd.",,TRUE
-30481,URX,,FALSE
-38502,US Air Force,,FALSE
-36835,US Army,,FALSE
+30481,URX,URX,FALSE
+38502,US Air Force,US Air Force,FALSE
+36835,US Army,US Army,FALSE
 26932,US National Security Agency,,TRUE
-28958,US Navy,,FALSE
+28958,US Navy,US Navy,FALSE
 37218,US PurTek,,TRUE
 28850,Usabilla,,TRUE
 40847,USB,,TRUE
@@ -13157,12 +13157,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 32623,uShip,,TRUE
 36923,Ushur,,TRUE
 31383,USP,,TRUE
-35578,UST Global,,FALSE
+35578,UST Global,UST Global,FALSE
 40102,USTC,,TRUE
 31599,Ustream,,TRUE
 29818,Ustwo,,TRUE
-29172,uSwitch,,FALSE
-37317,UT Southwestern Medical Center,,FALSE
+29172,uSwitch,uSwitch,FALSE
+37317,UT Southwestern Medical Center,UT Southwestern Medical Center,FALSE
 28591,UTi Worldwide,,TRUE
 28690,UtiliPro,,TRUE
 33551,Utility Software Services,,TRUE
@@ -13173,7 +13173,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 37256,UTStarcom,,TRUE
 37201,UUNET,,TRUE
 35031,UVify,,TRUE
-37695,UVSQ,,FALSE
+37695,UVSQ,UVSQ,FALSE
 32389,UW,,TRUE
 32153,UW IT,,TRUE
 29110,UW-Madison,,TRUE
@@ -13182,12 +13182,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 29323,V23 Athletics,,TRUE
 27006,VA Linux,,TRUE
 28296,VA Linux Systems Japan,,TRUE
-38305,Vacuumlabs,,FALSE
+38305,Vacuumlabs,Vacuumlabs,FALSE
 30012,Vagabond Software,,TRUE
 38481,Vaimo,,TRUE
 32423,Vainu.io,,TRUE
 40184,Vaion,,TRUE
-29033,Valeo,,FALSE
+29033,Valeo,Valeo,FALSE
 39805,Valeriy Komyagin Studio,,TRUE
 31602,Valet.io,,TRUE
 36096,ValleyInternet,,TRUE
@@ -13197,7 +13197,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 32921,Valtech Canada,,TRUE
 32101,ValuationUp,,TRUE
 26978,Value Team SpA,,TRUE
-38494,ValueLabs,,FALSE
+38494,ValueLabs,ValueLabs,FALSE
 39644,valuestream,,TRUE
 32408,Valutac,,TRUE
 31219,Valve,,TRUE
@@ -13208,60 +13208,60 @@ DA ID,DA Name,SFDC NAME,Calculated
 36470,Vanguard AG,,TRUE
 35899,Vanguard Animation,,TRUE
 31676,Vaniday,,TRUE
-31388,VanNoppen Marketing,,FALSE
+31388,VanNoppen Marketing,VanNoppen Marketing,FALSE
 35359,Vanta,,TRUE
 38831,VANTIQ,,TRUE
 34477,Vantiv,,TRUE
-31692,Vantrix,,FALSE
-29514,Vapor IO,,FALSE
+31692,Vantrix,Vantrix,FALSE
+29514,Vapor IO,Vapor IO,FALSE
 31343,VARG,,TRUE
 32202,Variacode,,TRUE
-38040,Varian Medical Systems,,FALSE
+38040,Varian Medical Systems,Varian Medical Systems,FALSE
 29523,Variomedia AG,,TRUE
 28677,Various,,TRUE
 38809,Various Companies,,TRUE
-28039,vArmour,,FALSE
-27769,Varnish Software,,FALSE
+28039,vArmour,vArmour,FALSE
+27769,Varnish Software,Varnish Software,FALSE
 40187,Vascon,,TRUE
 36208,VASS,,TRUE
-35919,Vassar College,,FALSE
+35919,Vassar College,Vassar College,FALSE
 40144,Vast,,TRUE
 37942,VASTech,,TRUE
 37426,Vastgoeddata Nederland,,TRUE
-40546,Vates,,FALSE
+40546,Vates,Vates,FALSE
 30619,Vaultize,,TRUE
 32075,Vayable,,TRUE
 31277,VAYAVYA LABS PVT,,TRUE
 27386,VayavyaLabs,,TRUE
-36238,VCE,,FALSE
+36238,VCE,VCE,FALSE
 38508,VCON,,TRUE
 27880,VDK,,TRUE
 30774,VDL,,TRUE
 33918,VDOM Box Research,,TRUE
-26773,VDOO,,FALSE
+26773,VDOO,VDOO,FALSE
 34623,Ve Global,,TRUE
 38052,Vecna,,TRUE
 30928,Vector,,TRUE
 37569,vectorized,,TRUE
 31052,Vectra Al,,TRUE
 40765,vedicis,,TRUE
-33021,Veeam Software,,FALSE
+33021,Veeam Software,Veeam Software,FALSE
 36355,Veelo,,TRUE
 33915,Veeva Systems,,TRUE
 38750,Veganbase,,TRUE
-27350,Vello Systems,,FALSE
+27350,Vello Systems,Vello Systems,FALSE
 33335,VelociData,,TRUE
 36503,Velocity Software,,TRUE
-39766,"VeloCloud, Inc.",,FALSE
+39766,"VeloCloud, Inc.","VeloCloud, Inc.",FALSE
 36626,"Velodyne Lidar, Inc.",,TRUE
 38818,Velotio,,TRUE
 28232,Venatech AB,,TRUE
 40733,Vencore Labs,,TRUE
 31499,Vend,,TRUE
 38689,Vendasta,,TRUE
-29289,Vendavo,,FALSE
+29289,Vendavo,Vendavo,FALSE
 37106,Veniam,,TRUE
-34979,Venmo,,FALSE
+34979,Venmo,Venmo,FALSE
 34493,vente-privee devient Veepee,,TRUE
 32230,Ventera,,TRUE
 33172,Vento-Privee,,TRUE
@@ -13270,31 +13270,31 @@ DA ID,DA Name,SFDC NAME,Calculated
 31356,Venturus,,TRUE
 39043,VenueNext,,TRUE
 26569,Veo,,TRUE
-39355,Veon,,FALSE
+39355,Veon,Veon,FALSE
 34256,Veracode,,TRUE
-37181,Veraz Networks,,FALSE
+37181,Veraz Networks,Veraz Networks,FALSE
 33905,Vericus,,TRUE
-38608,Veridium,,FALSE
-31366,Verifone,,FALSE
+38608,Veridium,Veridium,FALSE
+31366,Verifone,Verifone,FALSE
 29298,Verily Life Sciences,,TRUE
-39290,"Verimatrix, inc.",,FALSE
+39290,"Verimatrix, inc.","Verimatrix, inc.",FALSE
 34134,Verint,,TRUE
 37814,Verint systems,,TRUE
 27489,Verisage,,TRUE
 28615,VERISIGN,,TRUE
-39167,Verisk,,FALSE
+39167,Verisk,Verisk,FALSE
 30618,Verisk Financial | Retail Solutions,,TRUE
 35313,Veriskope,,TRUE
 26136,Verismo,,TRUE
 27020,verit Informationssysteme GmbH,,TRUE
-33634,Veritas,,FALSE
+33634,Veritas,Veritas,FALSE
 37931,Verite Data Science,,TRUE
 35195,VeriTech,,TRUE
 29182,veritone,,TRUE
 36916,Verivue,,TRUE
-26477,Verizon,,TRUE
+26477,Verizon,Verizon Communications,TRUE
 37806,Verizon Business,,TRUE
-38488,Verizon Communications,,FALSE
+38488,Verizon Communications,Verizon Communications,FALSE
 36678,Verizon Data Services,,TRUE
 40825,Verizon Labs,,TRUE
 38298,Verizon Media,,TRUE
@@ -13310,14 +13310,14 @@ DA ID,DA Name,SFDC NAME,Calculated
 29891,Versent,,TRUE
 31940,versionpress,,TRUE
 36864,versoft,,TRUE
-37515,Vertafore,,TRUE
-26572,"Vertafore, Inc.",,FALSE
+37515,Vertafore,"Vertafore, Inc.",TRUE
+26572,"Vertafore, Inc.","Vertafore, Inc.",FALSE
 38008,VertaMedia,,TRUE
 35032,Vertical Technologies,,TRUE
-37663,Vertical*i,,FALSE
+37663,Vertical*i,Vertical*i,FALSE
 39104,VERTIS,,TRUE
-29587,Vertiv,,FALSE
-29615,Verve,,FALSE
+29587,Vertiv,Vertiv,FALSE
+29615,Verve,Verve,FALSE
 40245,Ververica | Original creators of Apache Flink®,,TRUE
 38955,Very Good,,TRUE
 39786,VES Technology Committee,,TRUE
@@ -13330,13 +13330,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 39898,Vets4Warriors,,TRUE
 35259,Vetted,,TRUE
 40760,Vetter Pharma,,TRUE
-29672,Vevo,,FALSE
+29672,Vevo,Vevo,FALSE
 28693,Vewd,,TRUE
 27028,VexxHost,,TRUE
 37147,VFXTalk,,TRUE
-37205,VIA Analytics,,FALSE
+37205,VIA Analytics,VIA Analytics,FALSE
 35745,Via Oncology,,TRUE
-27915,"VIA Technologies, Inc.",,FALSE
+27915,"VIA Technologies, Inc.","VIA Technologies, Inc.",FALSE
 33247,Via West,,TRUE
 30213,Viacom,,TRUE
 39486,Viada GmbH & Co,,TRUE
@@ -13347,7 +13347,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 27299,Vianet Internet Solutions,,TRUE
 32770,ViaNett AS,,TRUE
 35610,Viaplay,,TRUE
-31694,ViaSat,,FALSE
+31694,ViaSat,ViaSat,FALSE
 33839,Viatek Pty,,TRUE
 33613,ViaTim,,TRUE
 30288,Viavi Solutions,,TRUE
@@ -13377,12 +13377,12 @@ DA ID,DA Name,SFDC NAME,Calculated
 29653,VillageReach,,TRUE
 35272,Ville de Montréal,,TRUE
 32581,Ville Hellman (FxN),,TRUE
-38886,Vimeo,,FALSE
-27176,"Vimeo, LLC",,TRUE
+38886,Vimeo,Vimeo,FALSE
+27176,"Vimeo, LLC",Vimeo,TRUE
 32855,vimond,,TRUE
 34004,Vimond Media Solutions,,TRUE
 27522,VinaKom,,TRUE
-38241,Vincent IT Inc,,FALSE
+38241,Vincent IT Inc,Vincent IT Inc,FALSE
 38529,Vinci Consulting Corp.,,TRUE
 36340,Vinted,,TRUE
 27516,Violin Memory,,TRUE
@@ -13399,7 +13399,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29054,Virgin,,TRUE
 29441,Virginia,,TRUE
 34362,Virginia Mason,,TRUE
-26650,Virginia Tech,,FALSE
+26650,Virginia Tech,Virginia Tech,FALSE
 33851,Virgo Systems,,TRUE
 38148,VIRGOLE,,TRUE
 39219,ViriCiti,,TRUE
@@ -13409,11 +13409,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 40299,Virtu Financia,,TRUE
 30321,Virtu Financial,,TRUE
 28842,Virtua SA,,TRUE
-26657,Virtual Bridges,,FALSE
+26657,Virtual Bridges,Virtual Bridges,FALSE
 26632,Virtual Computer,,TRUE
-31565,Virtual Instruments,,FALSE
+31565,Virtual Instruments,Virtual Instruments,FALSE
 40338,Virtual Manufacturing,,TRUE
-35227,Virtual Open Systems,,FALSE
+35227,Virtual Open Systems,Virtual Open Systems,FALSE
 26737,Virtual Scale,,TRUE
 27677,Virtual Security Research,,TRUE
 36910,Virtual Sprockets,,TRUE
@@ -13421,13 +13421,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 32309,virtualop,,TRUE
 27633,VirtualTech,,TRUE
 27145,Virtuata,,TRUE
-26323,Virtuozzo,,FALSE
-30189,Virtuozzo / OpenVZ,,TRUE
-37401,Virtusa,,TRUE
-39439,Virtusa Corporation,,FALSE
+26323,Virtuozzo,Virtuozzo,FALSE
+30189,Virtuozzo / OpenVZ,Virtuozzo,TRUE
+37401,Virtusa,Virtusa Corporation,TRUE
+39439,Virtusa Corporation,Virtusa Corporation,FALSE
 28516,VirtusLab,,TRUE
-30216,Virtustream,,FALSE
-31999,Visa,,FALSE
+30216,Virtustream,Virtustream,FALSE
+31999,Visa,Visa,FALSE
 39471,ViSenze,,TRUE
 33845,Viseo,,TRUE
 38643,Visibly,,TRUE
@@ -13446,7 +13446,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 34313,Vista,,TRUE
 33520,Vista Entertainment Solutions,,TRUE
 27150,Vista-Silicon S.L.,,TRUE
-29206,Vistaprint,,FALSE
+29206,Vistaprint,Vistaprint,FALSE
 33900,Vistar Media,,TRUE
 31355,Visteon,,TRUE
 31741,Visual Trading Systems,,TRUE
@@ -13463,13 +13463,13 @@ DA ID,DA Name,SFDC NAME,Calculated
 33676,Vivace Studio,,TRUE
 29631,VivaReal,,TRUE
 28877,VivaRealBrasil,,TRUE
-37285,Vivato,,FALSE
+37285,Vivato,Vivato,FALSE
 26667,Vivecode,,TRUE
 30995,Viven Health,,TRUE
 29633,Vivibe,,TRUE
 33454,Vivid Compass Ltd,,TRUE
 29315,Vivid Seats,,TRUE
-38833,VividCortex,,FALSE
+38833,VividCortex,VividCortex,FALSE
 29820,Vivint,,TRUE
 32011,Vivint Smart Home,,TRUE
 30839,Vivint Solar,,TRUE
@@ -13480,29 +13480,29 @@ DA ID,DA Name,SFDC NAME,Calculated
 29974,Viz Expres,,TRUE
 32899,VizExplorer,,TRUE
 37990,Vizlegal,,TRUE
-26845,Vizuri,,FALSE
+26845,Vizuri,Vizuri,FALSE
 34972,VK Media AB,,TRUE
 40281,Vkarma,,TRUE
-36985,Vlocity,,FALSE
+36985,Vlocity,Vlocity,FALSE
 33202,VMFarms,,TRUE
 37014,VMFive,,TRUE
-26175,VMTurbo,,FALSE
-26893,VMware,,TRUE
-38438,"VMware, Inc.",,FALSE
+26175,VMTurbo,VMTurbo,FALSE
+26893,VMware,"VMware, Inc.",TRUE
+38438,"VMware, Inc.","VMware, Inc.",FALSE
 40261,VNG,,TRUE
 34736,VNG Realisatie,,TRUE
 39544,Vocalink,,TRUE
-39842,"Vocera Communications, Inc.",,FALSE
-32136,Vodafone,,TRUE
-38402,Vodafone Group Services Limited,,FALSE
-34819,VodafoneZiggo,,TRUE
-39750,Voereir,,TRUE
-36879,VoerEir AB,,FALSE
+39842,"Vocera Communications, Inc.","Vocera Communications, Inc.",FALSE
+32136,Vodafone,Vodafone Group Services Limited,TRUE
+38402,Vodafone Group Services Limited,Vodafone Group Services Limited,FALSE
+34819,VodafoneZiggo,Vodafone Group Services Limited,TRUE
+39750,Voereir,VoerEir AB,TRUE
+36879,VoerEir AB,VoerEir AB,FALSE
 40198,Vogelaar,,TRUE
 32233,Voice Box,,TRUE
 33835,VoiceOn,,TRUE
-37698,"Voices for Children, Inc",,FALSE
-29729,Voiceworks,,FALSE
+37698,"Voices for Children, Inc","Voices for Children, Inc",FALSE
+29729,Voiceworks,Voiceworks,FALSE
 34903,VOLANT TRADING,,TRUE
 28204,Volatiles,,TRUE
 30060,Volecity Partners,,TRUE
@@ -13514,15 +13514,15 @@ DA ID,DA Name,SFDC NAME,Calculated
 30752,VOLO,,TRUE
 36121,Volt,,TRUE
 37603,Volt Grid,,TRUE
-36011,Volta Networks,,FALSE
+36011,Volta Networks,Volta Networks,FALSE
 26340,Voltaire,,TRUE
-39883,Volteo,,FALSE
+39883,Volteo,Volteo,FALSE
 37827,Voltera,,TRUE
-30323,Volterra,,TRUE
-39718,Volterra Inc,,FALSE
+30323,Volterra,Volterra Inc,TRUE
+39718,Volterra Inc,Volterra Inc,FALSE
 32869,Volumental,,TRUE
-38648,Volusion,,FALSE
-30308,Volvo,,FALSE
+38648,Volusion,Volusion,FALSE
+30308,Volvo,Volvo,FALSE
 29156,Volvo Cars,,TRUE
 29250,Vonage,,TRUE
 32216,VONQ,,TRUE
@@ -13543,7 +13543,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 27979,"VPOP Technologies, Inc.",,TRUE
 37940,vRad,,TRUE
 32738,Vreal,,TRUE
-40717,Vrije Universiteit,,FALSE
+40717,Vrije Universiteit,Vrije Universiteit,FALSE
 39578,VRM TECH,,TRUE
 28233,VRT Systems,,TRUE
 39308,vrtice,,TRUE
@@ -13552,11 +13552,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 27120,VSCO,,TRUE
 34987,VSCO®,,TRUE
 29046,VseMayki,,TRUE
-33399,VSHN,,TRUE
-32054,VSHN AG,,FALSE
-37655,VSP,,TRUE
-34584,VSP Global,,FALSE
-38537,"VT iDirect, Inc",,FALSE
+33399,VSHN,VSHN AG,TRUE
+32054,VSHN AG,VSHN AG,FALSE
+37655,VSP,VSP Global,TRUE
+34584,VSP Global,VSP Global,FALSE
+38537,"VT iDirect, Inc","VT iDirect, Inc",FALSE
 34076,VTB,,TRUE
 37183,VTT Technical Research Centre of Finland,,TRUE
 27666,VU University Amsterdam,,TRUE
@@ -13567,7 +13567,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 32058,Vuforia,,TRUE
 33123,Vulcano Security,,TRUE
 26309,Vulk,,TRUE
-27720,Vungle,,FALSE
+27720,Vungle,Vungle,FALSE
 30758,vwd,,TRUE
 32934,Vy-Shane,,TRUE
 27140,Vyatta,,TRUE
@@ -13577,7 +13577,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 30130,Vzar,,TRUE
 34081,W.I.S.V,,TRUE
 26960,Wabtec Railway Electronics,,TRUE
-27621,Wacom,,FALSE
+27621,Wacom,Wacom,FALSE
 28754,Wade & Wendy,,TRUE
 32779,Wadi.com,,TRUE
 35814,Wairbut,,TRUE
@@ -13586,16 +13586,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 37090,Walkbase,,TRUE
 40603,Wall Sound,,TRUE
 40810,Wall Street English,,TRUE
-33673,Wallarm,,FALSE
+33673,Wallarm,Wallarm,FALSE
 38098,Wallester,,TRUE
 35469,Wallix,,TRUE
 32673,Wallmob,,TRUE
-28301,Walmart,,FALSE
-38740,Walmart Labs,,TRUE
-26903,WalmartLabs,,TRUE
-27560,Walt Disney,,TRUE
-38366,Walt Disney Animation Studios,,FALSE
-40697,Walt Disney World,,TRUE
+28301,Walmart,Walmart,FALSE
+38740,Walmart Labs,Walmart,TRUE
+26903,WalmartLabs,Walmart,TRUE
+27560,Walt Disney,Walt Disney Animation Studios,TRUE
+38366,Walt Disney Animation Studios,Walt Disney Animation Studios,FALSE
+40697,Walt Disney World,Walt Disney Animation Studios,TRUE
 39282,"Walter & Shuffain, P.C.",,TRUE
 32426,Wanclouds,,TRUE
 27427,WANdisco,,TRUE
@@ -13607,8 +13607,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 40548,Wapice,,TRUE
 27037,WappZapp,,TRUE
 30849,Ward Personnel,,TRUE
-30311,Wargaming,,FALSE
-29246,Wargaming.net,,TRUE
+30311,Wargaming,Wargaming,FALSE
+29246,Wargaming.net,Wargaming,TRUE
 38567,Warid Telecom,,TRUE
 38845,Warner Bros,,TRUE
 36555,Warp 10 Technologies,,TRUE
@@ -13624,19 +13624,19 @@ DA ID,DA Name,SFDC NAME,Calculated
 30042,WATTx,,TRUE
 34219,Watungaji,,TRUE
 35666,Wave HQ,,TRUE
-31905,Wavefront,,FALSE
-34910,Wavefront by VMware,,TRUE
-39853,Wavelabs,,FALSE
+31905,Wavefront,Wavefront,FALSE
+34910,Wavefront by VMware,Wavefront,TRUE
+39853,Wavelabs,Wavelabs,FALSE
 35613,WaveOptics,,TRUE
 35122,Waveroll,,TRUE
 31181,Waves System,,TRUE
 39047,Wavesec,,TRUE
 39060,WaveSquid,,TRUE
 38660,WayBlazer,,TRUE
-30014,Wayfair,,FALSE
+30014,Wayfair,Wayfair,FALSE
 30874,Waymo,,TRUE
-37202,Wayport,,FALSE
-34163,WayRay,,FALSE
+37202,Wayport,Wayport,FALSE
+34163,WayRay,WayRay,FALSE
 39997,WayUp,,TRUE
 37786,Wazo Inc,,TRUE
 38572,We Energies,,TRUE
@@ -13649,23 +13649,23 @@ DA ID,DA Name,SFDC NAME,Calculated
 40724,Weathernews Inc.,,TRUE
 33681,Weave,,TRUE
 33758,WeaveUp,,TRUE
-26168,Weaveworks,,FALSE
+26168,Weaveworks,Weaveworks,FALSE
 29149,Web Creative,,TRUE
 27041,Web Drive,,TRUE
 37492,Web Enchanter,,TRUE
 34115,Web Summit,,TRUE
 39046,Web Technology Group (WTG),,TRUE
 38829,Web1on1,,TRUE
-38623,Web3 Labs,,FALSE
+38623,Web3 Labs,Web3 Labs,FALSE
 36231,WebAssign,,TRUE
 32995,WebAula,,TRUE
 40148,Webb Fontaine Armenia,,TRUE
 37869,Webconverger,,TRUE
 31652,Webelligence,,TRUE
 28212,webERP Africa,,TRUE
-38178,Webex,,FALSE
+38178,Webex,Webex,FALSE
 32334,WebFilings,,TRUE
-33282,Webflow,,FALSE
+33282,Webflow,Webflow,FALSE
 30514,webgains,,TRUE
 34545,WebInterpret,,TRUE
 37544,WebLinc Commerce,,TRUE
@@ -13684,8 +13684,8 @@ DA ID,DA Name,SFDC NAME,Calculated
 32559,wecash,,TRUE
 32012,WeddingGuest,,TRUE
 33471,Wedos,,TRUE
-28724,Weebly,,FALSE
-33317,Weedmaps,,FALSE
+28724,Weebly,Weebly,FALSE
+33317,Weedmaps,Weedmaps,FALSE
 35732,Wego,,TRUE
 32588,wehkamp,,TRUE
 37493,weibeld.net,,TRUE
@@ -13695,11 +13695,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 28256,Weigle Wilczek GmbH,,TRUE
 27748,Weinigel Ingenjörsbyrå AB,,TRUE
 27368,Weinmann Medical Technology,,TRUE
-35912,"WeirdStuff, Inc",,FALSE
+35912,"WeirdStuff, Inc","WeirdStuff, Inc",FALSE
 40666,Weiss Asset Management,,TRUE
 38933,wejellyfish,,TRUE
 29292,Wejoinin,,TRUE
-39399,Weka.IO,,FALSE
+39399,Weka.IO,Weka.IO,FALSE
 27256,weLaika,,TRUE
 36239,Welby,,TRUE
 39055,Welcome,,TRUE
@@ -13712,18 +13712,18 @@ DA ID,DA Name,SFDC NAME,Calculated
 38906,Wellington Airport,,TRUE
 35518,Wellington Management,,TRUE
 32849,WellMatch,,TRUE
-33331,Wells Fargo,,FALSE
+33331,Wells Fargo,Wells Fargo,FALSE
 32980,Welltok,,TRUE
 34349,WELT corp,,TRUE
 36397,weluse,,TRUE
 34440,Wemakeprice,,TRUE
 40627,Wend BV,,TRUE
 33051,Wendu,,TRUE
-35940,Wengo,,FALSE
+35940,Wengo,Wengo,FALSE
 31159,Wenverge,,TRUE
-29749,WePay,,FALSE
-40328,Werkspot,,FALSE
-32671,WeScale,,FALSE
+29749,WePay,WePay,FALSE
+40328,Werkspot,Werkspot,FALSE
+32671,WeScale,WeScale,FALSE
 40367,WESEEK,,TRUE
 36544,West Grand Golf,,TRUE
 39323,West Hills Community College District,,TRUE
@@ -13737,7 +13737,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28831,Westh Branch Resort,,TRUE
 39023,Westpac,,TRUE
 34094,Weta Digital,,TRUE
-32566,WeWork,,FALSE
+32566,WeWork,WeWork,FALSE
 29423,Weyland & Cordova,,TRUE
 33932,wfarr systems,,TRUE
 32387,Whalerock,,TRUE
@@ -13753,7 +13753,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29772,Whisker Labs,,TRUE
 38084,Whisper,,TRUE
 39949,White Labelled,,TRUE
-39882,Whiteblock,,FALSE
+39882,Whiteblock,Whiteblock,FALSE
 29686,Whitepages,,TRUE
 31182,WhizUs,,TRUE
 26329,who Ingenieurgesellschaft mbH,,TRUE
@@ -13763,7 +13763,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 28992,Whywriteit,,TRUE
 32534,Wi-Q,,TRUE
 30002,WibiData,,TRUE
-39756,Wichita State University,,FALSE
+39756,Wichita State University,Wichita State University,FALSE
 39546,Wickes,,TRUE
 33199,Widen,,TRUE
 31642,Wieview,,TRUE
@@ -13772,10 +13772,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 27922,Wigle,,TRUE
 27403,"Wikia, Inc.",,TRUE
 26290,Wikibuy,,TRUE
-31012,Wikimedia,,TRUE
-27259,Wikimedia Deutschland,,TRUE
-34056,Wikimedia Deutschland e.V.,,TRUE
-27123,Wikimedia Foundation,,FALSE
+31012,Wikimedia,Wikimedia Foundation,TRUE
+27259,Wikimedia Deutschland,Wikimedia Foundation,TRUE
+34056,Wikimedia Deutschland e.V.,Wikimedia Foundation,TRUE
+27123,Wikimedia Foundation,Wikimedia Foundation,FALSE
 32498,wikiwi,,TRUE
 26481,WikiWorks,,TRUE
 33690,Wild Tangent,,TRUE
@@ -13789,7 +13789,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 26330,Willow Garage,,TRUE
 37588,WillowTree,,TRUE
 32360,Wilshire Financial Network,,TRUE
-34501,Wilson Sonsini Goodrich & Rosati,,FALSE
+34501,Wilson Sonsini Goodrich & Rosati,Wilson Sonsini Goodrich & Rosati,FALSE
 29549,Wimdu,,TRUE
 36092,WiMLDS,,TRUE
 26847,WiMobilis,,TRUE
@@ -13797,11 +13797,11 @@ DA ID,DA Name,SFDC NAME,Calculated
 26584,Wincor Nixdorf,,TRUE
 27305,Wincorn Nixdorf,,TRUE
 31242,Wind,,TRUE
-26295,Wind River,,TRUE
-36024,"Wind River System, Inc",,TRUE
-38498,"Wind River Systems, Inc.",,FALSE
+26295,Wind River,"Wind River Systems, Inc.",TRUE
+36024,"Wind River System, Inc","Wind River Systems, Inc.",TRUE
+38498,"Wind River Systems, Inc.","Wind River Systems, Inc.",FALSE
 34271,Winder Research,,TRUE
-30333,Windmill Engineering,,FALSE
+30333,Windmill Engineering,Windmill Engineering,FALSE
 35515,Windstream,,TRUE
 36737,Wingify,,TRUE
 35022,Wingtra,,TRUE
@@ -13814,10 +13814,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 33212,Winter Circle,,TRUE
 34883,Winterpath,,TRUE
 31902,Wintoncode,,TRUE
-40610,WinWire Technologies Inc.,,FALSE
+40610,WinWire Technologies Inc.,WinWire Technologies Inc.,FALSE
 30605,Wipcore,,TRUE
-28187,Wipro,,TRUE
-38317,Wipro Limited,,FALSE
+28187,Wipro,Wipro Limited,TRUE
+38317,Wipro Limited,Wipro Limited,FALSE
 37333,Wire,,TRUE
 27112,Wire Filter,,TRUE
 31291,Wirecard,,TRUE
@@ -13834,10 +13834,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 33755,Wisch,,TRUE
 37689,Wisconsin Union,,TRUE
 28860,Wise2c,,TRUE
-29872,Wish,,FALSE
+29872,Wish,Wish,FALSE
 32585,Wisma,,TRUE
 28670,WisorBox,,TRUE
-37443,Wistia,,FALSE
+37443,Wistia,Wistia,FALSE
 32904,WIT,,TRUE
 34190,WitCom,,TRUE
 28003,Witekio,,TRUE
@@ -13873,19 +13873,19 @@ DA ID,DA Name,SFDC NAME,Calculated
 32806,Wondershake,,TRUE
 32727,Wongnai.com,,TRUE
 32184,Woods Bagot,,TRUE
-28324,Woods Hole Oceanographic Institution,,FALSE
-35660,Woodward Poland,,TRUE
-36013,"Woodward, Inc.",,FALSE
+28324,Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution,FALSE
+35660,Woodward Poland,"Woodward, Inc.",TRUE
+36013,"Woodward, Inc.","Woodward, Inc.",FALSE
 29147,Wooga,,TRUE
 33554,Woolworths Group,,TRUE
 37596,WOOPPAY,,TRUE
-30217,woorank,,FALSE
-36697,Worcester Polytechnic Institute,,FALSE
+30217,woorank,woorank,FALSE
+36697,Worcester Polytechnic Institute,Worcester Polytechnic Institute,FALSE
 26373,WORK Microwave GmbH,,TRUE
 28632,Workable,,TRUE
 34304,WorkAngel,,TRUE
-36213,Workato,,FALSE
-27167,Workday,,FALSE
+36213,Workato,Workato,FALSE
+27167,Workday,Workday,FALSE
 36637,Workingmouse,,TRUE
 30212,Workiva,,TRUE
 35495,Worklogix,,TRUE
@@ -13906,7 +13906,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 31997,Worldpay,,TRUE
 28167,Wotif Holdings Limited,,TRUE
 29190,Wowfan.cz,,TRUE
-30313,WP Engine,,FALSE
+30313,WP Engine,WP Engine,FALSE
 35132,WPFog,,TRUE
 28299,WPR Medical,,TRUE
 30349,Wpro Digital,,TRUE
@@ -13935,7 +13935,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 27029,X-ION,,TRUE
 39477,X-Team,,TRUE
 31449,X41 D-Sec,,TRUE
-37252,X4SMART SOLUTIONS S.R.O.,,FALSE
+37252,X4SMART SOLUTIONS S.R.O.,X4SMART SOLUTIONS S.R.O.,FALSE
 36025,Xact Inc,,TRUE
 33757,XAMCHECK,,TRUE
 32067,Xarvio,,TRUE
@@ -13947,31 +13947,31 @@ DA ID,DA Name,SFDC NAME,Calculated
 31864,Xcaliber,,TRUE
 31396,Xda,,TRUE
 33103,Xe.com,,TRUE
-28466,Xebia,,FALSE
+28466,Xebia,Xebia,FALSE
 33540,Xebia France,,TRUE
-32648,XebiaLabs,,FALSE
+32648,XebiaLabs,XebiaLabs,FALSE
 28265,"Xelerated, Inc.",,TRUE
 26724,Xemeti,,TRUE
-39926,Xen Project,,FALSE
+39926,Xen Project,Xen Project,FALSE
 36527,Xenex Enterprises Inc.,,TRUE
 31324,Xens,,TRUE
 28023,"Xentech Solutions, Ltd.",,TRUE
 37988,Xento,,TRUE
 32836,Xeraflop,,TRUE
-32068,Xero,,FALSE
-26758,Xerox,,FALSE
+32068,Xero,Xero,FALSE
+26758,Xerox,Xerox,FALSE
 28368,XeThru by Novelda,,TRUE
 27306,Xevo,,TRUE
-39393,xFlow Research Inc.,,TRUE
-39296,xFlow Research.com,,FALSE
+39393,xFlow Research Inc.,xFlow Research.com,TRUE
+39296,xFlow Research.com,xFlow Research.com,FALSE
 28979,XGlobe,,TRUE
 38485,Xgrid,,TRUE
 29787,Xiachufang,,TRUE
 32124,Xiaohongshu,,TRUE
-29733,XiaoMi,,FALSE
+29733,XiaoMi,XiaoMi,FALSE
 35710,Xidy,,TRUE
-27831,Xilinx,,TRUE
-28228,"Xilinx, Inc.",,FALSE
+27831,Xilinx,"Xilinx, Inc.",TRUE
+28228,"Xilinx, Inc.","Xilinx, Inc.",FALSE
 37472,Xin Gong Chang,,TRUE
 35655,XINDONG,,TRUE
 30361,Xindong Network,,TRUE
@@ -13989,7 +13989,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 39568,xMatters,,TRUE
 27166,XMotra,,TRUE
 36690,XMPT Games,,TRUE
-33629,XO Group,,FALSE
+33629,XO Group,XO Group,FALSE
 31863,XO Tel,,TRUE
 35803,XOE,,TRUE
 37595,Xogeny,,TRUE
@@ -13997,10 +13997,10 @@ DA ID,DA Name,SFDC NAME,Calculated
 39080,Xoom,,TRUE
 31729,Xor,,TRUE
 26249,Xorcom,,TRUE
-34407,Xored,,FALSE
-26610,Xored Software Inc,,TRUE
-31597,Xoriant,,TRUE
-39903,Xoriant Corporation,,FALSE
+34407,Xored,Xored,FALSE
+26610,Xored Software Inc,Xored,TRUE
+31597,Xoriant,Xoriant Corporation,TRUE
+39903,Xoriant Corporation,Xoriant Corporation,FALSE
 33970,XPANDMMI,,TRUE
 33827,Xperious,,TRUE
 38233,Xpertiz s.a.,,TRUE
@@ -14011,7 +14011,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 29058,XPRIZE,,TRUE
 32412,Xref,,TRUE
 30680,XS inc,,TRUE
-27215,XS4ALL,,FALSE
+27215,XS4ALL,XS4ALL,FALSE
 36848,XSeed Capital,,TRUE
 28317,Xsilon,,TRUE
 33281,XSky,,TRUE
@@ -14030,16 +14030,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 34735,YA | Engage,,TRUE
 32571,YACHTLEGEND,,TRUE
 37644,Yagro,,TRUE
-28554,Yahoo,,TRUE
-39822,Yahoo Japan Corporation,,FALSE
-27637,"Yahoo, Inc.",,TRUE
-38306,Yahoo! Inc.,,FALSE
+28554,Yahoo,Yahoo! Inc.,TRUE
+39822,Yahoo Japan Corporation,Yahoo Japan Corporation,FALSE
+27637,"Yahoo, Inc.",Yahoo! Inc.,TRUE
+38306,Yahoo! Inc.,Yahoo! Inc.,FALSE
 31161,YAISE,,TRUE
 28656,Yak Shave,,TRUE
 30901,Yakult Honsha,,TRUE
 37420,Yalantis,,TRUE
 32652,Yammer,,TRUE
-26420,Yandex,,FALSE
+26420,Yandex,Yandex,FALSE
 30700,Yandex Money,,TRUE
 38064,Yantai Dasteck Chemicals,,TRUE
 28084,Yanzi,,TRUE
@@ -14056,9 +14056,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 27901,Yello,,TRUE
 28616,YelloSoft,,TRUE
 29171,Yellow,,TRUE
-39073,YellowDog,,FALSE
-27949,Yelp,,FALSE
-28234,"Yelp, Inc.",,TRUE
+39073,YellowDog,YellowDog,FALSE
+27949,Yelp,Yelp,FALSE
+28234,"Yelp, Inc.",Yelp,TRUE
 27076,Yepa S.r.l.,,TRUE
 30424,YesMastr,,TRUE
 33249,Yesware,,TRUE
@@ -14074,16 +14074,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 39595,Yieldr,,TRUE
 30379,Yik Yak,,TRUE
 39133,Yinnut,,TRUE
-36751,Yipee.io,,FALSE
-30029,Yippie,,TRUE
+36751,Yipee.io,Yipee.io,FALSE
+30029,Yippie,Yipee.io,TRUE
 40645,YKM creative technology,,TRUE
 33499,YLD,,TRUE
 34157,Ymagis,,TRUE
 35731,YNOV,,TRUE
 33866,YOC,,TRUE
 33583,Yoctol,,TRUE
-34569,Yodle,,TRUE
-40605,"Yodlee, Inc.",,FALSE
+34569,Yodle,"Yodlee, Inc.",TRUE
+40605,"Yodlee, Inc.","Yodlee, Inc.",FALSE
 31600,Yoink,,TRUE
 33678,Yokel,,TRUE
 27950,Yokogawa Electric,,TRUE
@@ -14139,17 +14139,17 @@ DA ID,DA Name,SFDC NAME,Calculated
 28816,Z Lab,,TRUE
 36137,"Z-edit.com, LLC",,TRUE
 40241,Zaaksysteem.nl,,TRUE
-26881,Zadara Storage,,FALSE
+26881,Zadara Storage,Zadara Storage,FALSE
 34765,Zagster,,TRUE
 38568,Zain,,TRUE
-27492,Zalando,,FALSE
-33870,Zalando Lounge,,TRUE
-34152,Zaloni,,FALSE
+27492,Zalando,Zalando,FALSE
+33870,Zalando Lounge,Zalando,TRUE
+34152,Zaloni,Zaloni,FALSE
 26580,"Zane Benefits, Inc.",,TRUE
 30968,Zanui,,TRUE
 39127,Zap,,TRUE
 37386,Zapata,,TRUE
-32226,Zapier,,FALSE
+32226,Zapier,Zapier,FALSE
 34424,Zappi,,TRUE
 31764,ZappiStore,,TRUE
 31135,Zarafa,,TRUE
@@ -14171,7 +14171,7 @@ DA ID,DA Name,SFDC NAME,Calculated
 34292,Zeffi,,TRUE
 32495,ZEFR,,TRUE
 40581,ZEISS Digital Innovation,,TRUE
-31755,ZEIT,,FALSE
+31755,ZEIT,ZEIT,FALSE
 26829,Zeitspace,,TRUE
 30827,Zelezara Smederevo,,TRUE
 40447,Zelfstandige,,TRUE
@@ -14180,9 +14180,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 26472,Zend,,TRUE
 37553,Zend by Perforce,,TRUE
 28900,Zend by Rogue Wave Software,,TRUE
-26307,Zendesk,,FALSE
+26307,Zendesk,Zendesk,FALSE
 33581,Zendesk Sell,,TRUE
-38795,Zenefits,,FALSE
+38795,Zenefits,Zenefits,FALSE
 33478,Zenfulfillment,,TRUE
 38991,Zengenti,,TRUE
 33950,ZenGuard,,TRUE
@@ -14212,9 +14212,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 29479,ZEROFAIL Montreal,,TRUE
 29216,Zerofinancial,,TRUE
 32884,ZeroG,,TRUE
-38365,"ZeroLag Communications, Inc.",,FALSE
+38365,"ZeroLag Communications, Inc.","ZeroLag Communications, Inc.",FALSE
 28639,ZeroLatency,,TRUE
-26384,ZeroStack,,FALSE
+26384,ZeroStack,ZeroStack,FALSE
 33956,ZestCore,,TRUE
 28790,Zesty.io,,TRUE
 33211,Zeta Global,,TRUE
@@ -14222,16 +14222,16 @@ DA ID,DA Name,SFDC NAME,Calculated
 40626,Zewail City of Science and Technology,,TRUE
 31096,ZF Group,,TRUE
 32751,ZFP Südwürttemberg,,TRUE
-38624,Zhejiang University,,FALSE
-30504,Zhihu,,FALSE
+38624,Zhejiang University,Zhejiang University,FALSE
+30504,Zhihu,Zhihu,FALSE
 26308,Zhilabs,,TRUE
 38921,Zhongmu,,TRUE
 27638,Zillow,,TRUE
 28509,Zilogic,,TRUE
 26603,Zilogic Systems,,TRUE
 39797,Zimmer Biomet,,TRUE
-30260,Zimperium,,FALSE
-30589,Zinc,,FALSE
+30260,Zimperium,Zimperium,FALSE
+30589,Zinc,Zinc,FALSE
 29497,Zinfinit,,TRUE
 26269,Zing Systems,,TRUE
 29604,Zipkin,,TRUE
@@ -14243,34 +14243,34 @@ DA ID,DA Name,SFDC NAME,Calculated
 32345,zju,,TRUE
 33112,ZJU-SEL,,TRUE
 29528,zlabjp,,TRUE
-26233,Zmanda,,FALSE
+26233,Zmanda,Zmanda,FALSE
 32183,Zmlka,,TRUE
 35793,znly,,TRUE
 37705,Zodiac Interactive,,TRUE
-30332,Zoho,,TRUE
-27849,ZOHO Corporation,,FALSE
+30332,Zoho,ZOHO Corporation,TRUE
+27849,ZOHO Corporation,ZOHO Corporation,FALSE
 36944,Zoku,,TRUE
-36773,Zonar Systems,,FALSE
-28266,Zonbu,,FALSE
+36773,Zonar Systems,Zonar Systems,FALSE
+28266,Zonbu,Zonbu,FALSE
 29779,Zone Media,,TRUE
 35776,Zonevoice,,TRUE
 33626,zoobab,,TRUE
 35467,Zoom.ai,,TRUE
 26729,Zoomcar,,TRUE
-28789,Zoomdata,,FALSE
+28789,Zoomdata,Zoomdata,FALSE
 35097,zooplus,,TRUE
 28383,Zooplus AG,,TRUE
 36817,Zoopy,,TRUE
 39114,Zoover & Weeronline,,TRUE
-37049,Zoox,,FALSE
+37049,Zoox,Zoox,FALSE
 34696,ZOOZ,,TRUE
 32235,Zopa,,TRUE
 28669,ZorgDomein,,TRUE
 34221,ZOZO,,TRUE
 37742,ZP Informatcka s.r.o.,,TRUE
 31090,ZPE,,TRUE
-26804,ZTE,,TRUE
-26689,ZTE Corporation,,FALSE
+26804,ZTE,ZTE Corporation,TRUE
+26689,ZTE Corporation,ZTE Corporation,FALSE
 40484,ZTEK,,TRUE
 30317,Zubrod Farms,,TRUE
 33516,Zuhlke,,TRUE
@@ -14283,9 +14283,9 @@ DA ID,DA Name,SFDC NAME,Calculated
 34895,Zylin AS,,TRUE
 30665,Zymergen,,TRUE
 39662,Zync pty ltd,,TRUE
-33667,Zynga,,TRUE
-28125,"Zynga, Inc.",,FALSE
-27543,ZyXel,,FALSE
+33667,Zynga,"Zynga, Inc.",TRUE
+28125,"Zynga, Inc.","Zynga, Inc.",FALSE
+27543,ZyXel,ZyXel,FALSE
 37415,Бизнес Тренд,,TRUE
 38928,Делимобиль,,TRUE
 40442,Идеальная цена,,TRUE
