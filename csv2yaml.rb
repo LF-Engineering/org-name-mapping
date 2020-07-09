@@ -40,7 +40,7 @@ def convert(csvfn, ymlfn, outfn)
           re += r + '?'
         elsif [' ', "\t"].include?(r)
           re += '[[:space:]]*'
-        elsif ['|', '(', '.', '*', '['].include?(r)
+        elsif ['|', '(', ')', '.', '*', '['].include?(r)
           re += '\\\\' + r + '?'
         else
           unknowns[r] = 0 unless unknowns.key?(r)
